@@ -142,7 +142,7 @@ Chapter Five turns to the aesthetics of the Warez Scene. A fundamental argument 
 
 The sixth and final chapter examines the Scene’s interactions with law enforcement over a two-decade period. Covering the early busts of Operation Cyber Strike in 1997 right through to the 2020 SPARKS raid, this chapter details the different operational strategies that law enforcement has used to clamp down on the Scene. The chapter closes with an appraisal of the success of law enforcement agencies and notes the whack-a-mole style of operations in which takedowns appear only shortlived before the many-headed hydra resumes its operations.
 
-<hr>
+***
 
 This book asks the fundamental question: what is the Warez Scene? The answer is complicated and multi-faceted, but I have arrived at a different definition from other scholars. From all my work on this book, I conclude that the Warez Scene is an illegal, online, alternative reality game with aesthetic subcultural stylings that operates on a quasi-economic basis. It is an anarchically governed free-for-all that has nonetheless developed its own codes of behavior, ethics, activities, and, most importantly, hierarchies of prestige.<sup>75</sup>
 
