@@ -12,7 +12,7 @@ Special thanks of course to Martin Paul Eve and punctum books for releasing the 
 I use pandoc to generate the book from the markdown files. I grabbed the text from the original PDF and edited it by hand.
 
 ```sh
-$ pandoc -o warez.epub \
+pandoc -o warez.epub \
   00-preface.md \
   01-original-pirate-material.md \
   02-setting-the-scene.md \
