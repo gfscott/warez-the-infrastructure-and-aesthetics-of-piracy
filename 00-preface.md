@@ -19,13 +19,22 @@ identifier:
 cover-image: cover.png
 
 ---
+# Support {epub:type=foreword}
+
 Before you start to read this book, take this moment to think about making a donation to [punctum books](https://punctumbooks.com/support/), an independent non-profit press:
 
 https://punctumbooks.com/support/
 
-If you’re reading the e-book, you can click on the image below to go directly to our donations site. Any amount, no matter the size, is appreciated and will help us to keep our ship of fools afloat. Contri- butions from dedicated readers will also help us to keep our commons open and to cultivate new work that can’t find a welcoming port elsewhere. Our ad- venture is not possible without your support.
+If you’re reading the e-book, you can click on the image below to go directly to our donations site. Any amount, no matter the size, is appreciated and will help us to keep our ship of fools afloat. Contributions from dedicated readers will also help us to keep our commons open and to cultivate new work that can’t find a welcoming port elsewhere. Our adventure is not possible without your support.
 
 Vive la Open Access.
+
+<figure>
+
+![](./images/fig.0-hieronymous-bosch-ship-of-fools.jpg)
+
+<figcaption>Fig. 0: Hieronymus Bosch, Ship of Fools (1490–1500)</figcaption>
+</figure>
 
 
 # Copyright notice {epub:type=copyright-page}
@@ -57,17 +66,17 @@ Cover image: Ahmed Adly via Unsplash
 Many individuals have helped me in the writing of this book. My thanks at punctum to Eileen Joy, Vincent W.J. van Gerven Oei, and Lily Brewer. For her brilliantly helpful suggestions on the manuscript, my thanks to Virginia Crisp. Notably, thanks also to Jamie Harries, Ronald Snijder, Paul Tavner, Jake Bickford, James Baker, and John Fink for responding to my queries on degenerative DRM. I owe a debt to Ben Garrett for assembling the DeFacto2 archive that underpins this work. My thanks go also to Iñigo Quilez for permission to include images of his DemoScene productions. With thanks to my friends, in no particular order: Joe Brooker, John and Caroline Matthews, Caroline Edwards, Iain Robert Smith, James and Holly Crow, Helen and Duncan Stringer, Alyson Jakes, Duncan Gray, Richard Hall, Hazel and Michael Vanderhoeven, Siân Adiseshiah, Ernesto Priego, Ben Johnson, Lianne de Mello, Julian Cottee, Doireann Lalor, Mark Blacklock, Peter Christian, Roland Clare, Kay Mendlson, Warren Young, Andy Byers, Mauro Sanchez, Rose Harris-Birtill, Paula Clemente Vega, Tom Grady, Jon Fugler, Bryan Cheyette, Stephen Curry, Don Waters, Ross Mounce, Tobias Steiner, and Sam Moore. Everyone at A Love From Outer Space. Friendship has sustained me through the writing of this book under difficult global circumstances. I hope to see you all on the other side of the coronavirus pandemic. My final thanks, as ever, go to my family — Gill Hinks, Rich Gray, Alyce Magritte, Nova Gray, Mina Gray, Susan Eve, Juliet Eve, Lisa Holloway, Carin Eve, Anthony Eve, Julia Eve, Sam Jones, and Toby Eve — but especially, with all my love, to my wife, Helen.
 
 
-# {epub:type=dedication}
+# Dedication {epub:type=dedication}
 
 _For Nova and Mina, who will not know, for some time, what this book is about_
 
 _and for James, who already does._
 
-# Terminological Notes
+# Terminological Notes {epub:type=foreword}
 
 Throughout this book, the terms “Warez Scene” and “the Scene” are capitalized in order to denote the underground movement. Other terms, such as NukeNets have some capitalisation where there are CamelCase formulations, while some roles do not. User nicknames are specified in the case used by the holder.
 
-# Glossary {epub:type=keywords}
+# Glossary {epub:type=foreword}
 
 <dl epub:type="glossary">
   <dt><b>0day.</b></dt><dd>Refers to the most bleeding-edge access to pirate releases. Its derivation is that access comes “0 days” since its release.</dd>

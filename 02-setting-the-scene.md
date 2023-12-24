@@ -90,13 +90,28 @@ If we are not to conceive of digital piracy in romanticizing anti-capitalist ter
 
   5. Bootleggers.[^58]
 
+
 The remaining chapters of this book primarily focus on the top level of this environment—the topsites and release groups that constitute the network known as the Warez Scene. But it is worth unpacking the lower hierarchies to understand each level’s motivations and conceptualize piracy within these spaces. As Jonas Andersson and Stefan Larsson note, motivations and justifications for participation vary hugely between different types of actors within these areas.[^59] But the Warez Scene can only really be understood by its distinction from other types of piracy, by its differentiation from other forms.
+
+<figure>
+
+![Huizing and van der Wal’s pyramid](./images/fig.1-huizing-van-der-wal-pyramid.png)
+
+<figcaption><i>Figure 1.</i> Huizing and van der Wal’s pyramid. Reproduced under a Creative Commons License.</figcaption>
+</figure>
 
 Different scholars have painted the pyramid differently at different times and with diverse structuring motivations for the hierarchy. Ard Huizing and Jan A. van der Wal, for instance, compare the Scene to private torrents, newsgroups, and public P2P networks (shown in Figure 1).[^60] The structuring logic that Huizing and van der Wal employ is across the axes of “community” or “We-ness,” as they term it. They also use the level of time investment made by members of each tier with a final dimension indicating the relative proportion of users within each segment. That is, for Huizing and van der Wal, the Scene can be characterized as a space of a small userbase, where participants spend a lot of their time as part of a tight-knit community. By contrast, public P2P networks represent the precise opposite on every single one of these traits. The descending area coverage of each tier of the pyramid makes it an excellent metaphorical form for this representation.
 
 As Virginia Crisp has aptly shown, this diagram and all such pyramids are reductive. Her own schema of the formal and informal movie distribution ecology aptly shows the bottlenecks and entry points when filtering through these systems.[^61] It is clear that, in reality, a simple pyramid is reductive of the flows between official and non-official distribution. Despite this, for reasons of concision in this explanatory portion of the book, I stick to a simplified pyramid and hierarchical structure, albeit one that also encompasses non-digital piracy (e.g., bootleggers selling material on street corners). Such an approach confounds, to some extent, Huizing and van der Wal’s setup. Bootleggers likely spend a significant amount of time in their pirate activities, and they profit from it, even if they are not a closely bonded group and even if they are a broader userbase. Starting at the bottom of my structure, it is perhaps easiest to understand the motivations of these bootleggers.[^62]
 
 “Bootleggers” are people who sell pirated material, be it on the streets or online. We should take note that there is sometimes a racialized demonization of the idea of bootlegging, as it often takes place within less economically developed nations.[^63] Nonetheless, such individuals will have a variety of supply chains for their material, which will range from full Scene releases — with the Scene sometimes billed as the key distribution route—right down to home-made copies of media that they legally own but have illegally duplicated.[^64] The motivation of these individuals is crystal clear: they are into piracy in order to make money.[^65] Bootleggers are often confused, as Lee Marshall notes, with “tape traders,” who have, for example, recorded a live gig of jambands such as Phish, the Dave Matthews Band, and the Grateful Dead, who all encourage this practice. Indeed, tape trading is a licit activity in which such bands “permit their audiences to record their live concerts and then let fans trade these recordings amongst themselves on the condition that no money is involved.”[^66] Tape trading is legitimate, as long as it is noncommercial. Bootleggers, by contrast, reintroduce commercial motive into piracy and, as a result, are hated in common both by anti-piracy outfits and, as we shall see, the Scene itself.
+
+<figure>
+
+![Virginia Crisp’s more thorough diagram of distribution sources.](./images/fig.2-virginia-crisp-distribution-sources.png)
+
+<figcaption>Virginia Crisp’s more thorough diagram of distribution sources. Copyright Virginia Crisp, reproduced by kind permission of the author.</figcaption>
+</figure>
 
 Importantly, as I note in several contexts throughout this book, most Scene releases come with strict prohibitions against selling their pirated warez. To be caught bootlegging or selling warez outputs will, in most cases, merit a lifetime “SceneBan.” This has caused a great deal of confusion in the secondary literature. Some work, such as S.M. Furnell’s taxonomy of cybercrime, has totally misread the motivations of Sceners. For while he correctly ascribes “challenge,” “ego,” and “ideology” to Sceners, he also writes erroneously that they operate for “money.”[^67] This goes directly against the vast body of evidence in, say, Scene notices and announcements that decry those who sell warez or access.[^68]
 
