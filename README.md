@@ -24,3 +24,5 @@ pandoc -o warez.epub \
   --reference-location=section \
   --file-scope
 ```
+
+The `--reference-location` and `--file-scope` flags are necessary to properly parse the footnotes in each chapter file. If you run the conversion without them, then you get a pandoc error where the footnote numbers conflict, because they re-start at 1 with each chapter.
