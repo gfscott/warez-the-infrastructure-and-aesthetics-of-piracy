@@ -31,13 +31,34 @@ A human would quickly identify that this release was a decoy solely designed to 
 
 This situation is further complicated by the system of organized rankings and prestige awarded to couriers through the various wkup chart systems in operation. These charts, which are often combined with commentary, and which form the basis on which I have surmised most of the information in this section, go under names such as _Courier Weektop Scorecard_, _The Game Scene Charts_, _Weekly Wanking Stats_, _Scene Charts_, _Retarded Courier Scores_, _Ketchup_, and _The Marshall Mussolini Show_. As above, in each chart, sites are ranked. In the above example of _Courier Weektop Scorecard_, every site was ranked on a 1x multiplier. However, different charts use different rules. Consider, for instance, at random, the rank section of _The Marshall Mussolini Show_ issue 54 from 2003, shown in Figure 7.
 
+<figure>
+
+![Rankings in The Marshall Mussolini Show from 2003.](./images/fig.7-wkup-intro-2003.png)
+
+<figcaption><i>Figure 7.</i> Rankings in <i>The Marshall Mussolini Show</i> from 2003. Source: “Rank,” <i>The Marshall Mussolini Show</i> (tmms_issue_054-2003_48.nfo), December 2003, DeFacto2.</figcaption>
+</figure>
+
 In this chart, points are awarded based on where a courier has placed in the weekly uploaded volume for the site. However, the multiplier for the site, which is based on how difficult it is to trade to that site, determines the points. Hence, scoring first on NB, TR, or XTM is better than scoring first on LC or T, which in turn trump DOT, FEO, etc. The wkup scores are shown in Figure 8.
+
+<figure>
+
+![wkup stats from <i>The Marshall Mussolini Show</i> in 2003.](./images/fig.8-wkup-table-2003.png)
+
+<figcaption><i>Figure 8.</i> wkup stats from <i>The Marshall Mussolini Show</i> in 2003. Source: “wkup,” <i>The Marshall Mussolini Show</i> (tmms_is- sue_054-2003_48.nfo), December 2003, DeFacto2.</figcaption>
+</figure>
 
 Where a courier places depends upon having slots on each of the sites and then scoring within the top twenty wkup. Scoring twentieth awards one point, scoring nineteenth two points, and so on. These site scores are then combined with the multiplier to give a points score. For example, WHiTEHEAT came ninth in the wkup solely on the site LC. This means an award of twelve points. However, because LC is a site ranked 2×, the total points awarded are 24.00, which led to a final placement of position 35 in the charts, having transferred a total of 2,435 megabytes. By contrast, junk scored extremely highly across many sites (for instance, first on NB, T, FEO, MD, RSN), transferring 66,126 megabytes and placing first on the chart in total, with 348.5 points. Indeed, most of the couriers who scored in the top ten appear to be on most sites. sekk1 in position two, for instance, scored in the top twenty on every site. As we move further down the chart, we find couriers who did not place within the top twenty on every site, although it is unclear whether this is because the couriers do not have a slot on these sites or simply failed to score. Other charts use this same approach. _Ketchup_, for instance, writes that “[t]he points are gathered by taking the spot of the site the user achieved, and multiply it with the ranking of that particular site. Example; if the user gets #1 at a 3.0× ranked site; the points would be 20 × 3, which would be 60 points. The points are then being gathered from the sites, and allocated into the weekend score for that user.”[^35]
 
 The introduction to the first issue of _The Marshall Mussolini Show_ exhibits the typical scene traits of boasting, as loudly as possible, about secrecy, scarcity, elitism, and its own organizational setup. As the compilers write, “it is a pleasure to have you as our elite audience! By now, you understand why I call you an elite audience! [...] Some people have access, some do not. If you have access, we are glad to have you. If you do not have access, you wouldn’t see this magazine anyway. [... P]eople who are not supposed to read this magazine will never have a chance to see this.”[^36] Of course, the irony of this statement will not be lost here.
 
 The other common Scene traits that come through in these courier charts, though, and the reason that I have here expanded upon them, is an extremely high level of analytical organization, coupled with a bathetic plunge into puerility and crudity of language. Consider the group standings analysis that was a weekly feature of these charts shown in Figure 9. These feature intricate point calculations for the group’s overall score, including percentage breakdowns for each group member that show whether they have pulled their weight this week. However, each element of group analysis also carries a usually somewhat immature analysis section. Here we can see that EQMP3 (“jokingly” phoneticized with leetspeak to “eekuu Σmpeekolome” or “ee,” “kuu,” “em,” “pee,” and then, for some unknown reason, “kolome”) are referred to as “the tall gay finns,” exhibiting levels of casual homophobia that are reminiscent of 1990s children’s playgrounds and that we saw in Chapter Three’s analysis of Scene humor.
+
+<figure>
+
+![Group analysis from The Marshall Mussolini Show in 2004.](./images/fig.8-wkup-table-2003.png)
+
+<figcaption><i>Figure 8.</i> Group analysis from <i>The Marshall Mussolini Show</i>. Source: “Group Standings,” <i>The Marshall Mussolini Show</i> (tmms_is- sue_071-2004_13.nfo), March 2004, DeFacto2.</figcaption>
+</figure>
 
 At the same time, the sophistication and organization of the chart system are evident in the way that the archive presents it. The courier obtains the chart in question by issuing a command on one of the sites that are ranked by the chart. This is clear from the 200 responses that precede each line and the command seen at the top of such files (“site tmms tmms_issue_071-2004_13. nfo”).[^37] It is clear, from the files in the DeFacto2 archive, that this chart was accessed by using a custom script assigned to a site, in this case “tmms-lister by spirhor version 200211191400.” In this respect, the chart makers are correct to assert that their system is elite and hard to access. The only way to obtain this chart, which nonetheless took a substantial amount of work and organization to create every week, is to be on one of the sites. On the other hand, the DeFacto2 archive has now made this work generally available, presumably against the wishes of the chart’s creators. The chart had stated that “if anybody with access talks, pastes, what the fuck ever in any way shape or form to distribute this text in any form beyond which we are already distributing it, they will have access removed, and their group may suffer a similar fate.”[^38]
 
@@ -158,11 +179,25 @@ The above factors are all seen alongside the CRC (Cyclic Redundancy Check) value
 
 What.CD allowed multiple formats of audio file (e.g., AAC, MP3, and FLAC) and rips within these categories were of varying standards. Varying standards ranged from the mechanics of FLAC files to FLAC files with a log, documenting the rip and its provenance. Using the software “Exact Audio Copy,” for instance, with a 100% log score and a .cue file allowed the end download precisely to reproduce the original CD data layout. Due to these varying standards, dupes in this tracker were a complex matter, as demonstrated in Figure 10.
 
+<figure>
+
+![The What.CD Dupe/“Trump” Chart.](./images/fig.10-what.cd-dupe-chart.png)
+
+<figcaption><i>Figure 10.</i> The What.CD Dupe/“Trump” Chart.</figcaption>
+</figure>
+
 The system of duplicates and format trumping on the audiophile private tracker system of What.CD is much more inclusive and comprehensive than the system used in the FLAC Scene. That is not to say that there is not a hierarchy of releases and duplicates within the Scene. For instance, there are rules about the source media and what can dupe what: “BLURAY cannot dupe any other source, except HDDVD. HDDVD cannot dupe any other source, except BLURAY. CD cannot dupe any other source, except BLURAY and HDDVD. DVD cannot dupe any other source. VINYL cannot dupe any other source.” Vinyl and DVD releases, at the bottom of the list, cannot be duplicates of any other format. If a vinyl version of a CD is available and the CD has already been released in the FLAC Scene, then the vinyl version cannot be ripped and released. Any group who did so would incur a nuke and subsequent penalty.
 
 This is to note that What.CD aimed for comprehensiveness while the FLAC Scene aims at functional uniqueness and privileged the unique rip. What.CD encouraged posting multiple editions that, at times, had inaudible differences, such as minor changes in the data layout on the CD due to manufacturing processes. It also allowed different sources to co-exist in any order. That is, on What.CD users could upload a vinyl version with the same tracklist as an existing CD and not be penalized. The FLAC Scene, by contrast, stipulates that a “release MUST not be a collection of discs that have already all been individually released. For example, releasing a 2CD that combines a CD and EP after they have both been indivually [_sic_] released is not allowed.”
 
 Further, the checking process required to confirm uniqueness in the FLAC Scene is complicated. Rule 2.5 states that a “release MUST not have all its tracks included in one previous release. Examples: a CDS [CD single] cannot be released after a CDM [CD maxi-single] that includes all the tracks on the CDS. An album cannot be released after a boxset that includes all the tracks from that same album. A CDM or CDEP [CD extended play] cannot be released after a release has been reissued with all tracks.” In other words, a release group must check, at the file level, that the tracks in question have not appeared on other releases. That said, the rules on fresh mastering that constitute a new release can make this tricky to ascertain. I argue that the FLAC Scene should not be viewed as a quest for total inclusivity. On the contrary, the rules are designed to make it hard to find new releases, to introduce an element of scarcity into the proceedings, and to increase the Scene’s competitiveness. This fits with the other characteristics of racing and speed obsession in this space, making it a difficult alternative reality game. This “emphasis on only releasing new titles,” argues Virginia Crisp, “inevitably skews the titles that circulate online” in the Scene.[^69]
+
+<figure>
+
+![Checkpoint in 1997.](./images/fig.11-checkpoint-1997.png)
+
+<figcaption><i>Figure 10.</i> Checkpoint in 1997.</figcaption>
+</figure>
 
 In order to determine whether a release is allowed, a ripper and group require access to a dupechecker. A dupechecker is a database of existing releases, often containing the file list and other information about the releases. Given that the Scene has been operative for several decades, comprehensive dupecheckers are large databases. Some dupecheckers—also known as pre-dbs—are public. At the moment, there are several public pre-dbs, of which perhaps the most prominent is srrDB. These sites do not host any warez themselves. Instead, they host metadata about releases. srrDB, for instance, notes in its footer that “srrDB is an historical record of the [W]arez [S]cene. We do not offer illegal downloads nor links to these works. All metadata gets added by our awesome users. Photographs or pictures can be part of these historical records, deemed fair use (news reporting and research) and are only a part of the complete work, but copyrights are owned by their respective creators or right holders.”
 
@@ -192,6 +227,14 @@ Although the impact of this admission remains unclear, it appears to indicate th
 ## Nukes and nukers
 
 The release rule standards, coupled with dupecheck procedures, make for an environment of quality control. It is a space with strict determinations on what is allowed, which is of course ironic given the illicit nature of the environment and its very raison d’être. Yet how is this enforced? In this wild west of a world, how can participants, who have already shown themselves to be lawbreakers in broader society, be compelled to behave according to codes of conduct and rulesets?
+
+<figure>
+
+![The ASCII Art Logo of the Nuke Council by mR n0v08.](./images/fig.12-nuke-council-logo.png)
+
+<figcaption><i>Figure 10.</i> The ASCII Art Logo of the Nuke Council by mR n0v08.
+</figcaption>
+</figure>
 
 The answer is a system known as nuking. To nuke a release means to mark it as bad. Nukes are enforced at the site level. File Transfer Protocol Daemons (FTPDs), such as glftpd, contain a built-in site nuke command that staff can use to mark a release. Nukes also come with multipliers. That is, when a release is marked as nuked 1×, the user who uploaded the release will lose the credit they gained, but they will break even. If a nuke comes with a higher multiplier, the user will lose more than they gained from the upload. At the site level, a nuke of 3×, for instance, would mean that the uploading user would lose three times the credit of their upload size.
 
