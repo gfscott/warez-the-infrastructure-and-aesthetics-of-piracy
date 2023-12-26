@@ -56,6 +56,14 @@ DemoScene programmers must work fractally, coding procedural generation of image
 
 An example of the types of output that the DemoScene creates can be seen in iq, puryx, and mentor’s demo, _elevated_. While additional software was provided by kusma, skrebbel, and blueberry, to get the executable file size down, this production weighed in at a mere 4 kilobytes; that is, sixteen-times smaller than a 64k demo and 12,500,000 times smaller than _Doom Eternal_. _elevated_ presents a procedurally generated flight over a mountain range, covered in snow-topped peaks, shown in Figures 13 and 14. As the authors describe it, with all original phrasing preserved, “this a (too) low density flat mesh displaced with a procedural vertex shader. there arent any texturemaps for texturing, instead texturing (and shading) is defferred and computed procedurally in a full screen quad. this means there is zero overdraw for the quite expensive material at the cost of a single geometry pass. then another second full screen quad computes the motion blur. camera movements are computed by a shader too and not in the cpu, as only the gpu knows the procedural definition of the landscape.”[^32] As this highly technical description indicates, elevated is a complicated mathematical proposition implemented by skilled practitioners. One of its lead authors, iq, Iñigo Quilez, has a formidable background, having worked for Pixar (for instance, creating, painting, shading, and coding the forest’s grass, moss, bushes, tree canopies and weeds in the 2012 film, Brave) and for Facebook’s virtual reality outfit, Oculus. It is also notable that the trick here is to offload much of the processing onto powerful graphical processing hardware (GPU). “[S]ize optimizations,” write the authors, “forced us to ask you for a pretty decent graphics card.”[^33]
 
+<figure>
+
+![Snowy mountain range from “elevated”](./images/fig.13-elevated-1.png)
+![Snowy mountain range from “elevated”](./images/fig.14-elevated-2.png)
+
+<figcaption><i>Figures 13 and 14.</i> Screenshots of <i>elevated</i>. Copyright, the authors. Used by permission of Iñigo Quilez.</figcaption>
+</figure>
+
 _elevated_ combines sophisticated lighting effects, camera motion and motion blur, shadows, and lens flare effects, all while flying over lakes and snowy mountains. Admittedly, for our comparison to games such as _Doom_, in _elevated_, the user does not interact with the mountain scape. Instead, the demo plots its own route over the hills and valleys. The demo also has a cinematic, musical soundtrack built-in with sound-to-light visualization. A virtual synthesizer inside the application, written by puryx, plays the score.
 
 In short, _elevated_ creates a three-dimensional world and flies through it. Of course, it possesses nowhere near the sophistication and complexity of the three-dimensional engines that sit behind third-person shooter games such as _Doom Eternal_. However, the sheer ambition and skill of implementing this world in such a small volume of code and resource space are staggering. Most jobbing programmers would struggle to design something of this quality even with no constraints. To operate within such confines is nothing short of remarkable. It demonstrates just the sort of elite skills and abilities, that few possess, that are treasured by the DemoScene and also by the Warez Scene.
@@ -88,9 +96,24 @@ Ironically, given that NFO files advertise activities, the format’s extension 
 
 NFO files have changed form over time. As Garrett charts, evolutions in the form of NFOs have taken place “both in the information they conveyed and aesthetic layout,” with the changes being spurred through “competition or from a needs basis.”[^50] In Garrett’s historical account, one of the general directions of movement was the redaction of identifying information from the files. “One early change,” as he writes, “was groups or crackers that listed their BBS phone numbers so they could increase their membership of long-distance callers. They believed this could increase users and would improve the catchment and variety of uploads to the bulletin boards. As in the early BBS days there were no true cross-continental groups, let alone an international [S]cene on the PC.” Alongside this editorial function, however, early NFOs also served a verification role. “Later groups,” he writes, “added membership lists and official bulletin board affiliations into their NFOs to stop people from claiming false association with a group.”[^51] As criminalization of Warez activities grew in the 1990s, the NFOs became increasingly cagey. Once “the act of bypassing copy protection became a criminal offence, the more revealing pieces of information had gone from the NFOs.”[^52] Nonetheless, Garrett claims, “even with this self-imposed security censorship, NFO files still were great tools of propaganda for rival groups.”[^53] For this reason, the artistic sentiment and styling of NFO files remained.
 
+<figure>
+
+![BeatMasters International](./images/fig.15-beatmasters-nfo.png)
+
+<figcaption><i>Figure 15.</i> BeatMasters International (BMI) NFO from the year 2000 with ASCII art by hetero/sac.</figcaption>
+</figure>
+
+
 When viewed in a standard text viewer, NFO files can appear very messy. For example, Figure 15 shows one of these files from around the year 2000. As is clear, the file is composed of several accented characters not used in the English language. These include “Ü,” “Ý,” “Þ” and many others.
 
 What may not be immediately clear here is that if one switches the font to an appropriate monospaced terminal style, these characters are transformed into blocks, as shown in Figure 16.
+
+<figure>
+
+![BMI logo in its intended ASCII viewing format](./images/fig.16-beatmasters-ascii.png)
+
+<figcaption><i>Figure 16.</i> The same BMI NFO file transformed into its intended viewing format. ASCII art by hetero/sac.</figcaption>
+</figure>
 
 While the possibly deliberate spelling errors in this document, or “ment,” might dissuade some of the literary merits of such artifacts, the significant point here is very different. Indeed, following the work of Bronaċ Ferran, I believe that these digital documents can best be located within a broad history of visual and spatial concrete poetry that exhibits both constructivist and de(con)structivist tendencies.[^54]
 
