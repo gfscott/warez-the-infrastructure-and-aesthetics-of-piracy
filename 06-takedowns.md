@@ -8,7 +8,41 @@ In this chapter, I detail the major raids conducted against the Scene since the 
 
 Operation Buccaneer was the designation given by the US Customs Service to its raids of the Warez Scene, beginning in October 2000. Buccaneer is usually charted as the first raid against the Scene, but it was actually preceded by Operation Cyber Strike six years earlier, which targeted the Bulletin Board Systems (BBS) precursors to File transfer Protocol (FTP) topsites and on which very little information is available.[^4] That said, a 1997 interview with “The Punisher” claims that Operation Cyber Strike hit some of Razor 1911’s “most prestigious boards” at the time.[^5] A similar but brief interview with The Crazy Little Punk indicated that even at this early stage, it was impossible to avoid raids: “if the feds are going to watch us, they’ll get into our channel secretly and not let us know it. Invite only isn’t going to keep them out.”[^6]
 
-The primary target of the much more ambitious later Operation Buccaneer was the group DrinkOrDie. The US Customs Service referred to this group as “the oldest and most well known” piracy outfit, a claim of dubious merit that many people have called into question.[^7] Other groups hit by the raid included RiSC, Razor 1911, RiSCISO, Request To Send (RTS), ShadowRealm (SRM), WomenLoveWarez (WLW), and POPZ.[^8] A full list of individuals implicated as a result of these raids is shown in Table 2.
+The primary target of the much more ambitious later Operation Buccaneer was the group DrinkOrDie. The US Customs Service referred to this group as “the oldest and most well known” piracy outfit, a claim of dubious merit that many people have called into question.[^7] Other groups hit by the raid included RiSC, Razor 1911, RiSCISO, Request To Send (RTS), ShadowRealm (SRM), WomenLoveWarez (WLW), and POPZ.[^8] A full list of individuals implicated as a result of these raids is shown in Table 2[^9]:
+
+Name | Scene Handle | Charge | Alleged Activities | Groups
+---- | ------------ | ------ | ------------------ | ------
+David Anderson | | | | DrinkOrDie
+Alex Bell | Mr 2940 | Conspiracy to defraud | | DrinkOrDie
+Richard Berry | Flood | Conspiracy | Hardware supplier | DrinkOrDie, POPZ
+Anthony Buchanan | spaceace | Criminal copyright infringement | |
+Andrew Clardy | Doodad | Criminal copyright infringement, Aiding and abetting | | DrinkOrDie, POPZ
+Myron Cole | t3rminal | Criminal copyright infringement | | DrinkOrDie
+James Cudney | BeCre8tive | | | DrinkOrDie
+Ian Dimmock | | Copyright act violations | |
+Steven Dowd | Tim | Conspiracy to defraud | | DrinkOrDie
+Andrew Eardley | | Conspiracy to defraud | |
+Derek Eiser | Psychod | Criminal copyright infringement | | DrinkOrDie
+Barry Erickson Radsl | Radsl | Conspiracy | Supplier | DrinkOrDie, RiSCISO, POPZ
+Hew Raymond Griffiths | Bandido | | | DrinkOrDie, Razor1911
+David A. Grimes | Chevelle | Conspiracy | Supplier and topsite administrator | DrinkOrDie, RiSC, RTS
+Robert Gross | targetpractice | Criminal copyright infringement | | DrinkOrDie
+Nathan Hunt | Azide | Conspiracy | Supplier | CORPS, DrinkOrDie
+Armvid Karstad | ievil | | IRCD administrator | DrinkOrDie, Razor1911
+Kent Kartadinata | Tenkuken | Conspiracy | DrinkOrDie mail server operator | DrinkOrDie
+Michael Kelly | Erupt | Conspiracy | IRC bot operator | AMNESiA, CORE, DrinkOrDie, RiSC
+Stacey Nawara | Avec | Conspiracy | Courier | DrinkOrDie, Razor1911, RTS
+Mike Nguyen | Hackrat | Conspiracy | Site administrator of The Ratz Hole | Razor1911, RiSC
+Dennis Osdashko | | Copyright act violations | |
+Kirk Patrick | thesaint | | Site administrator of GodComplex | DrinkOrDie
+Sabuj Pattanayek | Buj | Conspiracy | Cracker | CORPS, DrinkOrDie, RTS
+Shane Pitman | | | Conspiracy | Razor1911
+John Riffe | blue/blueadept | Criminal copyright infringement | |
+David Russo | Ange | | Software tester | DrinkOrDie
+John Sankus Jr. | eriFlleH | Conspiracy | Co-leader of DrinkOrDie | DrinkOrDie, Harm
+Mark Shumaker | markalso | | |
+Christopher Tresco | BigRar | Conspiracy | Topsite administrator | DrinkOrDie, RiSC
+Mark Vent | | Conspiracy to defraud | |
 
 The Buccaneer raids provide a compelling account of how news spreads within Scene announcement files. For instance, the initial NFO that went around the MP3 scene at the time listed a far more extensive list, totaling thirty-two screen names, than the eventual set of those indicted:
 
