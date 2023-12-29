@@ -279,7 +279,8 @@ It is to this functional, organizational element to which the next chapter is de
 [^50]: Ibid.
 [^51]: Ibid.
 [^52]: lester, “Which Ftpd Is Right for You?”
-[^53]: Ibid. 54 Ibid.
+[^53]: Ibid.
+[^54]: Ibid.
 [^55]: Ibid.
 [^56]: Also analysed by Rehn, “Electronic Potlatch,” 132.
 [^57]: Anthony Bale, “Introduction,” in The Cambridge Companion to the Literature of the Crusades, ed. Anthony Bale (Cambridge: Cambridge University Press, 2018), 1–8.

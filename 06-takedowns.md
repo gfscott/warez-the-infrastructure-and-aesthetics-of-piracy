@@ -220,7 +220,9 @@ In this chapter I have detailed the major busts against the Scene over the past 
 [^77]: Ibid.
 [^78]: Ernesto Van der Sar, “Scene Bust Triggered Historic Drop in ‘Pirate’ Releases,” TorrentFreak, September 4, 2020, https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/.
 [^79]: David Décary-Hétu, “Police Operations 3.0: On the Impact and Policy Implications of Police Operations on the Warez Scene,” Policy & Internet 6, no. 3 (September 2014): 317.
-[^80]: Ibid., 318. 81 Ibid., 321. 82 Ibid.
+[^80]: Ibid., 318.
+[^81]: Ibid., 321.
+[^82]: Ibid.
 [^83]: Ibid., 327.
 [^84]: Ibid., 331.
 [^85]: Michael Bachmann, “Lesson Spurned? Reactions of Online Music Pirates to Legal Prosecutions by the RIAA,” International Journal of Cyber Criminology 1, no. 2 (2007): 213–27.

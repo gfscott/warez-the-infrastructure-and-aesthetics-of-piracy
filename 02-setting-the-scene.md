@@ -335,7 +335,8 @@ The crafts and skills of the Scene are also what make studies like this possible
 [^105]: b-bstf, “Guide to Internet Piracy.”
 [^106]: TonikGin, “IRC XDCC Hacking Exposed,” September 11, 2002, http://www.madchat.fr/reseau/IRC_XDCC_Hacking_Exposed.htm.
 [^107]: Urban Dictionary, s.v. “00mpah,” April 9, 2003, https://www.urbandictionary.com/define.php?term=OOmpah.
-[^108]: 00mpah, “Site list (sites.txt),” May 3, 2003. 109 Ibid.
+[^108]: 00mpah, “Site list (sites.txt),” May 3, 2003.
+[^109]: Ibid.
 [^110]: Ibid.
 [^111]: Ibid.
 [^112]: Ibid.

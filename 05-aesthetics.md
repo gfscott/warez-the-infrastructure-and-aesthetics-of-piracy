@@ -262,7 +262,8 @@ This is all to say that while Scene cultures may appear too esoteric to merit in
 [^29]: Silvast and Reunanen, “Multiple Users, Diverse Users,” 157.
 [^30]: Reunanen, Wasiak, and Botz, “Crack Intros,” 808.
 [^31]: Klint Finley, “The Average Webpage Is Now the Size of the Original Doom,” Wired, April 23, 2016, https://www.wired.com/2016/04/average-webpage-now-size-original-doom/.
-[^32]: TBC and rgba, “elevated (elevated.nfo),” 2009, pouet.net. 33 Ibid.
+[^32]: TBC and rgba, “elevated (elevated.nfo),” 2009, pouet.net.
+[^33]: Ibid.
 [^34]: John Irwin, Scenes (Thousand Oaks: Sage Publications, 1977), 23.
 [^35]: For more on this, see Gabriella Coleman, Coding Freedom: The Ethics and Aesthetics of Hacking (Princeton: Princeton University Press, 2012).
 [^36]: Ibid., 16.

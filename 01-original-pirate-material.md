@@ -210,7 +210,8 @@ What, then, of the financial “scene” with which I opened? I contend that fin
 [^55]: VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
 [^56]: See, for instance: lester, “Which Ftpd Is Right for You?” Netmonkey Weekly Report (Nwr36.Txt), February 22, 1999.
 [^57]: DeFacto2, “Wanted Uploads,” GitHub, March 25, 2019, https://github.com/Defacto2/defacto2.net.
-[^58]: Ibid. 59 Ibid.
+[^58]: Ibid.
+[^59]: Ibid.
 [^60]: Roisin Kiberd, “The Minecraft Server That Will Kill You 1,000 Times,” Newsweek, September 15, 2016, https://www.newsweek.com/2016/09/23/minecraft-anarchy-server-2b2t-will-kill-you-498946.html.
 [^61]: “2b2t Photodiary: Inside Minecraft’s Most Offensive Server,” PCGamesN, October 17, 2016, https://www.pcgamesn.com/minecraft/2b2t-photodiary-inside-minecrafts-most-offensive-server.
 [^62]: “Timeline,” 2b2t Wiki, 2020, https://2b2t.miraheze.org/wiki/Timeline.
@@ -220,8 +221,10 @@ What, then, of the financial “scene” with which I opened? I contend that fin
 [^66]: Robert V. Kozinets, Netnography: Ethnographic Research in the Age of the Internet (Thousand Oaks: Sage Publications, 2010), 151.
 [^67]: Ibid., 153.
 [^68]: Amy Bruckman, “Teaching Students to Study Online Communities Ethically,” Journal of Information Ethics 15, no. 2 (2006): 89.
-[^69]: Kozinets,Netnography,145. 70 Ibid., 144.
-[^71]: Ibid., 145. 72 Ibid.
+[^69]: Kozinets,Netnography,145.
+[^70]: Ibid., 144.
+[^71]: Ibid., 145.
+[^72]: Ibid.
 [^73]: Ibid.
 [^74]: Anthony Grafton, The Footnote: A Curious History (Cambridge: Harvard University Press, 1999), 233.
 [^75]: For more on Scene ethics, see Alf Rehn, Ordered Misbehavior: The Structuring of an Illegal Endeavor (Stockholm: Royal Institute of Technology, 2003).

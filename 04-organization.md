@@ -389,7 +389,8 @@ Numbering the rules for future reference is a notable marker of the Scene’s qu
 [^63]: The quoted material henceforth refers to the document, “Invalid Official FLAC Standard Rules V3.0 (INVALID_OFFICIAL_FLAC_STANDARD_ RULES_V3.0-SCENENOTICE.nfo),” January 9, 2017.
 [^64]: ACME et al., “0day Scene Release Rules (nfo_2010.1_0DAY.nfo),” Scenerules.org, January 12, 2010, scenerules.org.
 [^65]: Ibid.
-[^66]: 2Eleven et al., “Official.FLAC.Standard.Rules v3.0 (nfo_2016_FLAC.nfo).” 67 Ibid.
+[^66]: 2Eleven et al., “Official.FLAC.Standard.Rules v3.0 (nfo_2016_FLAC.nfo).”
+[^67]: Ibid.
 [^68]: “Rules,” What.CD, n.d., http://rescene.wikidot.com/what-cd-rules.
 [^69]: Crisp, “Release Groups & The Scene,” 75.
 [^70]: lester, “Deep Thoughts,” Netmonkey Weekly Report (nwr17.txt), August 16, 1998, DeFacto2.
@@ -400,7 +401,11 @@ Numbering the rules for future reference is a notable marker of the Scene’s qu
 [^75]: Most of this section comes from SheepNet et al., “Nuke Council Rules (nfo_2008_NC.nfo),” Scenerules.org, November 8, 2008, scenerules.org. Unmarked citations should be considered to reference this document.
 [^76]: See “UNNUKE fine_pred.same.second.so.both.rls.are.fine/ZoNeNET” in a pre-db such as srrDb.
 [^77]: lester, “Deep Thoughts.”
-[^78]: Ibid. 79 Ibid. 80 Ibid. 81 Ibid. 82 Ibid.
+[^78]: Ibid. 
+[^79]: Ibid. 
+[^80]: Ibid. 
+[^81]: Ibid. 
+[^82]: Ibid.
 [^83]: “Invalid Official FLAC Standard Rules V3.0 (INVALID_OFFICIAL_FLAC_ STANDARD_RULES_V3.0-SCENENOTICE.nfo).”
 [^84]: For more on the intricacies and recent development of juridical selection in the context of the UK, for instance, see Erin Delaney, “Searching for Constitutional Meaning in Institutional Design: The Debate Over Judicial Appointments in the United Kingdom,” International Journal of Constitutional Law 14, no. 3 (2016): 752–68.
 [^85]: “Invalid Official FLAC Standard Rules V3.0 (INVALID_OFFICIAL_FLAC_ STANDARD_RULES_V3.0-SCENENOTICE.nfo).”
