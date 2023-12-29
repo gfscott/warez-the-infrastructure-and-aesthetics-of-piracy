@@ -159,11 +159,13 @@ Different IRC bouncers provide different functionalities. The most commonly ment
 
 Within site channels, sitebots produce information about topsite activity in human-readable formats. For instance, a typical pre-line might appear thus: “<c***dealr> New Util-PRE! on ‘*’ by fjorre/AOD : COREL.PAINTER.V8.0.PROPER.RIP-CALiMERO.”[^66] This tells us the name of the release and the section, “Util,” alerting interested users to the presence of a new output on the site. However, site announcements also often contain additional information that is of use to traders, including in this case the name of the person and group who has created the release. For instance, consider the test pre line shown in issue 171 of _The Marshall Mussolini Show_: “->PRE<--Woot_a_releaze-trujd-CD-2006-AMRC from AMRC_PRE_MACHINE (1 file(s), 140kB, genre: ??).”[^67] In addition to giving the name of the release, this line also provides information about the number of files, the size, and, although missing here, the musical genre in the case of an MP3 release.[^68] Regarding the later discussion of trading, this information dissemination channel allows for the automated discovery and transfer of releases between sites. This release happens in fact to be a trap though. It is not an actual music release and Sceners would recognize that “trujd” is a leetspeak synonym for “trade.” (Leetspeak is a sub-language of scene discourse to which I will turn later in this chapter.) The trap is set to catch traders who are automatically moving everything from one site to another — the autotrading to which I gestured in the introduction.
 
-Sitebots also provide updates on the status of races on the site, that is, they do not just cover information about releases being pred, but about the particular state of the release on the site. For instance, consider the example provided by Craig:
+Sitebots also provide updates on the status of races on the site, that is, they do not just cover information about releases being pred, but about the particular state of the release on the site. For instance, consider the example[^69] provided by Craig:
 
-> <COGB0T> (COG-NEW) -0519-Flamingpear.Flexify. v1.98.for.Adobe.Photoshop.Incl.Keygen-SCOTCH by xxxxxx(RTS)
-> <COGB0T> (COG-UPD) Flamingpear.Flexify.v1.98.for. Adobe.Photoshop.Incl.Keygen-SCOTCH (1 files expected)
-> <COGB0T> (COG-COMPLETE) Flamingpear. Flexify.v1.98.for.Adobe.Photoshop.Incl.Keygen-SCOTCH (total: 1MB / avg. 2909kB/s) 1. xxxxxx/RTS [1.0M/1F/100.0%/2909KB/s][^69]
+```txt
+<COGB0T> (COG-NEW) -0519-Flamingpear.Flexify. v1.98.for.Adobe.Photoshop.Incl.Keygen-SCOTCH by xxxxxx(RTS)
+<COGB0T> (COG-UPD) Flamingpear.Flexify.v1.98.for. Adobe.Photoshop.Incl.Keygen-SCOTCH (1 files expected)
+<COGB0T> (COG-COMPLETE) Flamingpear. Flexify.v1.98.for.Adobe.Photoshop.Incl.Keygen-SCOTCH (total: 1MB / avg. 2909kB/s) 1. xxxxxx/RTS [1.0M/1F/100.0%/2909KB/s]
+```
 
 While the intricacies of racing and trading are complex, this site log from COG demonstrates many of the basic principles. The trader, whose pseudonym redacted by Craig to “xxxxxx” of the group RTS, creates a new release directory and uploads, first, a Simple File Verification (SFV) file. This file, which contains a list of files in the release and their checksums, allows the site to ascertain the release structure. This structure includes:
 
@@ -183,9 +185,11 @@ Scene discourse, which takes place in these IRC channels, has its own convention
 
 Scene humor is frequently adult in nature yet immature in its content. Sometimes this is not the case. Indeed, some groups have deliberate rules that demand maturity and codes of decorum. For instance, RiSC demands that its members act “maturely” as they “get a lot of respect because of it.”[^77] It was important to this courier group’s image to project the impression that “[w]e’re not children here,” although the demand of members was only that they “NOT be rude or inconsiderate to other RiSC members.”[^78] It seems fine to be rude to members of other groups or to use crudity in humor.[^79] Not all Scene humor is crude, though. Some Scene comedy, for instance, is just zany or related to extremely niche practices that will not be familiar to those on the outside. For instance, the courier magazine, _The Marshall Mussolini Show_ (_TMMS_), had a running in-joke in the issue header where many, but not every, issue after issue 120 was mislabelled “i S S U E . F i F T Y . E i G H T.” “Issue fifty-eight comming at yall,” as issue 124 claims.[^80]
 
-Some of the humor is also related to trading and scene activities themselves. For instance, in _TMMS_ 174 the quote joke reads,
+Some of the humor is also related to trading and scene activities themselves. For instance, in _TMMS_ 174[^81] the quote joke reads,
 
-> <jack> btw, sidenote... i know you’re trading for stats, not creds stats? I trade to pass quota[^81]
+```txt
+<jack> btw, sidenote... i know you’re trading for stats, not creds stats? I trade to pass quota
+```
 
 The joke here is that while trading allows couriers to acquire credits (“creds”) on the site at a usual ratio of 1:3 (for every 1MB uploaded the trader receives 3MB of download), many couriers do not trade for the sake of credits. In fact, they often have more credits than they can use. Instead, they trade in order to compete in the upload-chart statistics that are produced weekly and demonstrate their couriering skill, thereby showcasing their elite access. Indeed, one “releases of the week” section in _TMMS_ reads: “[s]orry i’m not into listening [to] music. Trading is my passion!”[^82] However, sites also have quotas for couriers, who must ensure that they upload a certain volume each month, or they will be automatically deleted from the site.[^83] Usually, for top couriers, passing quota is a trivial matter. Hence, the joke here is that jack says to sidenote that he knows that he is not trading for credits, only for the glory of the statistics, to which sidenote responds that he was, in fact, only trading in order merely to make the quota. Certainly, it’s not a very good joke, but this is the essence of Scene humor. It “might,” as a later issue of _TMMS_ puts it, “also be that you’re just not funny.”[^84]
 
