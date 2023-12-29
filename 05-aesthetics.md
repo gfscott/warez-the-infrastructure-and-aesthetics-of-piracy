@@ -58,8 +58,8 @@ An example of the types of output that the DemoScene creates can be seen in iq, 
 
 <figure>
 
-![Snowy mountain range from “elevated”](./images/fig.13-elevated-1.png)
-![Snowy mountain range from “elevated”](./images/fig.14-elevated-2.png)
+![Snowy mountain range from “elevated”](./images/fig.13-elevated-1.jpg)
+![Snowy mountain range from “elevated”](./images/fig.14-elevated-2.jpg)
 
 <figcaption><i>Figures 13 and 14.</i> Screenshots of <i>elevated</i>. Copyright, the authors. Used by permission of Iñigo Quilez.</figcaption>
 </figure>
