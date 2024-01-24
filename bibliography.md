@@ -1,4 +1,4 @@
-# Bibliography
+# Bibliography {epub:type=bibliography}
 
 By necessity, the bibliography to this work must cite a number of unconventional works that are not covered by standard style manuals. In particular, I need to make reference to NFO files that contain ASCII art and other iNFOrmation about the Warez Scene. As noted more extensively in the introduction, one of the primary sources upon which I draw is the DeFacto2 archive.
 
