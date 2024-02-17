@@ -1,242 +1,52 @@
 # Appendix: Topsites and Dumps in the shroo.ms nfo.sites Collection
 
-This appendix lists the most that is known about a variety of topsites operating at the turn of the millennium using the most recent information that can be gathered about each site from the shroo.ms nfo.sites collection at DeFacto2. Location is inferred from statements such as “ehq” (presumed to mean “European headquarters”) or more specific data where available. Hardware and software configurations are the last known listing. Un- sourced fields in the table are drawn from the NFO referenced in the “sitename” field. For expediency, known affils (“affiliat- eds”) are the last-listed set only in the most recently dated NFO available, unless a non-dated NFO contains more information. Occasionally this means that important affiliation changes are lost (e.g., The Bleach Box was previously an affil of the signifi- cant group, Razor 1911, in October 1996 but seems to have lost this status by December of that year or at least no longer adver- tises it. The same goes for The Boxer Rebellion and Terminal Velocity.).1 Dates of information validity are listed in the refer-
-1 BB, “The Bleach Box Topsite (BBX-bleach.box.1996.10.17.nfo),” October 17, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip; TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1997.12.09.nfo),” December 9, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip; TV, “Terminal Velocity Topsite (TV-terminal.velocity.1998.12.27.
+This appendix lists the most that is known about a variety of topsites operating at the turn of the millennium using the most recent information that can be gathered about each site from the shroo.ms nfo.sites collection at DeFacto2. Location is inferred from statements such as “ehq” (presumed to mean “European headquarters”) or more specific data where available. Hardware and software configurations are the last known listing. Unsourced fields in the table are drawn from the NFO referenced in the “sitename” field. For expediency, known affils (“affiliateds”) are the last-listed set only in the most recently dated NFO available, unless a non-dated NFO contains more information. Occasionally this means that important affiliation changes are lost (e.g., The Bleach Box was previously an affil of the significant group, Razor 1911, in October 1996 but seems to have lost this status by December of that year or at least no longer advertises it. The same goes for The Boxer Rebellion and Terminal Velocity.).[^1] Dates of information validity are listed in the reference. Capitalization of affiliated groups is as written in the NFO. Affiliations do not distinguish between release groups, courier groups, or even individuals, but merely present the listing as shown in the NFO. Sites are ordered by the abbreviation given in the shroo.ms pack, hence some sites are under “T” where their name begins with “The” while others are not.
+
+Sitename | Known Affils | Known Hardware/Software | Location | Siteops and Nukers/Notes
+---|---|---|---|---
+722[^2] | PINNACLE, OXYGEN | | | LooZtrA, Khaotic, Zarkof, Astral0
+Absolute Zero (A0)[^3] | Abrupt, Pentium Force Team, The Force Team, Sea Shell Commando | | | TheViking, Pandy, Pingu
+Area One Four Four (A144)[^4] | EcG, Demise, ACE, Paramount, RTA |“T3 10GB” | USA | BioVirus, BoB
+Always Around Forever (AAF)[^5] | United Warez, NATOSOFT, Impact, Citywarez, Boost, Legendaries | “T1 – 25 GiG” | | Cyberjoy
+Avatar (A) | | | |
+The Abyss (ABY)[^6] | HERiTAGE, DESYNC, AVALON, VOLiTiON | | USA[^7] | 
+AiR Force One (AF1)[^8] | MYTH, Shock, FCN, ECL, UCF, TMG, CSWCN, TST | | Europe[^9] |
+Angel Food (AF)[^10] | ZONE, SiLENCE, XCRYPT, PriORITY, DEMON,LZ0, oDDiTY, PROPHECY, HTG, UCF, RBS | “9Gb”, “2xt3”, “(soon 155mbit)” | Poland |
+The Ant Hill (AH)[^11] | Fate, Masque, Rebels | | |
+Arrakis (AKS)[^12] | myth, htg,int, dqf, tmg, fcn, amnesia, privcd, dvnvcd, dominion, divxcz, lfc, pdxn64, nme, cms, bpm, chr, ego | “4 bxs.eu” | Europe |
+Agnos Land (AL)[^13] | | | | 
+Althea (ALT)[^14] | KFK, IrN, KAC, MOTiV8 | “80 GiGz”, “OC3 Link” | USA | 
+Ambiquous (AMB)[^15] | Renaissance, RiSE, GPF, Divine Canadian, RTN, GCRACK NA | | Canada | 
+The Angry Moose (AM)[^16] | CoRE, PtM, dSC, tfH, PiRASofT | “T1”, “9 Gigs Online” | | 
+Apocalypse (APC)[^17] | AMNESiA, REBELS, DiViNE,TFT, MiSSiON | | Europe |
+Alpha Stor age Place (ASP)[^18] | AMNESiA, X-FoRcE, ONYX | |  USA[^19] | 
+Atlantis (ATL)[^20] | CORE, MYTH, PARADOX, oDDiTy, LIZZARD, ZENITH, LAXiTY, UCF, HERiTAGE, LaTeX, AOD, HSCONSOLE, LNDiSO, CNCiSO, RBSiSO, PDXCONSOLE | “100 MBIT” | |
+Atomic-X (ATX)[^21] | KAC, ORIGIN, pHASE, VENGEANCE, RENEGADE, REVOLUTION | | USA | 
+Alternate Void (AV)[^22] | FCN, UCF2000, PHX, EcGiSO | “10 Mb/s”, “20 Gigs” | Canada | 
+A Violent Fluid (AVF)[^23] | TRPS, CRC, EXPRESS, MAGi, ZODIAC, nZPD, SSC | “12+ GiG”, “MULTi-T1 connection [T1x5]” | | 
+Avalon (AVL)[^24] | IWA, DWA, GLOW, ISOWORLD, REALM, DISFUNCTION, ILLISIVE, DTD, MOI | “30GB” | |
+Another World (AW)[^25] | ESPRiT, ECLiPSE, PINNACLE, ESPIRIT, FLUKE | | Europe |
+Alien Zone (AZ)[^26] | HERITAGE, DUNE, FUSION | “t3+ speed”, “50 GiG” | Europe | ActArUS, CybeRBoB, Cdogg 
+Back to Babylon (B2B)[^27] | Robinhood, Rockdorce, SYNiCAL, Coalition, WLW, SWP, RTS, iNTENSiTY, DK, Weapon, PREVAiL, FFB, Pride, SCE | | | Atomik
+Beyond All Reality (BAR)[^28] | FLUKE, AMBiENCE, EM- BRACE, EPS, LND, oDDiTy, AMNESiA, ElilApda, OriON, NLRiP, RTP, JADE, CAiNE | “100Mbit FD”, “100 Gb” | The Netherlands |
+Basilica (BAS)[^29] | CORP, CST, DMSISO, RBSISO | “LINUX/ GLFTPD”, “50+ GIGS” | | 
+Brand Beer 2 (BB2)[^30] | ENTiTY, DYNASTY, PARADiGM, UCF, DiMENSiON | | Europe | 
+Busy Beavers (BB)[^31] | ReZ, GWA, BLiZzARD | “34 MBit”, “50 GB”, “LiNUX”, “gl-FTPd” | | Hoopy, Stefan_, JG, AC-504, MeDlor, Twister, Cruller
+The Bleach Box (BBX)[^] | RiSC, Scotch, FCN | “250 GB” bftpd[^33] | USA |
+Beat Diz (BZ)[^34] | CROSSFIRE, CiA, Priority, FLUKE, LaTeX, CEREbRi | | USA |
+Black Forge (BF)[^35] | ADDICTION, PHOENIX, GPF, TRPS, MAD | “30 GB”, “Blazing Fast Cable” | | 
+Black Lotus (BL)[^36] | | “Linux-2.0.30”, “xftpd”, “5 gigz”, “T1 link-up speed” | | Debber
+The Blade (BLD)[^37] | Nobliege, Esprit, Versus | | Europe | 
+Blizzard (BLIZ)[^38] | 2000AD, REVOLT, DEVOTiON | | Europe[^39] | 
+Byte Me (BM)[^40] | 2000AD, CRC, iTR, PDM, KALiSTO | “T3”, “103GB+” | USA |
+Blood Pit (BP)[^41] | Havoc97, Tft, Goe | “T1”, “8Gb” “3 Online CD:s” “Offline Requesting” | | Zilch, Aardvack
+Bits Per Second (BPS)[^42] | | | | 
+Babylon Trading Post (BTS)[^43] | CRC, SYNICAL, EWA, W1W, KYLIN, ILL, LG, SWP | “Dual T1 Speed”, “18 Gigs Online” | USA | Vortech, ShagNasty, JeSsTeR, A1odor <br><br>**Hardware providers:** N.O.S., Fitz, R00K, ANON
+The Beggar’s Tomb (BT)[^44] | NATOsoft, zerawleets | “t1”, “13+gb” | | hammer, fo_twenny
+The Bull (BULL)[^45] | | | | 
 
 
-ence. Capitalization of affiliated groups is as written in the NFO. Affiliations do not distinguish between release groups, courier groups, or even individuals, but merely present the listing as shown in the NFO. Sites are ordered by the abbreviation given in the shroo.ms pack, hence some sites are under “T” where their name begins with “The” while others are not.
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-PINNACLE, OXYGEN
-LooZtrA, Khaotic, Zarkof, Astral0
- Absolute Abrupt,
-Zero (A0)3 Pentium Force
-Team, The Force Team, Sea Shell Commando
-Always United Warez, Around For- NATOSOFT, ever (AAF)5 Impact, City-
-warez, Boost, Legendaries
-“T1 – 25 GiG”
-TheViking, Pandy, Pingu
-Cyberjoy
-Area One Four Four (A144)4
-EcG, Demise, ACE, Para- mount, RTA
-“T3 10GB”
-USA
-BioVirus, BoB
-Avatar (A)
- nfo),” December 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip. For more on the longstanding significance of Razor 1911, see Patryk Wasiak, “Telephone Networks, BBSes, and the Emergence of the Transnational ‘Warez Scene’,” History and Technology 35, no. 2 (2019): 189.
-2 722, “722 Topsite (722-722.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-3 A0, “Absolute Zero Topsite (A0-absolute.zero.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-4 A144, “Area One Four Four Topsite (A144-area.one.four.four.XXXX. XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-5 AAF, “Always Around Forever Topsite (AAF-always.around.forev- er.1998.07.18.nfo),” July 18, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
 
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Abyss (ABY)6
-Angel Food (AF)10
-HERiTAGE, DESYNC, AVALON, VOLiTiON
-ZONE, SiLENCE, XCRYPT, PriORITY, DEMON,LZ0, oDDiTY, PROPHECY, HTG, UCF, RBS
-USA7
-“9Gb” Poland “2xt3”
-“(soon
-155mbit)”
- AiR Force One (AF1)8
-MYTH, Shock, FCN, ECL, UCF, TMG, CSWCN, TST
-Europe9
-The Ant Hill (AH)11
-Fate, Masque, Rebels
- 6 ABY, “The Abyss Topsite (ABY-abyss.1999.06.28.nfo),” June 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-7 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo),” January 20, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-8 AF1, “AiR Force One Topsite (AF1-air.force.one.2000.04.12.nfo),” April 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-9 AF1, “AiR Force One Topsite (AF1-air.force.one.1998.02.12.nfo),” February 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-10 AF, “Angel Food Topsite (AF-angel.food.2000.09.21.nfo),” September 21, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-11 AH, “The Ant Hill Topsite (AH-the.anthill.1997.06.18.nfo),” June 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Arrakis (AKS)12
-Althea (ALT)14
-The Angry Moose (AM)16
-myth, htg,int, “4 bxs.eu” Europe dqf, tmg, fcn,
-amnesia, privcd,
-dvnvcd, domin-
-ion, divxcz, lfc, pdxn64, nme, cms, bpm, chr, ego
-KFK, IrN, KAC, “80 GiGz” USA MOTiV8 “OC3 Link”
-CoRE, “T1”
-PtM,dSC, tfH, “9 Gigs Online” PiRASofT
- Agnos Land (AL)13
-Ambiquous (AMB)15
-Renaissance, RiSE, GPF, Di- vine Canadian, RTN, GCRACK NA
-Canada
-Apocalypse (APC)17
-AMNESiA, REBELS, DiViNE,TFT, MiSSiON
-Europe
- 12 AKS, “Arrakis Topsite (AKS-arrakis.2000.06.01.nfo),” June 1, 2000, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-13 AL, “Agnos Land Topsite (AL-agnos.land.1998.09.06.nfo),” September 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-14 ALT, “Althea Topsite (ALT-althea.1999.09.22.nfo),” September 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-15 AMB, “Ambiquous Topsite (AMB-ambiquous.1998.02.18.nfo),” February 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-16 AM, “The Angry Moose Topsite (AM-the.angry.moose.1997.08.06.nfo),” August 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-17 APC, “Apocalypse Topsite (APC-apocalypse.1999.12.10.nfo),” December 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Alpha Stor- age Place (ASP)18
-AMNESiA, X- USA19 FoRcE, ONYX
- Atlantis (ATL)20
-CORE, MYTH, PARADOX, oDD-
-iTy, LIZZARD, ZENITH, LAXiTY, UCF, HERiTAGE, LaTeX, AOD, HSCONSOLE, LNDiSO, CN- CiSO, RBSiSO, PDXCONSOLE
-“100 MBIT”
-Atomic-X (ATX)21
-KAC, ORIGIN, USA pHASE,
-VENGEANCE,
-RENEGADE,
-REVOLUTION
-Alternate Void (AV)22
-FCN, UCF2000, PHX, EcGiSO
-“10 Mb/s” “20 Gigs”
-Canada
- 18 ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-19 ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1997.10.12. nfo),” October 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-20 ATL, “Atlantis Topsite (ATL-atlantis.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-21 ATX, “Atomic-X Topsite (ATX-atomic.x.1999.05.05.nfo),” May 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-22 AV, “Alternate Void Topsite (AV-alternate.void.1998.11.26.nfo),” November 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-A Vio- lent Fluid (AVF)23
-TRPS, CRC, EXPRESS, MAGi, ZO- DIAC, nZPD, SSC
-ESPRiT, ECLiPSE, PINNACLE, ESPIRIT, FLUKE
-Robinhood, Rockdorce, SYNiCAL, Coa- lition, WLW, SWP, RTS, iNTENSiTY, DK, Weapon, PREVAiL, FFB, Pride, SCE
-“12+ GiG” “MULTi-T1 connection [T1x5]”
-Europe
-Atomik
- Avalon (AVL)24
-IWA, DWA, GLOW, ISOWORLD, REALM, DIS- FUNCTION, ILLISIVE, DTD, MOI
-“30GB”
-Another World (AW)25
-Back to Babylon (B2B)27
-Alien Zone (AZ)26
-HERITAGE, DUNE, FU- SION
-“t3+ speed” “50 GiG”
-Europe
-ActArUS, CybeRBoB, Cdogg
- 23 AVF, “A Violent Fluid Topsite (AVF-a.violent.fluid.1997.11.18.nfo),” Novem- ber 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-24 AVL, “Avalon Topsite (AVL-avalon.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-25 AW, “Another World Topsite (AW-another.world.1999.07.02.nfo),” July 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-26 AZ, “Alien Zone Topsite (AZ-alien.zone.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-27 B2B, “Back to Babylon Topsite (B2B-back.to.babylon.1998.05.21.nfo),” May 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Beyond All Reality (BAR)28
-FLUKE, AMBi- ENCE, EM- BRACE, EPS, LND, oDDiTy, AMNESiA, Eli- lApda, OriON, NLRiP, RTP, JADE, CAiNE
-“100Mbit FD” “100 Gb”
-The Neth- erlands
- Basilica CORP, CST, (BAS)29 DMSISO,
-RBSISO
-Busy BeaversReZ, GWA, (BB)31 BLiZzARD
-“LINUX/ GLFTPD” “50+ GIGS”
-“34 MBit” “50 GB” “LiNUX” “gl-FTPd”
-Hoopy, Stefan_, JG, AC-504, MeDlor, Twister, Cruller
-Brand Beer 2 (BB2)30
-ENTiTY, DYNASTY, PARADiGM, UCF, DiMEN- SiON
-Europe
-The Bleach Box (BBX)32
-RiSC, Scotch, FCN
-“250 GB” bftpd33
-USA
- 28 BAR, “Beyond All Reality Topsite (BAR-beyond.all.reality.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-29 BAS, “Basilica Topsite (BAS-basilica.1999.04.22.nfo),” April 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-30 BB2, “Brand Beer 2 Topsite (BB2-brand.beer.two.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-31 BB, “Busy Beavers Topsite (BB-busy.beavers.1999.03.25.nfo),” March 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-32 BB, “The Bleach Box Topsite (BBX-bleach.box.1996.12.19.nfo),” December 19, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-33 lester, “Which Ftpd Is Right for You?,” Netmonkey Weekly Report (Nwr36.
-Txt), February 22, 1999.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Beat Diz (BZ)34
-Black Lotus (BL)36
-Blizzard (BLIZ)38
-2000AD, RE- VOLT, DEVO- TiON
-USA
-“Linux-2.0.30” Debber “xftpd”
-“5 gigz”
-“T1 link-up
-Europe39
-CROSSFIRE, CiA, Priority, FLUKE, LaTeX, CEREbRi
-speed”
- Black Forge (BF)35
-ADDICTION, PHOENIX, GPF, TRPS, MAD
-“30 GB” “Blazing Fast Cable”
-The Blade (BLD)37
-Nobliege, Esprit, Versus
-Europe
-Byte Me (BM)40
-2000AD, CRC, iTR, PDM, KALiSTO
-“T3” “103GB+”
-USA
- 34 BDZ, “Beat Diz Topsite (BDZ-beatdiz.2000.11.20.nfo),” November 20, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-35 BF, “Black Forge Topsite (BF-black.forge.1998.05.01.nfo),” May 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-36 BL, “Black Lotus Topsite (BL-black.lotus.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-37 BLD, “The Blade Topsite (BLD-the.blade.1998.03.23.nfo),” March 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-38 BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.12.06.nfo),” December 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-39 BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.06.02.nfo),” June 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-40 BM, “Byte Me Topsite (BM-byte.me.1999.04.15.nfo),” April 15, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-Blood Pit Havoc97, Tft, “T1” (BP)41 Goe “8Gb”
-“3 Online CD:s” “Offline Re- questing”
-Babylon CRC, SYNICAL,“Dual T1 USA
-Zilch, Aardvack
-Vortech, ShagNasty, JeSsTeR, A1odor
-Hardware providers: N.O.S., Fitz, R00K, ANON
-Trading Post EWA, W1W, (BTS)43 KYLIN, ILL,
-LG, SWP
-Speed”
-“18 Gigs On- line”
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
- Bits Per Sec- ond (BPS)42
-The Beggar’s Tomb (BT)44
-NATOsoft, zerawleets
-“t1” “13+gb”
-hammer, fo_twenny
-The Bull (BULL)45
- 41 BP, “Blood Pit Topsite (BP-blood.pit.1997.04.04.nfo),” April 4, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-42 BPS, “Bits Per Second Topsite (BPS-bits.per.second.2000.07.03.nfo),” July 3, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-43 BTP, “Babylon Trading Post Topsite (BTP-babylon.trading.post.XXXX. XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-44 BT, “The Beggar’s Tomb Topsite (BT-the.beggars.tomb.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-45 BULL, “The Bull Topsite (BULL-the.bull.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
 
 
  Sitename
@@ -2202,3 +2012,51 @@ Known Hard- ware/Software
 Location
 Siteops and Nukers/ Notes
  434ZL, “Z Land Topsite (ZL-zland.1998.12.02.nfo),” December 2, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+
+### FOOTNOTES
+
+1 BB, “The Bleach Box Topsite (BBX-bleach.box.1996.10.17.nfo),” October 17, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip; TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1997.12.09.nfo),” December 9, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip; TV, “Terminal Velocity Topsite (TV-terminal.velocity.1998.12.27.nfo),” December 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip. For more on the longstanding significance of Razor 1911, see Patryk Wasiak, “Telephone Networks, BBSes, and the Emergence of the Transnational ‘Warez Scene’,” History and Technology 35, no. 2 (2019): 189.
+2 722, “722 Topsite (722-722.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+3 A0, “Absolute Zero Topsite (A0-absolute.zero.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+4 A144, “Area One Four Four Topsite (A144-area.one.four.four.XXXX. XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+5 AAF, “Always Around Forever Topsite (AAF-always.around.forev- er.1998.07.18.nfo),” July 18, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+6 ABY, “The Abyss Topsite (ABY-abyss.1999.06.28.nfo),” June 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+7 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo),” January 20, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+8 AF1, “AiR Force One Topsite (AF1-air.force.one.2000.04.12.nfo),” April 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+9 AF1, “AiR Force One Topsite (AF1-air.force.one.1998.02.12.nfo),” February 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+10 AF, “Angel Food Topsite (AF-angel.food.2000.09.21.nfo),” September 21, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+11 AH, “The Ant Hill Topsite (AH-the.anthill.1997.06.18.nfo),” June 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+12 AKS, “Arrakis Topsite (AKS-arrakis.2000.06.01.nfo),” June 1, 2000, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+13 AL, “Agnos Land Topsite (AL-agnos.land.1998.09.06.nfo),” September 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+14 ALT, “Althea Topsite (ALT-althea.1999.09.22.nfo),” September 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+15 AMB, “Ambiquous Topsite (AMB-ambiquous.1998.02.18.nfo),” February 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+16 AM, “The Angry Moose Topsite (AM-the.angry.moose.1997.08.06.nfo),” August 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+17 APC, “Apocalypse Topsite (APC-apocalypse.1999.12.10.nfo),” December 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+18 ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+19 ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1997.10.12. nfo),” October 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+20 ATL, “Atlantis Topsite (ATL-atlantis.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+21 ATX, “Atomic-X Topsite (ATX-atomic.x.1999.05.05.nfo),” May 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+22 AV, “Alternate Void Topsite (AV-alternate.void.1998.11.26.nfo),” November 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+23 AVF, “A Violent Fluid Topsite (AVF-a.violent.fluid.1997.11.18.nfo),” Novem- ber 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+24 AVL, “Avalon Topsite (AVL-avalon.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+25 AW, “Another World Topsite (AW-another.world.1999.07.02.nfo),” July 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+26 AZ, “Alien Zone Topsite (AZ-alien.zone.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+27 B2B, “Back to Babylon Topsite (B2B-back.to.babylon.1998.05.21.nfo),” May 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+28 BAR, “Beyond All Reality Topsite (BAR-beyond.all.reality.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+29 BAS, “Basilica Topsite (BAS-basilica.1999.04.22.nfo),” April 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+30 BB2, “Brand Beer 2 Topsite (BB2-brand.beer.two.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+31 BB, “Busy Beavers Topsite (BB-busy.beavers.1999.03.25.nfo),” March 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+32 BB, “The Bleach Box Topsite (BBX-bleach.box.1996.12.19.nfo),” December 19, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+33 lester, “Which Ftpd Is Right for You?,” Netmonkey Weekly Report (Nwr36.Txt), February 22, 1999.
+34 BDZ, “Beat Diz Topsite (BDZ-beatdiz.2000.11.20.nfo),” November 20, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+35 BF, “Black Forge Topsite (BF-black.forge.1998.05.01.nfo),” May 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+36 BL, “Black Lotus Topsite (BL-black.lotus.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+37 BLD, “The Blade Topsite (BLD-the.blade.1998.03.23.nfo),” March 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+38 BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.12.06.nfo),” December 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+39 BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.06.02.nfo),” June 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+40 BM, “Byte Me Topsite (BM-byte.me.1999.04.15.nfo),” April 15, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+41 BP, “Blood Pit Topsite (BP-blood.pit.1997.04.04.nfo),” April 4, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+42 BPS, “Bits Per Second Topsite (BPS-bits.per.second.2000.07.03.nfo),” July 3, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+43 BTP, “Babylon Trading Post Topsite (BTP-babylon.trading.post.XXXX. XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+44 BT, “The Beggar’s Tomb Topsite (BT-the.beggars.tomb.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+45 BULL, “The Bull Topsite (BULL-the.bull.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
