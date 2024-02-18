@@ -16,7 +16,7 @@ identifier:
   text: doi:10.53288/0339.1.00
 - scheme: LCCN
   text: 2021951510
-cover-image: cover.png
+cover-image: images/cover.png
 
 ---
 # Support {epub:type=foreword}
@@ -36,6 +36,7 @@ Vive la Open Access.
 <figcaption>Fig. 0: Hieronymus Bosch, Ship of Fools (1490–1500)</figcaption>
 </figure>
 
+\newpage{}
 
 # Copyright notice {epub:type=copyright-page}
 
@@ -61,10 +62,13 @@ Book design: Vincent W.J. van Gerven Oei
 
 Cover image: Ahmed Adly via Unsplash
 
+\newpage{}
+
 # Acknowledgements {epub:type=acknowledgements}
 
 Many individuals have helped me in the writing of this book. My thanks at punctum to Eileen Joy, Vincent W.J. van Gerven Oei, and Lily Brewer. For her brilliantly helpful suggestions on the manuscript, my thanks to Virginia Crisp. Notably, thanks also to Jamie Harries, Ronald Snijder, Paul Tavner, Jake Bickford, James Baker, and John Fink for responding to my queries on degenerative DRM. I owe a debt to Ben Garrett for assembling the DeFacto2 archive that underpins this work. My thanks go also to Iñigo Quilez for permission to include images of his DemoScene productions. With thanks to my friends, in no particular order: Joe Brooker, John and Caroline Matthews, Caroline Edwards, Iain Robert Smith, James and Holly Crow, Helen and Duncan Stringer, Alyson Jakes, Duncan Gray, Richard Hall, Hazel and Michael Vanderhoeven, Siân Adiseshiah, Ernesto Priego, Ben Johnson, Lianne de Mello, Julian Cottee, Doireann Lalor, Mark Blacklock, Peter Christian, Roland Clare, Kay Mendlson, Warren Young, Andy Byers, Mauro Sanchez, Rose Harris-Birtill, Paula Clemente Vega, Tom Grady, Jon Fugler, Bryan Cheyette, Stephen Curry, Don Waters, Ross Mounce, Tobias Steiner, and Sam Moore. Everyone at A Love From Outer Space. Friendship has sustained me through the writing of this book under difficult global circumstances. I hope to see you all on the other side of the coronavirus pandemic. My final thanks, as ever, go to my family — Gill Hinks, Rich Gray, Alyce Magritte, Nova Gray, Mina Gray, Susan Eve, Juliet Eve, Lisa Holloway, Carin Eve, Anthony Eve, Julia Eve, Sam Jones, and Toby Eve — but especially, with all my love, to my wife, Helen.
 
+\newpage{}
 
 # Dedication {epub:type=dedication}
 
@@ -72,9 +76,13 @@ _For Nova and Mina, who will not know, for some time, what this book is about_
 
 _and for James, who already does._
 
+\newpage{}
+
 # Terminological Notes {epub:type=foreword}
 
 Throughout this book, the terms “Warez Scene” and “the Scene” are capitalized in order to denote the underground movement. Other terms, such as NukeNets have some capitalisation where there are CamelCase formulations, while some roles do not. User nicknames are specified in the case used by the holder.
+
+\newpage{}
 
 # Glossary {epub:type=foreword}
 
