@@ -1,15 +1,16 @@
 # _Warez: The Infrastructure and Aesthetics of Piracy_, by Martin Paul Eve
-## ePub version
 
-This repo contains the raw materials for my conversion of [_Warez_](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/), published by [punctum books](https://punctumbooks.com/), into ePub format.
+## EPUB version
 
-_Warez_, like nearly all of punctum’s books, was originally released as a free PDF, but I found that difficult to read on my phone. Since it was released under a CC BY-NC-SA 4.0 International licence, I took the liberty of format-shifting the text and re-releasing it here. [This comment](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/#comment-215720) from punctum books co-director Eileen Joy suggests they’re cool with that.
+This repo contains the text files for my EPUB conversion of [_Warez: The Infrastructure and Aesthetics of Piracy_](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/), originally published by [punctum books](https://punctumbooks.com/) and re-released here, somewhat ironically, with the permission of the author.
 
-Special thanks of course to Martin Paul Eve and punctum books for releasing the book under a permissive licence that allows this knowledge to be shared.
+_Warez_, like nearly all of punctum’s books, was originally released as a free PDF, but I found that format difficult to read on my phone. Since it was released under a [CC BY-NC-SA 4.0 International](LICENSE) licence, I took the liberty of format-shifting the text. punctum books co-director Eileen Joy has previously indicated that [they’re cool with that](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/#comment-215720).
+
+Special thanks of course to Martin Paul Eve and punctum for releasing the book under a permissive licence that allows this knowledge to be shared. I’ve made a donation to punctum to support their work, and if you download the EPUB version I [encourage you to do the same](https://punctumbooks.com/support/).
 
 ## Build process
 
-I use pandoc to generate the book from the markdown files. I grabbed the text from the original PDF and edited it by hand.
+I use [pandoc](https://pandoc.org) to generate the ebook from the markdown files. I grabbed the text from the original PDF and, for the most part, edited it by hand.
 
 ```sh
 pandoc -o warez.epub \
@@ -30,5 +31,8 @@ The `--reference-location` and `--file-scope` flags are necessary to properly pa
 
 ## Relevant links
 
+- Buy the book: [_Warez: The Infrastructure and Aesthetics of Piracy_](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/)
+- Author: [Martin Paul Eve](https://eve.gd)
+- Publisher: [punctum books](https://punctumbooks.com/)
 - [Creating an ebook with pandoc](https://pandoc.org/epub.html)
 - [pandoc manual for epubs](https://pandoc.org/MANUAL.html#epubs)
