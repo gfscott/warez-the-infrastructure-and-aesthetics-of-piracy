@@ -121,640 +121,117 @@ Fuckin Stoned (FS)[^126] | OVeRDRiVe, RTP, Rta, IMPaCT | “17 GiGS”, “DuaL 
 Fusion (FSN)127 | AVN, CERTISO, RTN, DARKMOOR, FATAL, ROOTGEMS, HI-JACK, MERIDIAN | | Europe | 
 Fucked Up Beyond All Recognition (FUBAR)[^128] | | “DualT1”, “6 GiGS”, “Plus 5 ONLiNE Cdz”, “LiNUX”, “XFTPD pimped” | USA[^129] | 
 General Failure (GF)[^130] | OVERKiLL | | | 
+Guru Heaven (GH)[^131] | RPR, DEV, PNC, M8, RTS, OB | | | 
+Guru Meditation (GM)[^132] | MiRAGE, DOD, AMNESiA | | |
+Genesis (GNS)[^133] | MnM, EtP, QuoruM | “10 Machines Running RedHat Linux v5.2”, “190 GigS”, “250 kbps Cable Modem Site / In & Out!”, “GLFTPD” | | BadThrax, ZipPer2
+Green Skull (GS)[^134] | | | | Busted, Rare
+Hemispheres Two (H2)[^135] | Class, Dimension, Pentium Force Team, RiscISO, PiR8s Gone Crazy | “This site is powered by PiMPD”, “T3 Speed”, “26 Gb”[^136] | USA | 
+Highway 2 Hell (H2H)[^137] | FALLEN, PROPHECY, MUTH, RiSC, FCN, TFT, DVNiSO, TFTiSO | | Europe | 
+Holocron (HCN)[^138] | EViL, ATC | “T3”, “20GB” | | MerCurion, Slick, Ryche
+Hades (H)[^139] | PENTiUM FORCE TEAM, RiSE, GCRACK, THE REVIEWER’S GUiLD, DiMENSiON, CLASS | HADES FTPD[^140] | Europe | 
+Hard Floor (HF)[^141] | ORIGIN, DRINK OR DIE | | | 
+Hell Fire (HF)[^142] | MOTiV8 | | |
+The Happy Hippo (HH)[^143] | ECG, captiveX, HI-JACK | “T3”, “12GiGS” | | 
+Hades on Earth (HOE)[^144] | DiMENSiON, CLASS, RiSE, PiNNACLE, DARKSTAR | | | 
+Hall of Illusions (HOL)[^145] | RiSC, RAZOR 1911, X-FORCE, BliZZARD, RADiUM, Dsi, LAXiTY | | | 
+House of Music (HOM)[^146] | CORE, TMG, DiSTINCT, INTENSION, CNC, DWP, EVIL, OxYGeN, ODDITY, DAMN, BLH, MIB, COREP- DA, POEPDA, UCFPDA | | Europe | 
+Hall of Warez (HOW)[^147] | REFLUX, OUTBREAK, GENX, MOTIV8 | | | 
+Hard Wired (HW)[^148] | FTL, OVK, THD, OBT, AXD | “T3”[^149] | Europe | 
+Identity Crisis (IC)[^150] | SiEGE, Class, DEVOTiON, RADiUM, CORE, RAZOR | | | 
+The Imperium (IMP)[^151] | AoD, VIGILANCE, WARRIOR, FATAL, GOH ’99 | “10GIG”, “CABLE”[^152] | | GOD-EMPEROR
+Infinity (INF)[^153] | INFLiCTiON, LEGACY, RiSE, SEA SHELL COMMANDO, TRPS | | USA | CnC, Cali, Hando
+Internet Protocol (IP)[^154] | LG, DW, DPN, WAR | | | 
+The Isle (ISLE)[^155] | MNT, NvC, fCC, DSC, INJ, PGC, RNS, CDA, BDC, SST | | | \[Trader\]
+Insanity Storm (IST)[^156] | DARKSiDE, MANiFEST DESTiNY, TOL, KYLiN, REVOLUTiON, SKELETON | | “West US”[^157] | 
+Intoxicated (IX)[^158] | THE COUNCiL, GERMAN WAREZ ALLiANCE | | | 
+The Jungle (JNG)[^159] | RADiUM, REBELS, WLW, WTA | “EQLFTPD”, “Dual T-1”, “8GB” | | Manik Depressive, Druggy, Dizzy160
+K2 (K2)[^161] | RAZOR 1911, DRINK OR DIE, ABSOLUT | | | 
+Kane (K)[^162] | ORiON, ANGELS ON DRUGS, LEGENDS NEVER DIE | | Europe | 
+Kalles Kaviar (KK)[^163] | ESPRiT, PHASE | | | 
+Krad (KRAD)[^164] | ENDURANCE | | | 
+The Krib (KRIB)[^165] | | “T1”, “50 GB” | | 
+Krynn (KRYNN)[^166] | Swat, FCN, Motiv8, LGD, Trps | “LINUX POWERED” | Europe | TheParain
+Kashmir (KSH)[^167] | Razor 1911, United Cracking Force, Legends Never Die | | Europe | 
+Kinetics (KTS)[^168] Adrenalin, Addiction, TDA, Scandal | “4 Gigs”, “Ethernet”, “WarFTP” | | 
+Lunatic Asylum (LA)169 | | | | 
+Lost in Space (LIS)[^170] | Orbital | | | 
+Low Lands (LL)[^171] | MIB, dF, AMR, FFo | | | 
+Lost Shrine (LS)[^172] | DMS, DNG, PRM | “Powered by Er33tD v 2.0”, “T3 Speed”, “32 GB” | Europe | 
+The Last Stand (LS)[^173] | | | | 
+Less Than Zero (LTZ)[^174] | iNSOMNiA, PNC | | USA | 
+The Lost World (LW)[^175] | THUNDER | | | 
+Linux Unleashed (LXL)[^176] | iNTUTiLS, digital.FACTORY, Digital District Couriers (ISO) | Presumed Linux | USA |
+Lynx (LYNX)[^177] | PREMIERE | | | 
+Mutually Assured Destruction (MAD)[^178] | TRPS, TiTAINiUM, VLH | | USA | WarezWulf, BoNz0, Swan, \|Napa1m\|, Trillion
+Menzoberranzan (MBZ)[^179] | DEVOTiON, RAZOR 1911, DOD, iSOBELiX, PHEN-X, TEST | | France[^180] | Elves[^181]
+Murder Death Kill (MDK)[^182] | FALLEN | “155 mbit”, “13gb” | Europe |
+Mercure (MERC)[^183] | BS2000, CiFE, DOD, Esprit, LGD, TEST, TRG, UCF, KALiSTO, NBD, WackyISO, WeaPoN | | France | PCFiL[^184]
+Magnetic Fields (MF)[^185] | AMNESiA, DYNASTY, GLOBAL, REBELS, X-FORCE, 2000AD, MANiFEST, COUNCiL, XCRYPT | “100mbit” | Europe |
+Manifest (MFT)[^186] | DriNK OR DiE, APOCALYPSE | | USA |
+Midgaard (MG)[^187] | LAXiTY, MFD, CLASS, DOD, EPTiSO, DEVi- ANCE, TFTiSO, VCD-EUROPE | | Europe | 
+Madhaus (MH)[^188] | HERITAGE | “35 GIGS” | | Mad\|Man
+Made in Heaven (MIH)[^189] | BLACK SQUADRON, FUSION, SKILL666, LUTIN | “52 GIGS”, “DUAL T1” | | 
+Monkey Island (MI)[^190] | | | | 
+Major Malfunction (MM)[^191] | PWA, RTS, DEMON, DSI | | Europe | 
+Mental Meltdown (MM)[^192] | | | | 
+Midnight Sun (MNS)[^193] | DriNK OR DiE, THE FLAME ARROWS, REBELS, GLoW, DiViNE | “10MBits”, “18 GiGz of Space” | Norway | 
+Mount Olympus (MO)[^194] | LG, SWP, RFK, SiF, VLN, DL | | | DJ_Rican
+Mos Eisley (MOS)[^195] | EQUALiTY, RAZOR 1911, TFT, CORE | “EQLFTPD” | United Kingdom | 
+Mirage (MRG)[^196] | | | | 
+Mile Stone (MS)[^197] | TFT, HYBRiD, SHOCK | | Europe |
+Moonsine Vision (MSV)[^198] | DEVOTiON, BliZZARD, PREMiERE | | |
+Mist World (MW)[^199] | RAZOR, RiSE, Dongle, MiLLENNiUM | | | 
+Maximum Power (MP)[^200] | MiLLENNiUM | | | 
+Niobium (NBM)[^201] | COUNCiL, ODDITY, CLASS, SHOCK, BACKLASH, BLiZZARD, OXYGEN | | | 
+Nocturne (NCT)[^202] | DNG, MNM, RBS, SECT | “THE LATEST GLFTPD” | | dajoint, odz, fjalar, fft, sitez
+New Evil Incarnate (NEI)[^203] | fATE | “71 Gigs” | | Czar, Billy Bishop, Tornado
+Near Future 2000 (NF2K)[^204] | TMG, DAMN, VARiANCE, ARSENIC, PGC, HTG, SHOCK, ITN, AOD, COREPDA, RBSPDA, UCFPDA | “155Mb”, “100Gb” | Europe | 
+Near Future (NF)[205] | OGN, SHOCK, PROS, PHS, WPN, DSI | “glftpd”, “T3”, “36 Go”[^206] | Europe |
+Neon Genesis (NGS)[^207] | FBW, INTISO, KLN, SKL, AVN, RVL, BNW, GOH98, SCE, UCL, DED, NXS, NOVA, HI- JACK | “ADSL”, “27GIGS” | | 
+Nihil (NHL)[^208] | MOTiV8, SODOM, Hyrid | | USA | 
+Narkos (NKS)[^209] | | “13 Mbits link”, “Running FTP4ALL” | | Cxxxxxx, hxxX, Jxx, Flxxxx, Sxxxx, Bxxxxx, Jxxxxxx
+Nemesis (NMS)[^210] | PWA, RAZOR, TwiLiGHT, AMBiTiON, TRPS | | United Kingdom | MindFink, Reznor, Slamdunk, Sminded, Akasha, d-unknown, Gal, Garoto, Mgd
+Nos (NOS)[^211] | SiEGE, ViCE, DNG, PARADOX | | Europe |
+Noptarus (NPT)[^212] | Origin, Harlem | | Canada |
+Nuclear Dust (NUD)[^213] | TFA, SLT, DiViNE, SHOCK, HazarD, CROSSFiRE, TMG | “T1 Speed”, “12gb”, “0-days only” | Czech Republic[^214] | 
+Nexus (NXS)[^215] | calibreX | “T3” | | Zhrodague, utopian
+Orbit Five (O5)[^216] | NWO, Energy, UCF | | | 
+Omerta (OM)[^217] | PHOENiX, KNO, FCN, TiCiN, RTSiSO | | USA |
+Operation Mindcrime (OM)[^218] | iCT, CRC, XPC, Tha Mafia, ODV | | | Nite 
+Origin (ON)[^219] | Energe, Dongle, Thunder Courier | | USA | 
+Outskirts of Nowhere (OON)[^220] | RBSiSO, MnMiSO, CaLiSO, DoWNLiNK, WLW | “T3”, “336GB” | | 
+Obscure Transmissions (OT)[^221] | ZeroHour, eXcess, Microsux, eXpose, MiRAGE | | USA |
+Origin Underground (OU)[^222] | Real Time Pirats, Sea Shell Comando, Associated Software Pirates, Naturraly Insane Couriers, Explosion, Demon | “10Mbit”, “8 gig online”[^223] | | 
+Oxide (OX)[^224] | Pentium, INjustice, Coalition97 | “T?” “8GiGs” | USA | purning, PCX
+Pier One Imports (P1)[^225] | RVG, GNX, DMN, DEM, PCW | “T-3”, “3 Gigs Online” | | Rsvp2riP, code_zero, toxic2
+Pandora’s Box (PBOX)[^226] | HERiTAGE, RAZOR 1911, dIGITAL.fACTORY, DTN | “10 mBiT”, “18 gB”[^227] | Europe | 
+Point Break (PB)[^228] | | | | 
+Pirates’ Cove (PC)[^229] | Reflux, Empure, Nemesis | “T3”, “34 Gigs” | | Comwood, Elmo, Nightsky
+Plastik Dreams (PD)[^230] | Dangerous, Premiere, Future, Pimps!, Insanity | | USA | dA bALHEd, Stilgar
+Playboys Dream (PD)[^231] | RiSE, REBELS, MiSSION | | Europe | TGC, XLOAD, SIRBUBU, ALEX[^232]
+Psychadelic Dreams (PD)[^233] | | | | 
+Paradox (PDX)[^234] | MOD, FND, DWA, LFLISO, XCRYPT, REFLEX | “T1”, “12+ GB” | Canada | djNghe, Jenlien, Subhuman235
+Project Genocide (PG)[^236] | demon, Warp98, TNO | “T3” | United Kingdom | \]morph\[, oleole, turrican, ka0s[^237]
+Pirates’ Hideout (PH)[^238] | High Society, DiSTiNCT, Reideen, TSZ, Backlash, Di- vine, Electrocution, Stream | | Europe |
+Paradise Lost (PL)[^239] | Future, Inspire | | | 
+Pirate Lair (PL)[^240] | ILT, DWA, dP, BIOS | | USA | D0sE
+Primary Link (PL)[^241] | RAPiER, SODOM, CLASS | | Europe |
+Prime Mover (PM)[^242] | BLiZZARD, SiEGE, RefluX, RVL | | USA | Maurauder, Cybrdeath, Novo, \[NtDude\], Factory, CptVorpal, Diablo[^243]
+Pelos Portal (PP)[^244] ESPRIT, EXPLOSION, INFECTED | | Europe |
+Piper’s Pit (PP)[^245] | CIFE, AODiSO, MAD, Silentchaos, Integrity | “Blazing Fast Cable Modem”, “Lots of Gigs Online” | | Piper, Fourth, Coba, NINE
+Pussy Power (PP)[^246] | | | | 
+Phoenix Rising (PR)[^247] | Carnage, PARADOX, CiFE, RTSiSO, LND, Warp, ViCE, BMI | | United Kingdom |
+Parasite (PS)[248] | PREMiERE, GCRACK, DiViNE, MiRACLE | | Europe  |
+Progressive (PS)[^249] | | | | 
+Possible Reality (PR)[^250] | ITN, BLH, MiV, PDX, OMG, WLWMP3, MOD, CHR, NBD, NmE, STAR, reb00t, CNCISO, GWL, VSN, GME2000, VIRA | | |
+Prosperity (PST)[^251] | THUNDER, PINNACLE, BLIZZARD | | | 
+Pzykotik Thoughts (PT)[^252] | | | | 
+Pre Whore House (PWH)[^253] | ANGELS ON DRUGS, DiViNE, DRiNK OR DiE, PARA- DOX, DiGiTAL FACTORY, HERiTAGE, PHROZEN CREW, iNTENSiON, ZONE | | Europe | 
+Quadcon (QC)[^254] | RiSCiSO, Ranaissance, SHOCK, CoNCePT, RNG, GPF | “2 Separate T1 Systems”, “43gb Main/ ISO”, “7gb Release” | USA | Katman, GaL, BanDiDo, Koyote, Poo, CorrupT
+Quantum Reality (QR)[^255] | RiSE, CELEBRE | | | 
+Restricted Area (RA)[256] | AMBiSO, CERTiSO, iSOBELiX, DTD, MNMiSO, VCDEUROPE | “3xT3”, “54GIGS” | Czech Republic | Suvivant, KloWn__, Toaster, Bill, KIDSSHoW, Mackaque
+Rebellion Authority (RAY)[^257] | ESPRiT, BLiZZARD, PFT | | Europe |
 
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Guru Heaven (GH)131
-Genesis (GNS)133
-RPR, DEV, PNC, M8, RTS, OB
-MnM, EtP, QuoruM
-“10 Machines Running RedHat Linux v5.2”
-“190 GigS” “250 kbps Ca- ble Modem Site / In & Out!” “GLFTPD”
-“This site is powered by PiMPD”
-“T3 Speed” “26 Gb”136
-BadThrax, ZipPer2
- Guru Meditation (GM)132
-MiRAGE, DOD, AMNESiA
-Green Skull (GS)134
-Busted, Rare
-HemispheresClass, Dimen- Two (H2)135 sion, Pentium
-Force Team, RiscISO, PiR8s Gone Crazy
-USA
- 131 GH, “Guru Heaven Topsite (GH-guru.heaven.1998.05.04.nfo),” May 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-132 GM, “Guru Meditation Topsite (GM-guru.meditation.1997.03.07.nfo),”
-March 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.
-ms.zip.
-133 GNS, “Genesis Topsite (GNS-genesis.1999.07.05.nfo),” July 5, 1999,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-134 GS, “Green Skull Topsite (GS-green.skull.1997.05.25.nfo),” May 25, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-135 H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.07.28.nfo),” July
-28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-136 H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.05.27.nfo),” May 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-Holocron (HCN)138
-Hard Floor (HF)141
-The Happy Hippo (HH)143
-MerCurion, Slick,
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Highway 2 Hell (H2H)137
-FALLEN, PROPHECY, MUTH, RiSC, FCN, TFT, DVNiSO, TFTiSO
-Europe
- EViL, ATC
-ORIGIN, DRINK OR DIE
-ECG, captiveX, “T3” HI-JACK “12GiGS”
-“T3”
-“20GB” Ryche
-Hades (H)139
-PENTiUM FORCE TEAM, RiSE, GCRACK, THE REVIEW- ER’S GUiLD, DiMENSiON, CLASS
-HADES FTPD140
-Europe
-Hell Fire (HF)142
-MOTiV8
- 137 H2H, “Highway 2 Hell Topsite (H2H-highway.2.hell.2000.08.27.nfo),” August 27, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-138 HCN, “Holocron Topsite (HCN-holocron.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-139 H, “Hades Topsite (HDS-hades.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-140 lester, “Which Ftpd Is Right for You?”
-141 HF, “Hard Floor Topsite (HF-hard.floor.1999.09.20.nfo),” September 20,
-1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-142 HF, “Hell Fire Topsite (HF-hell.fire.1997.05.16.nfo),” May 16, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-143 HH, “The Happy Hippo Topsite (HH-the.happy.hippo.1998.10.25.nfo),”
-October 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Hades on Earth (HOE)144
-DiMENSiON, CLASS, RiSE, PiNNACLE, DARKSTAR
- Hall of Illusions (HOL)145
-RiSC, RAZOR 1911, X-FORCE, BliZZARD, RADiUM, Dsi, LAXiTY
-House
-of Music (HOM)146
-CORE, TMG, DiSTINCT, INTENSION, CNC, DWP, EVIL, OxYGeN, ODDITY, DAMN, BLH, MIB, COREP- DA, POEPDA, UCFPDA
-Europe
-Hall of Warez (HOW)147
-REFLUX, OUT- BREAK, GEN- X, MOTIV8
-Hard Wired (HW)148
-FTL, OVK, THD, OBT, AXD
-“T3”149
-Europe
- 144 HOE, “Hades on Earth Topsite (HOE-hades.on.earth.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-145 HOL, “Hall of Illusions Topsite (HOL-hall.of.illusions.1999.10.28.nfo),” October 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-146 HOM, “House of Music Topsite (HOM-house.of.music.2000.10.05.nfo),” October 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-147 HOW, “Hall of Warez Topsite (HOW-hall.of.warez.1997.05.24.nfo),” May 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-148 HW, “Hard Wired Topsite (HW-hard.wired.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-149 HW, “Hard Wired Topsite (HW-hard.wired.1997.03.27.nfo),” March 27, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Identity Cri- SiEGE, Class, sis (IC)150 DEVOTiON,
-RADiUM, CORE, RAZOR
-Infinity INFLiCTiON, (INF)153 LEGACY, RiSE,
-SEA SHELL COMMANDO, TRPS
-The Isle MNT, NvC, (ISLE)155 fCC, DSC, INJ,
-PGC, RNS, CDA, BDC, SST
-USA CnC, Cali, Hando
-[Trader]
- The Imperium (IMP)151
-AoD, VIGI- LANCE, WAR- RIOR, FATAL, GOH ’99
-“10GIG” “CABLE”152
-GOD-EMPEROR
-Internet Pro- tocol (IP)154
-LG, DW, DPN, WAR
- 150 IC, “Identity Crisis Topsite (IC-identity.crisis.1999.03.31.nfo),” March 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-151 IMP, “The Imperium Topsite (IMP-imperium.1998.07.19.nfo),” July 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-152 IMP, “The Imperium Topsite (IMP-imperium.XXXX.XX.01.nfo),” n.d.,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-153 INF, “Infinity Topsite (INF-infinity.1998.04.10.nfo),” April 10, 1998,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-154 IP, “Internet Protocol Topsite (IP-internet.protocol.1999.10.05.nfo),”
-October 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.
-ms.zip.
-155 ISLE, “The Isle Topsite (ISLE-the.isle.1997.06.10.nfo),” June 10, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Insan- ity Storm (IST)156
-DARKSiDE, MANiFEST DESTiNY, TOL, KYLiN, REVOLUTiON, SKELETON
-“West US”157
- Intoxicated (IX)158
-K2 (K2)161
-THE COUN- CiL, GERMAN WAREZ ALLi- ANCE
-RAZOR 1911, DRINK OR DIE, ABSOLUT
-The Jungle (JNG)159
-RADiUM, REBELS, WLW, WTA
-“EQLFTPD”
-“Dual T-1” “8GB”
-Manik Depressive, Druggy, Dizzy160
-Kane (K)162
-ORiON, ANGELS ON DRUGS, LEG- ENDS NEVER DIE
-Europe
- 156 IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.09.19.nfo),” September 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-157 IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-158 IX, “Intoxicated Topsite (IX-intoxicated.1999.12.26.nfo),” December 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-159 JNG, “The Jungle Topsite (JNG-the.jungle.1998.08.18.nfo),” August 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-160 JNG, “The Jungle Topsite (JNG-the.jungle.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-161 K2, “K2 Topsite (K2-k2.1998.03.21.nfo),” March 21, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-162 K, “Kane Topsite (K-kane.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene. nfo.collection.v1.0.24351.shroo.ms.zip.
-
-Kalles KaviarESPRiT, PHASE (KK)163
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
- Krad (KRAD)164
-ENDURANCE
-The Krib (KRIB)165
-Kashmir (KSH)167
-Lunatic Asy- lum (LA)169
-“T1” “50 GB”
-Krynn (KRYNN)166
-Swat, FCN, Motiv8, LGD, Trps
-“LINUX POW- ERED”
-Europe
-TheParain
-Razor 1911, United Cracking Force, Legends Never Die
-Europe
-Kinetics (KTS)168
-Adrenalin, Ad- diction, TDA, Scandal
-“4 Gigs” “Ethernet” “WarFTP”
-Lost in Space (LIS)170
-Orbital
- 163 KK, “Kalles Kaviar Topsite (KK-kalles.kaviar.1999.09.15.nfo),” September 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-164 KRAD, “KRAD Topsite (KRAD-krad.1997.06.29.nfo),” September 15, 1999,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-165 KRIB, “The Krib Topsite (KRIB-the.krib.1997.07.30.nfo),” July 30, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-166 KRYNN, “Krynn Topsite (KRYNN-krynn.1997.11.25.nfo),” November 25,
-1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-167 KSH, “Kashmir Topsite (KSH-kashmir.1997.02.22.nfo),” February 22, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-168 KTS, “Kinetics Topsite (KTS-kinetics.1997.01.15.nfo),” January 15, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-169 LA, “Lunatic Asylum Topsite (LA-lunatic.asylum.1995.04.21.nfo),” April 21,
-1995, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-170 LIS, “Lost in Space Topsite (LIS-lost.in.space.1997.08.13.nfo),” August 13,
-1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Low Lands (LL)171
-The Last Stand (LS)173
-The Lost World (LW)175
-Lynx (LYNX)177
-MIB, dF, AMR, FFo
- Lost Shrine (LS)172
-DMS, DNG, PRM
-“Powered by Er33tD v 2.0” “T3 Speed” “32 GB”
-Europe
-Less Than Zero (LTZ)174
-iNSOMNiA, PNC
-USA
-THUNDER
-PREMIERE
-Linux Unleashed (LXL)176
-iNTUTiLS, digi- tal.FACTORY, Digital District Couriers (ISO)
-Presumed Linux
-USA
- 171 LL, “Low Lands Topsite (LL-low.lands.1999.09.08.nfo),” September 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-172 LS, “Lost Shrine Topsite (LS-lost.shrine.1998.05.28.nfo),” May 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-173 LS, “The Last Stand Topsite (LS-the.last.stand.1998.01.22.nfo),” January 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-174 LTZ, “Less Than Zero Topsite (LTZ-less.than.zero.1997.11.02.nfo),” November 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-175 LW, “The Lost World Topsite (LW-the.lost.world.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-176 LXL, “Linux Unleashed Topsite (LXL-linux.unleashed.1999.06.29.nfo),” June 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-177 LYNX, “Lynx Topsite (LYNX-lynx.1997.10.08.nfo),” October 8, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-Menzober- ranzan (MBZ)179
-Mercure (MERC)183
-DEVOTiON, RAZOR 1911, DOD, iSOBE- LiX, PHEN-X, TEST
-BS2000, CiFE, DOD, Esprit, LGD, TEST, TRG, UCF, KALiSTO, NBD, WackyISO, WeaPoN
-France180
-France
-Elves181
-PCFiL184
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Mutu-
-ally Assured Destruction (MAD)178
-TRPS, TiT- AINiUM, VLH
-USA
-WarezWulf, BoNz0, Swan, |Napa1m|, Trillion
- Murder Death Kill (MDK)182
-FALLEN
-“155 mbit” “13gb”
-Europe
- 178 MAD, “Mutually Assured Destruction Topsite (MAD-mutually.assured. destruction.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-179 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.02.12.nfo),” February 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-180 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.01.03.nfo),” January 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-181 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-182 MDK, “Murder Death Kill Topsite (MDK-murder.death.kill.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-183 MERC, “Mercure Topsite (MERC-mercure.1999.02.21.nfo),” February 21,
-1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-184 MERC, “Mercure Topsite (MERC-mercure.1998.01.16.nfo),” January 16, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Mag-
-netic Fields (MF)185
-AMNESiA, DYNASTY, GLOBAL, REBELS, X-FORCE, 2000AD, MANiFEST, COUNCiL, XCRYPT
-“100mbit”
-Europe
- Manifest (MFT)186
-Madhaus (MH)188
-Monkey Is- land (MI)190
-DriNK OR DiE, APOCALYPSE
-HERITAGE
-USA
-Midgaard (MG)187
-LAXiTY, MFD, CLASS, DOD, EPTiSO, DEVi- ANCE, TFTiSO, VCD-EUROPE
-Europe
-“35 GIGS”
-Mad|Man
-Made in Heaven (MIH)189
-BLACK SQUADRON, FUSION, SKILL666, LUTIN
-“52 GIGS” “DUAL T1”
- 185 MF, “Magnetic Fields Topsite (MF-magnetic.fields.2000.06.05.nfo),” June 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-186 MFT, “Manifest Topsite (MFT-manifest.1997.10.21.nfo),” October 21, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-187 MG, “Midgaard Topsite (MG-midgaard.2000.08.22.nfo),” August 22, 2000,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-188 MH, “Madhaus Topsite (MH-madhaus.1997.09.22.nfo),” September 22,
-1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-189 MIH, “Made in Heaven Topsite (MIH-made.in.heaven.1999.05.21.nfo),” May 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.
-ms.zip.
-190 MI, “Monkey Island Topsite (MI-monkey.island.1998.02.06.nfo),” February
-6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Major Malfunction (MM)191
-PWA, RTS, DEMON, DSI
-Europe
- Mental Meltdown (MM)192
-Mount Olympus (MO)194
-Mirage (MRG)196
-LG, SWP, RFK, SiF, VLN, DL
-DJ_Rican
-Midnight Sun (MNS)193
-DriNK OR DiE, THE FLAME ARROWS, REBELS, GLoW, DiViNE
-“10MBits” “18 GiGz of Space”
-Norway
-Mos Eisley (MOS)195
-EQUALiTY, RAZOR 1911, TFT, CORE
-“EQLFTPD”
-United Kingdom
-Mile Stone (MS)197
-TFT, HYBRiD, SHOCK
-Europe
- 191 MM, “Major Malfunction Topsite (MM-major.malfunction.1999.07.29. nfo),” July 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-192 MM, “Mental Meltdown Topsite (MM-mental.meltdown.1997.04.26.nfo),” April 26, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-193 MNS, “Midnight Sun Topsite (MNS-midnight.sun.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-194 MO, “Mount Olympus Topsite (MO-mount.olympus.1998.10.23.nfo),” October 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-195 MOS, “Mos Eisley Topsite (MOS-mos.eisley.1998.03.25.nfo),” March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-196 MRG, “Mirage Topsite (MRG-mirage.1997.08.03.nfo),” August 3, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-197 MS, “Mile Stone Topsite (MS-mile.stone.1997.07.04.nfo),” July 4, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Moonsine Vision (MSV)198
-Maximum Power (MP)200
-Nocturne (NCT)202
-DEVOTiON, BliZZARD, PREMiERE
-MiLLENNiUM
- Mist World (MW)199
-RAZOR, RiSE, Dongle, MiL- LENNiUM
-Niobium (NBM)201
-COUNCiL, ODD-
-ITY, CLASS, SHOCK, BACKLASH, BLiZZARD, OXYGEN
-DNG, MNM, RBS, SECT
-“THE LATEST GLFTPD”
-dajoint, odz, fjalar, fft, sitez
-New Evil Incarnate (NEI)203
-fATE
-“71 Gigs”
-Czar, Billy Bishop, Tornado
- 198 MSV, “Moonshine Vision Topsite (MSV-moonshine.vision.1998.08.26. nfo),” August 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-199 MW, “Mist World Topsite (MW-mist.world.1998.06.04.nfo),” June 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-200 MXP, “Maximum Power Topsite (MXP-maximum. power.1998.02.06.nfo),” February 6, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-201 NBM, “Niobium Topsite (NBM-niobium.1999.02.14.nfo),” February 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 202NCT, “Nocturne Topsite (NCT-nocturne.1998.12.06.nfo),” December 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-203 NEI, “New Evil Incarnate Topsite (NEI-new.evil.incarnate.1997.11.29.nfo),” November 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Near
-Future 2000 (NF2K)204
-TMG, DAMN,, VARiANCE, ARSENIC, PGC, HTG, SHOCK, ITN, AOD, COREP- DA, RBSPDA, UCFPDA
-FBW, INTISO, KLN, SKL, AVN, RVL, BNW, GOH98, SCE, UCL, DED, NXS, NOVA, HI- JACK
-“155Mb” “100Gb”
-Europe
- Near Future (NF)205
-OGN, SHOCK, PROS, PHS, WPN, DSI
-“glftpd”
-“T3”
-“36 Go”206
-Europe
-Neon Gen- esis (NGS)207
-Narkos (NKS)209
-“ADSL” “27GIGS”
-“13 Mbits link” “Running FTP4ALL”
-Cxxxxxx, hxxX, Jxx,
-Flxxxx, Sxxxx, Bxxxxx, Jxxxxxx
-Nihil (NHL)208
-MOTiV8, SO- DOM, Hyrid
-USA
- 204NF2K, “Near Future 2000 Topsite (NF2K-near.future.2000.10.12.nfo),” October 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-205 NF, “Near Future Topsite (NF-near.future.1999.11.08.nfo),” November 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 206NF, “Near Future Topsite (NF-near.future.1999.08.26.nfo),” August 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-207NGS, “Neon Genesis Topsite (NGS-neon.genesis.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-208NHL, “Nihil Topsite (NHL-nihil.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-209NKS, “Narkos Topsite (NKS-narkos.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Nemesis (NMS)210
-PWA, RAZOR, TwiLiGHT, AMBiTiON, TRPS
-United Kingdom
-MindFink, Reznor, Slamdunk, Sminded, Akasha, d-unknown, Gal, Garoto, Mgd
- Nos (NOS)211 SiEGE, ViCE, DNG, PARA-
-DOX
-Nu- TFA, SLT, Di- “T1 Speed” clear Dust ViNE, SHOCK, “12gb” (NUD)213 HazarD, “0-days only”
-CROSSFiRE, TMG
-Orbit Five NWO, Energy, (O5)216 UCF
-Europe
-Czech Re- public214
-Noptarus (NPT)212
-Origin, Harlem
-Canada
-Nexus (NXS)215
-calibreX
-“T3”
-Zhrodague, utopian
-Omerta (OM)217
-PHOENiX, KNO, FCN, TiCiN, RTSiSO
-USA
- 210 NMS, “Nemesis Topsite (NMS-nemesis.1998.09.08.nfo),” September 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-211 NOS, “Nos Topsite (NOS-nos.1998.05.17.nfo),” May 17, 1998, DeFacto2,
-warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-212 NPT, “Noptarus Topsite (NPT-noptarus.1999.02.03.nfo),” February 3, 1999,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-213 NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.2000.08.22.nfo),” August
-22, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-214 NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.XXXX.XX.01.nfo),” n.d.,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-215 NXS, “Nexus Topsite (NXS-nexus.1998.05.07.nfo),” May 7, 1998, DeFacto2,
-warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-216 O5, “Orbit Five Topsite (O5-orbit.five.1997.02.14.nfo),” February 14, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-217 OM, “Omerta Topsite (OM-omerta.1999.12.31.nfo),” December 31, 1999,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Operation Mindcrime (OM)218
-Outskirts of Nowhere (OON)220
-Origin Un- derground (OU)222
-iCT, CRC, XPC, Nite Tha Mafia, ODV
-RBSiSO, Mn- “T3” MiSO, CaLiSO, “336GB” DoWNLiNK,
-WLW
-Real Time “10Mbit” Pirats, Sea Shell “8 gig online”223 Comando,
-Associated
-Software Pirates,
-Naturraly
-Insane Couri-
-ers, Explosion,
-Demon
- Origin (ON)219
-Energe, Dongle, Thunder Cou- rier
-USA
-Obscure Transmis- sions (OT)221
-ZeroHour, eXcess, Micro- sux, eXpose, MiRAGE
-USA
- 218 OM, “Operation Mindcrime Topsite (OM-operation.mindcrime.1997.12.29. nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-219 ON, “Origin Topsite (ON-origin.1997.12.04.nfo),” December 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-220OON, “Outskirts of Nowhere Topsite (OON-outskirts. of.nowhere.1998.12.15.nfo),” December 15, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-221 OT, “Obscure Transmissions Topsite (OT-obscure.transmissions.1997.12.07. nfo),” December 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-222 OU, “Origin Underground Topsite (OU-origin.underground.1998.01.13. nfo),” January 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-223 OU, “Origin Underground Topsite (OU-origin.underground.1997.10.25. nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Oxide (OX)224
-Pentium, INjus- tice, Coalition97
-“T?” “8GiGs”
-USA
-purning, PCX
- Pier One Im-RVG, GNX, “T-3”
-Rsvp2riP, code_zero, toxic2
-DMN, DEM, “3 Gigs Online” PCW
-Point Break (PB)228
-Plastik Dreams (PD)230
-ports (P1)225
-Pan- dora’s Box (PBOX)226
-HERiTAGE, RAZOR 1911, dIGITAL.fAC- TORY, DTN
-“10 mBiT” “18 gB”227
-Europe
-Pirates’ Cove (PC)229
-Reflux, Empure, Nemesis
-“T3”
-“34 Gigs”
-Comwood, Elmo, Nightsky
-Dangerous, Pre- miere, Future, Pimps!, Insanity
-USA dA bALHEd, Stilgar
-Playboys Dream (PD)231
-RiSE, REBELS, MiSSION
-Europe
-TGC, XLOAD, SIR- BUBU, ALEX232
- 224OX, “Oxide Topsite (OX-oxide.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-225 P1, “Pier One Imports Topsite (P1-pier.one.imports.1996.10.29.nfo),” October 29, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-226PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.2000.07.23.nfo),” July 23, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-227 PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-228 PB, “Point Break Topsite (PB-point.break.1998.12.12.nfo),” December 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-229 PC, “Pirate’s Cove Topsite (PC-pirates.cove.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-230 PD, “Plastik Dreams Topsite (PD-plastik.dreams.1996.11.12.nfo),” Novem- ber 12, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-231 PD, “Playboys Dreams Topsite (PD-playboys.dream.1999.10.21.nfo),” Octo- ber 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-232 PD, “Playboys Dreams Topsite (PD-playboys.dream.1998.10.25.nfo),” Octo- ber 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Psychadelic Dreams (PD)233
-Project Genocide (PG)236
-Paradise Lost (PL)239
-demon, Warp98,“T3” TNO
-Future, Inspire
-United Kingdom
-]morph[, oleole, tur- rican, ka0s237
- Paradox (PDX)234
-MOD, FND, DWA, LFLISO, XCRYPT, RE- FLEX
-“T1” “12+ GB”
-Canada
-djNghe, Jenlien, Subhuman235
-Pirates’ Hideout (PH)238
-High Soci-
-ety, DiSTiNCT, Reideen, TSZ, Backlash, Di- vine, Electrocu- tion, Stream
-Europe
-Pirate Lair (PL)240
-ILT, DWA, dP, BIOS
-USA
-D0sE
- 233 PD, “Psychadelic Dreams Topsite (PD-psychadelic.dreams.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-234 PDX, “Paradox Topsite (PDX-paradox.1999.02.26.nfo),” February 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-235 PDX, “Paradox Topsite (PDX-paradox.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-236 PG, “Project Genocide Topsite (PG-project.genocide.1998.08.21.nfo),” Au- gust 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-237 PG, “Project Genocide Topsite (PG-project.genocide.1998.07.07.nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-238 PH, “Pirates’ Hideout Topsite (PH-pirates.hideout.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-239 PL, “Paradise Lost Topsite (PL-paradise.lost.1997.11.25.nfo),” November 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-240PL, “Pirate Lair Topsite (PL-pirate.lair.1999.08.03.nfo),” August 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Primary RAPiER, SO- Link (PL)241 DOM, CLASS
-Pelos Portal ESPRIT, (PP)244 EXPLOSION,
-INFECTED
-Pussy Power (PP)246
-Europe
-Europe
- Prime Mover (PM)242
-BLiZZARD, SiEGE, RefluX, RVL
-USA
-Maurauder, Cybrdeath, Novo, [NtDude], Factory, CptVorpal, Diablo243
-Piper’s Pit (PP)245
-CIFE, AODiSO, MAD, Silentch- aos, Integrity
-“Blazing Fast Cable Modem” “Lots of Gigs Online”
-Piper, Fourth, Coba, NINE
-Phoenix Ris- ing (PR)247
-Carnage, PARA- DOX, CiFE, RTSiSO, LND, Warp, ViCE, BMI
-United Kingdom
- 241 PL, “Primary Link Topsite (PL-primary.link.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-242PM, “Prime Mover Topsite (PM-prime.mover.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-243 PM, “Prime Mover Topsite (PM-prime.mover.1998.05.10.nfo),” May 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-244PP, “Pelos Portal Topsite (PP-pelos.portal.1998.04.22.nfo),” April 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-245 PP, “Piper’s Pit Topsite (PP-pipers.pit.1999.10.21.nfo),” October 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-246PP, “Pussy Power Topsite (PP-pussy.power.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-247PR, “Phoenix Rising Topsite (PR-phoenix.rising.1999.10.12.nfo),” October 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Parasite PREMiERE, Europe (PS)248 GCRACK,
-DiViNE, MiRA- CLE
-Possible Re- ITN, BLH, MiV, ality (PR)250 PDX, OMG,
-WLWMP3, MOD, CHR, NBD, NmE, STAR, reb00t, CNCISO, GWL, VSN, GME2000, VIRA
-Pzykotik Thoughts (PT)252
- Progressive (PS)249
-Prosperity (PST)251
-THUNDER, PINNACLE, BLIZZARD
- 248PS, “Parasite Topsite (PS-parasite.1998.03.11.nfo),” March 11, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-249PS, “Progressive Topsite (PS-progressive.1997.03.11.nfo),” March 11, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-250 PSR, “Possible Reality Topsite (PSR-possible.reality.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-251 PST, “Prosperity Topsite (PST-prosperity.1999.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-252 PT, “Pzykotik Thoughts Topsite (PT-pzykotik.thoughts.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Pre Whore House (PWH)253
-NANGELS ON DRUGS, Di- ViNE, DRiNK OR DiE, PARA- DOX, DiGiTAL FACTORY, HERiTAGE, PHROZEN CREW, iNTEN- SiON, ZONE
-Europe
- Quadcon RiSCiSO, (QC)254 Ranaissance,
-SHOCK, CoN- CePT, RNG, GPF
-Restricted AMBiSO,
-Area (RA)256 CERTiSO, iSO-
-BELiX, DTD, MNMiSO, VCDEUROPE
-“2 Separate T1 Systems” “43gb Main/ ISO”
-“7gb Release”
-“3xT3” “54GIGS”
-USA
-Czech Republic
-Katman, GaL, Ban- DiDo, Koyote, Poo, CorrupT
-Suvivant, KloWn__, Toaster, Bill, KIDSS- HoW, Mackaque
-Quantum Reality (QR)255
-RiSE, CELEBRE
-Rebellion Authority (RAY)257
-ESPRiT, BLiZ- ZARD, PFT
-Europe
- 253 PWH, “Pre Whore House Topsite (PWH-pre.whore.house.2000.09.01. nfo),” September 1, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-254 QC, “QuadCon Topsite (QC-quadcon.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-255 QR, “Quantum Reality Topsite (QR-quantum.reality.1998.05.23.nfo),” May 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-256 RA, “Restricted Area Topsite (RA-restricted.area.1999.06.13.nfo),” June 13,
-1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-257 RAY, “Rebellion Authority Topsite (RAY-rebellion.authority.1999.03.18.
-nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
 
 
  Sitename
@@ -1769,3 +1246,128 @@ Siteops and Nukers/ Notes
 128 FUBAR, “Fucked Up Beyond All Recognition Topsite (FUBAR-fucked. up.beyond.all.recognition.1997.01.20.nfo),” January 20, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
 129 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital. afterlife.1997.01.20.nfo).”
 130 GF, “General Failure Topsite (GF-general.failure.1997.01.04.nfo),” January 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+131 GH, “Guru Heaven Topsite (GH-guru.heaven.1998.05.04.nfo),” May 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+132 GM, “Guru Meditation Topsite (GM-guru.meditation.1997.03.07.nfo),” March 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+133 GNS, “Genesis Topsite (GNS-genesis.1999.07.05.nfo),” July 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+134 GS, “Green Skull Topsite (GS-green.skull.1997.05.25.nfo),” May 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+135 H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.07.28.nfo),” July 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+136 H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.05.27.nfo),” May 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+137 H2H, “Highway 2 Hell Topsite (H2H-highway.2.hell.2000.08.27.nfo),” August 27, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+138 HCN, “Holocron Topsite (HCN-holocron.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+139 H, “Hades Topsite (HDS-hades.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+140 lester, “Which Ftpd Is Right for You?”
+141 HF, “Hard Floor Topsite (HF-hard.floor.1999.09.20.nfo),” September 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+142 HF, “Hell Fire Topsite (HF-hell.fire.1997.05.16.nfo),” May 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+143 HH, “The Happy Hippo Topsite (HH-the.happy.hippo.1998.10.25.nfo),” October 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+144 HOE, “Hades on Earth Topsite (HOE-hades.on.earth.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+145 HOL, “Hall of Illusions Topsite (HOL-hall.of.illusions.1999.10.28.nfo),” October 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+146 HOM, “House of Music Topsite (HOM-house.of.music.2000.10.05.nfo),” October 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+147 HOW, “Hall of Warez Topsite (HOW-hall.of.warez.1997.05.24.nfo),” May 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+148 HW, “Hard Wired Topsite (HW-hard.wired.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+149 HW, “Hard Wired Topsite (HW-hard.wired.1997.03.27.nfo),” March 27, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+150 IC, “Identity Crisis Topsite (IC-identity.crisis.1999.03.31.nfo),” March 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+151 IMP, “The Imperium Topsite (IMP-imperium.1998.07.19.nfo),” July 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+152 IMP, “The Imperium Topsite (IMP-imperium.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+153 INF, “Infinity Topsite (INF-infinity.1998.04.10.nfo),” April 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+154 IP, “Internet Protocol Topsite (IP-internet.protocol.1999.10.05.nfo),” October 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+155 ISLE, “The Isle Topsite (ISLE-the.isle.1997.06.10.nfo),” June 10, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+156 IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.09.19.nfo),” September 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+157 IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+158 IX, “Intoxicated Topsite (IX-intoxicated.1999.12.26.nfo),” December 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+159 JNG, “The Jungle Topsite (JNG-the.jungle.1998.08.18.nfo),” August 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+160 JNG, “The Jungle Topsite (JNG-the.jungle.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+161 K2, “K2 Topsite (K2-k2.1998.03.21.nfo),” March 21, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+162 K, “Kane Topsite (K-kane.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene. nfo.collection.v1.0.24351.shroo.ms.zip.
+163 KK, “Kalles Kaviar Topsite (KK-kalles.kaviar.1999.09.15.nfo),” September 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+164 KRAD, “KRAD Topsite (KRAD-krad.1997.06.29.nfo),” September 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+165 KRIB, “The Krib Topsite (KRIB-the.krib.1997.07.30.nfo),” July 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+166 KRYNN, “Krynn Topsite (KRYNN-krynn.1997.11.25.nfo),” November 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+167 KSH, “Kashmir Topsite (KSH-kashmir.1997.02.22.nfo),” February 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+168 KTS, “Kinetics Topsite (KTS-kinetics.1997.01.15.nfo),” January 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+169 LA, “Lunatic Asylum Topsite (LA-lunatic.asylum.1995.04.21.nfo),” April 21, 1995, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+170 LIS, “Lost in Space Topsite (LIS-lost.in.space.1997.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+171 LL, “Low Lands Topsite (LL-low.lands.1999.09.08.nfo),” September 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+172 LS, “Lost Shrine Topsite (LS-lost.shrine.1998.05.28.nfo),” May 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+173 LS, “The Last Stand Topsite (LS-the.last.stand.1998.01.22.nfo),” January 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+174 LTZ, “Less Than Zero Topsite (LTZ-less.than.zero.1997.11.02.nfo),” November 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+175 LW, “The Lost World Topsite (LW-the.lost.world.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+176 LXL, “Linux Unleashed Topsite (LXL-linux.unleashed.1999.06.29.nfo),” June 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+177 LYNX, “Lynx Topsite (LYNX-lynx.1997.10.08.nfo),” October 8, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+178 MAD, “Mutually Assured Destruction Topsite (MAD-mutually.assured. destruction.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+179 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.02.12.nfo),” February 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+180 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.01.03.nfo),” January 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+181 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+182 MDK, “Murder Death Kill Topsite (MDK-murder.death.kill.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+183 MERC, “Mercure Topsite (MERC-mercure.1999.02.21.nfo),” February 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+184 MERC, “Mercure Topsite (MERC-mercure.1998.01.16.nfo),” January 16, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+185 MF, “Magnetic Fields Topsite (MF-magnetic.fields.2000.06.05.nfo),” June 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+186 MFT, “Manifest Topsite (MFT-manifest.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+187 MG, “Midgaard Topsite (MG-midgaard.2000.08.22.nfo),” August 22, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+188 MH, “Madhaus Topsite (MH-madhaus.1997.09.22.nfo),” September 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+189 MIH, “Made in Heaven Topsite (MIH-made.in.heaven.1999.05.21.nfo),” May 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+190 MI, “Monkey Island Topsite (MI-monkey.island.1998.02.06.nfo),” February 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+191 MM, “Major Malfunction Topsite (MM-major.malfunction.1999.07.29. nfo),” July 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+192 MM, “Mental Meltdown Topsite (MM-mental.meltdown.1997.04.26.nfo),” April 26, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+193 MNS, “Midnight Sun Topsite (MNS-midnight.sun.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+194 MO, “Mount Olympus Topsite (MO-mount.olympus.1998.10.23.nfo),” October 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+195 MOS, “Mos Eisley Topsite (MOS-mos.eisley.1998.03.25.nfo),” March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+196 MRG, “Mirage Topsite (MRG-mirage.1997.08.03.nfo),” August 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+197 MS, “Mile Stone Topsite (MS-mile.stone.1997.07.04.nfo),” July 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+198 MSV, “Moonshine Vision Topsite (MSV-moonshine.vision.1998.08.26. nfo),” August 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+199 MW, “Mist World Topsite (MW-mist.world.1998.06.04.nfo),” June 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+200 MXP, “Maximum Power Topsite (MXP-maximum. power.1998.02.06.nfo),” February 6, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+201 NBM, “Niobium Topsite (NBM-niobium.1999.02.14.nfo),” February 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 202NCT, “Nocturne Topsite (NCT-nocturne.1998.12.06.nfo),” December 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+203 NEI, “New Evil Incarnate Topsite (NEI-new.evil.incarnate.1997.11.29.nfo),” November 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+204 NF2K, “Near Future 2000 Topsite (NF2K-near.future.2000.10.12.nfo),” October 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+205 NF, “Near Future Topsite (NF-near.future.1999.11.08.nfo),” November 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 206NF, “Near Future Topsite (NF-near.future.1999.08.26.nfo),” August 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+207 NGS, “Neon Genesis Topsite (NGS-neon.genesis.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+208 NHL, “Nihil Topsite (NHL-nihil.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+209 NKS, “Narkos Topsite (NKS-narkos.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+210 NMS, “Nemesis Topsite (NMS-nemesis.1998.09.08.nfo),” September 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+211 NOS, “Nos Topsite (NOS-nos.1998.05.17.nfo),” May 17, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+212 NPT, “Noptarus Topsite (NPT-noptarus.1999.02.03.nfo),” February 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+213 NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.2000.08.22.nfo),” August 22, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+214 NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+215 NXS, “Nexus Topsite (NXS-nexus.1998.05.07.nfo),” May 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+216 O5, “Orbit Five Topsite (O5-orbit.five.1997.02.14.nfo),” February 14, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+217 OM, “Omerta Topsite (OM-omerta.1999.12.31.nfo),” December 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+218 OM, “Operation Mindcrime Topsite (OM-operation.mindcrime.1997.12.29. nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+219 ON, “Origin Topsite (ON-origin.1997.12.04.nfo),” December 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+220 OON, “Outskirts of Nowhere Topsite (OON-outskirts. of.nowhere.1998.12.15.nfo),” December 15, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+221 OT, “Obscure Transmissions Topsite (OT-obscure.transmissions.1997.12.07. nfo),” December 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+222 OU, “Origin Underground Topsite (OU-origin.underground.1998.01.13. nfo),” January 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+223 OU, “Origin Underground Topsite (OU-origin.underground.1997.10.25. nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+224 OX, “Oxide Topsite (OX-oxide.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+225 P1, “Pier One Imports Topsite (P1-pier.one.imports.1996.10.29.nfo),” October 29, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+226 PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.2000.07.23.nfo),” July 23, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+227 PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+228 PB, “Point Break Topsite (PB-point.break.1998.12.12.nfo),” December 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+229 PC, “Pirate’s Cove Topsite (PC-pirates.cove.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+230 PD, “Plastik Dreams Topsite (PD-plastik.dreams.1996.11.12.nfo),” Novem- ber 12, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+231 PD, “Playboys Dreams Topsite (PD-playboys.dream.1999.10.21.nfo),” Octo- ber 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+232 PD, “Playboys Dreams Topsite (PD-playboys.dream.1998.10.25.nfo),” Octo- ber 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+233 PD, “Psychadelic Dreams Topsite (PD-psychadelic.dreams.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+234 PDX, “Paradox Topsite (PDX-paradox.1999.02.26.nfo),” February 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+235 PDX, “Paradox Topsite (PDX-paradox.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+236 PG, “Project Genocide Topsite (PG-project.genocide.1998.08.21.nfo),” Au- gust 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+237 PG, “Project Genocide Topsite (PG-project.genocide.1998.07.07.nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+238 PH, “Pirates’ Hideout Topsite (PH-pirates.hideout.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+239 PL, “Paradise Lost Topsite (PL-paradise.lost.1997.11.25.nfo),” November 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+240 PL, “Pirate Lair Topsite (PL-pirate.lair.1999.08.03.nfo),” August 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+241 PL, “Primary Link Topsite (PL-primary.link.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+242 PM, “Prime Mover Topsite (PM-prime.mover.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+243 PM, “Prime Mover Topsite (PM-prime.mover.1998.05.10.nfo),” May 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+244 PP, “Pelos Portal Topsite (PP-pelos.portal.1998.04.22.nfo),” April 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+245 PP, “Piper’s Pit Topsite (PP-pipers.pit.1999.10.21.nfo),” October 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+246 PP, “Pussy Power Topsite (PP-pussy.power.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+247 PR, “Phoenix Rising Topsite (PR-phoenix.rising.1999.10.12.nfo),” October 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+248 PS, “Parasite Topsite (PS-parasite.1998.03.11.nfo),” March 11, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+249 PS, “Progressive Topsite (PS-progressive.1997.03.11.nfo),” March 11, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+250 PSR, “Possible Reality Topsite (PSR-possible.reality.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+251 PST, “Prosperity Topsite (PST-prosperity.1999.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+252 PT, “Pzykotik Thoughts Topsite (PT-pzykotik.thoughts.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+253 PWH, “Pre Whore House Topsite (PWH-pre.whore.house.2000.09.01. nfo),” September 1, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+254 QC, “QuadCon Topsite (QC-quadcon.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+255 QR, “Quantum Reality Topsite (QR-quantum.reality.1998.05.23.nfo),” May 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+256 RA, “Restricted Area Topsite (RA-restricted.area.1999.06.13.nfo),” June 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+257 RAY, “Rebellion Authority Topsite (RAY-rebellion.authority.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
