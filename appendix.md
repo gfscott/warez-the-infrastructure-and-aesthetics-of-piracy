@@ -339,181 +339,32 @@ Unleashed (ULS)[^391] | CORE, CNC,  TRSi, oDDity,  GWA, MiB, ESPRiT, TRSiISO, CO
 Universe (UNV)[^393] | VIETSOUND, TRPS, F4CG, PHOENiX, SHOCK, MOTiV8 | | Europe | 
 Utwente (UT)[^394] | ROYALGSM, ECLiPSE, CROSSFiRE, BliZZARD, LAXiTY, FALLEN, RiSE, DOMiNiON, RAZOR 1911, PARADOX, TFAiSO | | The Netherlands (Based at the University of Twente, inferred from name) | 
 Under World (UW)[^395] | OriGiN, iNTUTiLS, HARLEM, RBSiSO | “Scorching OC-12”, “24 Gig” | USA | IsuGuy, IsuGal[^396]
+Vault Thirteen (V13)[^397] | | | | 
+Virtual Dimension Research Lake (VDR)[^398] | CLS, DOD, DEV | “155Mbits”[^399], “4 Gigabytes iDE - SCSi2”[^400] | Europe[^401] | Red Dragon’s, JAMiLi, Muss, Mrmorris Samuraion Sneeze
+Vision Factory (VF)402 | PDM, EQUALITY, CORE, RISCISO, PDMISO, MUD, DYNASTY, COUNCIL, GWA98, NBD, AMOK, DB | “70 GIG”, “100Mbit” | Germany (implied: has German affils) | 
+Violent Illusions (VI)[^403] | Dongle, LiveEdge, LAXiTY, DF, GLoW, CWS | “Triple Dedicated T1”, “35 GiG” | USA | sirebral, LHD, N3gative, Hack, PGNCreed, duhme[^404]
+Vampyre’s Lair (VL)[^405] | PWA, Empire, SSC | “T3 SPEEDS”, “21 – Gigs” | USA | Vampyre, Dwelar, KnickerZ, Midnight Avian
+Valhalla (V)[^406] | CLASS, SHOCK, EQUALITY, DYNASTY, CORE, INTENSION, HERITAGE, OXYGEN, FAIRLIGHT, RISEISO, EPTISO, RBSISO, SHKiSO, G.N.S., PNTiSO, PARADOX, HS | “200 gIG”, “100 mBIT”, | Europe | 
+Warp Factor Ten (W10)[^407] |  EMPiRE, Pinnacle, TFT | “Er33tD” | Europe[^408] | Beta, Bsphere, Icu812, Warp, Devan, Markgoh[^409]
+Wet Dreams (WD)[^410] | REBELS, EQUALITY, DONGLE, PGC | | Europe[^411] | 
+Warez Free Zone (WFZ)[^412] | MiB, iLT, M8, DDC | “T1 c0NNEXiON” | | 
+White House (WH)[^413] | EQUALITY, CORE, Siege, HiD | “COMPRESSED T-3 ONTO MCI BACKBONE”[^414] | USA |
+Wonder Land (WL)[^415] | SHINING, GWA, EXODUS, MiV | “20gIg”, “34mbIt” | Estonia (“EEHQ”) | 
+The Windmill (WND)[^416] | Karma, Revolt, DoG, DsC, Dynamic | | Europe | LoG, zz187
+World of Chaos (WOC)[^417] | | | | 
+Wouldn’t You Prefer A Good Game of Chess? (WOPR)[^418] | KAC | “Cable” | | 
+Warez Sector (WS)[^419] | eXTReMe WaReZ CouRieRS, AOD, EWC, SHOCK, SWAT | | East Coast USA (“eaST HQ”) | 
+The World Trade Center (WTC)[^420] ENTiTY, MOTiV8, REUNiTED | “T3”, “25+GiGz” | Europe | 
+Watch Tower (WT)[^421] |  USA Pirates Gone Crazy, Teenagers in Crime, 2000AD, Revolt, Real Time Pirates | | USA | Txxxxxx Cxxxxxxx, Mxxxxxxx, Ixxxx, Vxxxxx xxxxx, Kxxxxxxx
+Wild West (WW)[^422] | AVALON Courier | “XFtpd”, “2XT1”, “18 Gig” | | Darksch
+X Filez (XF)[^423] | AVN, DsC, INJ,  MaD, Motiv8, NEC, O13, RTN, RTP, STORM, uCu | “T1”, “12 Gigabytes” | USA[^424] | Xfilez, MarkGoh
+Xenosis (XNS)[^425] | Class, MnM, RiSE, NOBLiEGE, DNG | “3xT3”, “70 GiG”[^426] | USA | KBM, Return Link, Xoen, Split242, Digitzz, Hodd, Moz, tdpriest, Daman
+Xquizit (XQZ)[^427] | Razor, X-Force, USA TRPS, UCF | | USA | 
+X Zone (XZONE)[^428] | WEAPON’98, Phoenix, Storm, Hazard | “2xT3”, “4 gb & 20+ gb Soon”, “Win-NT Server 4.0”[^429] | | J0ker
+Zeus (ZEUS)[^430] | beatforge, cnc, gwa, nbl, ngit, ucf | | | 
+Zilla (ZLA)[^431] | DOD, RZR, CST, ASP, TFA, SR, TFAiSO, PoRNoLATioN, DVNVCD, TFAMp3, BMI | “10MBiTS”, “38 GiGS OF STORAGE”[^432] | USA[^433]
 
-Vault Thir- teen (V13)397
-Vision Fac- PDM, EQUAL- “70 GIG” tory (VF)402 ITY, CORE, “100Mbit” RISCISO, PD-
-MISO, MUD,
-DYNASTY, COUNCIL, GWA98, NBD, AMOK, DB
-Germany (implied: has Ger- man affils)
- Virtual Di- mension Re- search Lake (VDR)398
-CLS, DOD, DEV
-“155Mbits”399
-“4 Gigabytes iDE - SCSi2”400
-Europe401
-Red Dragon’s, JAMi- Li, Muss, Mrmorris Samuraion
-Sneeze
- 397 V13, “Vault Thirteen Topsite (V13-vault.thirteen.1998.08.01.nfo),” August 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-398 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.04.02.nfo),” April 2, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-399 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
-400 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.06.06.nfo),” June 6, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-401 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.05.16.nfo),” May 16, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-402VF, “Vision Factory Topsite (VF-vision.factory.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Violent Illu- sions (VI)403
-Dongle, LiveEdge, LAX- iTY, DF, GLoW, CWS
-“Triple Dedi- cated T1”
-“35 GiG”
-USA
-sirebral, LHD, N3ga- tive, Hack, PGN- Creed, duhme404
- Vampyre’s PWA, Empire, “T3 SPEEDS” USA Vampyre, Dwelar, Lair (VL)405 SSC “21 – Gigs” KnickerZ, Midnight
-Avian
-Valhalla (V)406
-CLASS, SHOCK, EQUALITY, DYNASTY, CORE, INTEN- SION, HERIT- AGE, OXYGEN, FAIRLIGHT, RISEISO, EP- TISO, RBSISO, SHKiSO, G.N.S., PNTiSO, PARA- DOX, HS
-“200 gIG” “100 mBIT”
-Europe
- 403VI, “Violent Illusions Topsite (VI-violent.illusions.1999.09.18.nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-404VI, “Violent Illusions Topsite (VI-violent.illusions.1999.06.11.nfo),” June 11, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-405VL, “Vampyre’s Lair Topsite (VL-vampyres.lair.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-406 V, “Valhalla Topsite (V-valhalla.2000.07.17.nfo),” July 17, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Warp Factor EMPiRE, Pin- Ten (W10)407 nacle, TFT
-Warez MiB, iLT, M8, Free Zone DDC (WFZ)412
-“Er33tD”
-Europe408
-Beta, Bsphere, Icu812, Warp, Devan, Mark- goh409
- Wet Dreams (WD)410
-REBELS, EQUALITY, DONGLE, PGC
-Europe411
-“T1 c0NNEX- iON”
-White House (WH)413
-EQUALITY, CORE, Siege, HiD
-“COM- PRESSED T-3 ONTO MCI BACK- BONE”414
-USA
- 407W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.11.07.nfo),” November 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-408W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-409 W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-410 WD, “Wet Dreams Topsite (WD-wet.dreams.1999.05.27.nfo),” May 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-411 WD, “Wet Dreams Topsite (WD-wet.dreams.1999.04.25.nfo),” April 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-412 WFZ, “Warez Free Zone Topsite (WFZ-warez.free.zone.1999.07.10.nfo),” July 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-413 WH, “White House Topsite (WH-white.house.1998.09.09.nfo),” September
-9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-414 WH, “White House Topsite (WH-white.house.1998.03.15.nfo),” March 15,
-1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Wonder SHINING, “20gIg” Land (WL)415GWA, EXO- “34mbIt”
-Estonia (“EEHQ”)
-DUS, MiV
-World
-of Chaos (WOC)417
- The Windmill (WND)416
-Karma, Revolt, DoG, DsC, Dynamic
-Europe
-LoG, zz187
-Wouldn’t You Prefer A Good Game of Chess? (WOPR)418
-KAC
-“Cable”
-Warez SectoreXTReMe (WS)419 WaReZ CouRi-
-eRS, AOD, EWC, SHOCK, SWAT
-East Coast USA (“eaST HQ”)
- 415 WL, “Wonder Land Topsite (WL-wonderland.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-416 WND, “The Windmill Topsite (WND-the.windmill.1997.06.19.nfo),” June 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-417 WOC, “World of Chaos Topsite (WOC-world.of.chaos.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-418 WOPR, “Wouldn’t You Prefer A Good Game of Chess? Topsite (WOPR- wopr.1998.08.14.nfo),” August 14, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
-419 WS, “Warez Sector Topsite (WS-warez.sector.1997.04.17.nfo),” April 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The World Trade Center (WTC)420
-ENTiTY, MOTiV8, REU- NiTED
-“T3” “25+GiGz”
-Europe
- Watch TowerPirates Gone USA
-Txxxxxx Cxxxxxxx, Mxxxxxxx, Ixxxx, Vxxxxx
-xxxxx, Kxxxxxxx
-Xfilez, MarkGoh
-(WT)421
-Crazy, Teenag- ers in Crime, 2000AD, Revolt, Real Time Pirates
-AVN, DsC, INJ, “T1” USA424 MaD, Motiv8, “12 Gigabytes”
-NEC, O13, RTN,
-RTP, STORM,
-uCu
-Wild West (WW)422
-AVALON Courier
-“XFtpd” “2XT1” “18 Gig”
-Darksch
-X Filez (XF)423
-Xenosis (XNS)425
-Class, MnM, RiSE, NO- BLiEGE, DNG
-“3xT3”
-“70 GiG”426
-USA
-KBM, Return Link, Xoen, Split242, Digitzz, Hodd, Moz, tdpriest, Daman
- 420WTC, “World Trade Center Topsite (WTC-world.trade.center.1998.07.07. nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-421 WT, “Watch Tower Topsite (WT-watch.tower.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-422 WW, “Wild West Topsite (WW-wild.west.1998.09.04.nfo),” September 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-423 XF, “X Filez Topsite (XF-x.filez.1997.08.15.nfo),” August 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-424XF, “X Filez Topsite (XF-x.filez.1997.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-425 XNS, “Xenosis Topsite (XNS-xenosis.1998.06.10.nfo),” June 10, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-426XNS, “Xenosis Topsite (XNS-xenosis.1998.05.18.nfo),” May 18, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Xquizit (XQZ)427
-Zeus (ZEUS)430
-Razor, X-Force, USA TRPS, UCF
-beatforge, cnc, gwa, nbl, ngit, ucf
- X Zone (XZONE)428
-WEAPON’98, Phoenix, Storm, Hazard
-“2xT3”
-“4 gb & 20+ gb Soon” “Win-NT Server 4.0”429
-J0ker
-Zilla (ZLA)431
-DOD, RZR, CST, ASP, TFA, SR, TFAiSO, PoRNoLATioN, DVNVCD, TFAMp3, BMI
-“10MBiTS” “38 GiGS OF STORAGE”432
-USA433
- 427 XQZ, “Xquizit Topsite (XQZ-xquizit.1999.07.24.nfo),” July 24, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-428XZONE, “X Zone Topsite (XZONE-x.zone.1998.03.01.nfo),” March 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-429XZONE, “X Zone Topsite (XZONE-x.zone.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-430ZEUS, “Zeus Topsite (ZEUS-zeus.1998.11.20.nfo),” November 20, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-431 ZLA, “Zilla Topsite (ZLA-zilla.1999.06.30.nfo),” June 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-432 ZLA, “Zilla Topsite (ZLA-zilla.1998.08.09.nfo),” August 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-433 ZLA, “Zilla Topsite (ZLA-zilla.1999.02.17.nfo),” February 17, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-Z Land Clockwerk, “28 gigs” Zman (ZL)434 Illusion, BL98, “3 MBit”
-Resource, DOG
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
- 434ZL, “Z Land Topsite (ZL-zland.1998.12.02.nfo),” December 2, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+ 
 
 ### FOOTNOTES
 
@@ -910,3 +761,41 @@ Siteops and Nukers/ Notes
 394 UT, “Utwente Topsite (UT-utwente.2001.07.17.nfo),” July 17, 2001, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
 395 UW, “Under World Topsite (UW-under.world.1999.05.06.nfo),” May 6, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
 396 UW, “Under World Topsite (UW-under.world.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+397 V13, “Vault Thirteen Topsite (V13-vault.thirteen.1998.08.01.nfo),” August 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+398 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.04.02.nfo),” April 2, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+399 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
+400 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.06.06.nfo),” June 6, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+401 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.05.16.nfo),” May 16, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+402 VF, “Vision Factory Topsite (VF-vision.factory.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+403 VI, “Violent Illusions Topsite (VI-violent.illusions.1999.09.18.nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+404 VI, “Violent Illusions Topsite (VI-violent.illusions.1999.06.11.nfo),” June 11, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+405 VL, “Vampyre’s Lair Topsite (VL-vampyres.lair.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+406 V, “Valhalla Topsite (V-valhalla.2000.07.17.nfo),” July 17, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+407 W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.11.07.nfo),” November 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+408 W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+409 W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+410 WD, “Wet Dreams Topsite (WD-wet.dreams.1999.05.27.nfo),” May 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+411 WD, “Wet Dreams Topsite (WD-wet.dreams.1999.04.25.nfo),” April 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+412 WFZ, “Warez Free Zone Topsite (WFZ-warez.free.zone.1999.07.10.nfo),” July 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+413 WH, “White House Topsite (WH-white.house.1998.09.09.nfo),” September 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+414 WH, “White House Topsite (WH-white.house.1998.03.15.nfo),” March 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+415 WL, “Wonder Land Topsite (WL-wonderland.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+416 WND, “The Windmill Topsite (WND-the.windmill.1997.06.19.nfo),” June 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+417 WOC, “World of Chaos Topsite (WOC-world.of.chaos.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+418 WOPR, “Wouldn’t You Prefer A Good Game of Chess? Topsite (WOPR- wopr.1998.08.14.nfo),” August 14, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
+419 WS, “Warez Sector Topsite (WS-warez.sector.1997.04.17.nfo),” April 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+420 WTC, “World Trade Center Topsite (WTC-world.trade.center.1998.07.07. nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+421 WT, “Watch Tower Topsite (WT-watch.tower.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+422 WW, “Wild West Topsite (WW-wild.west.1998.09.04.nfo),” September 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+423 XF, “X Filez Topsite (XF-x.filez.1997.08.15.nfo),” August 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+424 XF, “X Filez Topsite (XF-x.filez.1997.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+425 XNS, “Xenosis Topsite (XNS-xenosis.1998.06.10.nfo),” June 10, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+426 XNS, “Xenosis Topsite (XNS-xenosis.1998.05.18.nfo),” May 18, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+427 XQZ, “Xquizit Topsite (XQZ-xquizit.1999.07.24.nfo),” July 24, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+428 XZONE, “X Zone Topsite (XZONE-x.zone.1998.03.01.nfo),” March 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+429 XZONE, “X Zone Topsite (XZONE-x.zone.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+430 ZEUS, “Zeus Topsite (ZEUS-zeus.1998.11.20.nfo),” November 20, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+431 ZLA, “Zilla Topsite (ZLA-zilla.1999.06.30.nfo),” June 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+432 ZLA, “Zilla Topsite (ZLA-zilla.1998.08.09.nfo),” August 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+433 ZLA, “Zilla Topsite (ZLA-zilla.1999.02.17.nfo),” February 17, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+434 ZL, “Z Land Topsite (ZL-zland.1998.12.02.nfo),” December 2, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
