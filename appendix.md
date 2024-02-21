@@ -229,716 +229,117 @@ Pzykotik Thoughts (PT)[^252] | | | |
 Pre Whore House (PWH)[^253] | ANGELS ON DRUGS, DiViNE, DRiNK OR DiE, PARA- DOX, DiGiTAL FACTORY, HERiTAGE, PHROZEN CREW, iNTENSiON, ZONE | | Europe | 
 Quadcon (QC)[^254] | RiSCiSO, Ranaissance, SHOCK, CoNCePT, RNG, GPF | “2 Separate T1 Systems”, “43gb Main/ ISO”, “7gb Release” | USA | Katman, GaL, BanDiDo, Koyote, Poo, CorrupT
 Quantum Reality (QR)[^255] | RiSE, CELEBRE | | | 
-Restricted Area (RA)[256] | AMBiSO, CERTiSO, iSOBELiX, DTD, MNMiSO, VCDEUROPE | “3xT3”, “54GIGS” | Czech Republic | Suvivant, KloWn__, Toaster, Bill, KIDSSHoW, Mackaque
+Restricted Area (RA)[256] | AMBiSO, CERTiSO, iSOBELiX, DTD, MNMiSO, VCD-EUROPE | “3xT3”, “54GIGS” | Czech Republic | Suvivant, KloWn__, Toaster, Bill, KIDSSHoW, Mackaque
 Rebellion Authority (RAY)[^257] | ESPRiT, BLiZZARD, PFT | | Europe |
+The Rebellion (RBL)[^258] | | | | 
+Rand0m Cha0s (RC)[^259] | O13, Motiv8, ORC, Corruption, Legendary, PCW | | USA |
+The Relic (RELIC)[^260] | X-FORCE, ILLICIT | | USA | DaliX, daLoner, Stinger, mandrake, mrsaint
+Reality Flux (RFLUX)[^261] | Phrozen Crew, Premiere | “linux powered”, “t1”[^262] | Canada |
+Ratz Hole (RH)[^263] | Razor 1911, Drink Or Die, Enterprise, We Love Warez, MOTiV8, TrPS | | USA | Hackrat (Mike Nguyen)[^264], shark[^265]
+Realms of Chaos (ROC)[^266] | EQUALiTY, CORE, X-FoRCE, Dsi, DiViNE, FCN | “powered by EQLFTPD” | | 
+Relentless Pipeline (RP)[^267] | PROPHECY, SHOCK | “10Mbit ConXtion”, “15 Gigs Online”, “glFtpD” | USA | \_Hype\_
+RZ Soft (RZ)[^268] | | “10MB/s rFtpd”, “21GB Online” | | GL
+Satan’s Dome (SD)[^269] | ESPRiT, MASSiVE, WARRiOR, RADiUM | “rFtpD”, “15GiGz”, “T3”[^270] | |  D_S, Blas, nice
+Sanitarium (SANI)[^271] | SSC, MAD, Atomic-X | “31.2 GiGs” | USA[^272] | Cdeth, GaL, Syn, CnC, Slashwolf
+Secured Area (SA)[^273] | OVK, AOD | | Europe | JFM
+San Bruno Club (SBC)[^274] | PROPHECY, X-FORCE, CORPORATION, LAXiTY, ASiANPOWER | “50+ GigS”, “Flaming DS-3” | USA[^275] | SBC, dlThunder, warezone[^276]
+The Sandokan’s Dome (SDK)[^277] | AValoN, ORB, Zer0HouR, RoCkFoRcE, WTA, EsPRiT | “LiNuX 2.0.32”, “P200”, “64MB” [assumed RAM], “rFtpD v2.21B7”, “10 Gigz”, “10 Mbps” | | B0LET0, DVST8, SANDOKAN, STRACAZZ
+Solid Disruption (SD)[^278] | LEGACY, WEAPON, F4CG | | Europe | 
+Surface Defect (SD)[^279] | WARRIOR, ECG, ACE, CTW, Nexus | “T3”, “18 gigs” | | Hypocrisy, The_DoN, Culture <br>Site rules: <br>[S]ite [R]ules <br>[o1] Linfxp/Pftp/ Scripting are banned <br>[o2] No Foreign/ISO Uploads <br>[o3] No Bookware/Freeware/Shareware <br>[o4] Beta’s/Win- builds okay <br>[o5] Alpha’s are not allowed[^280]
+Savage Exile (SE)[^281] | ILLICIT, FPS, OP CRITICAL ILLUSION | “TOO MUCH SPACE”, “FAST SITE” | | 
+Sonic Empire (SE)[^282] | ZYLON, ESTEEM, ASSAULT, PGC | | | 
+Silicon Exchange (SEX)[^283] | GCRACK, SCuM, TLT, RTN | | | 
+Springfield (SF)[^284] | Kryptic, Heritage, Karma, GdW | | | Mr Burnz, maloo, stuph
+Shadow Gate (SG)[^285] | CertISO, High Voltage, Mille- nium, PHXiSO, RobinHood, Warez4Ever | “Blazing T3”, “45 GBs” | | 
+Shike (SHK)[^286] | | | | T3Mace, Mc
+The Cellar (SLR)[^287] | KAC, F4CG, Warpon, PWA, MiLLENiUM, ORiGiN | | USA | Anthrax, Ruskin, MindFink, CoRRoS\|oN, dev, MindFink, CoRRoS\|oN, dARKsUN, Red_Obelisk, Akasha, Red_Obelisk, FaithMuse, Caster[^288]
+Sand Land (SL)[^289] | PWA, CLASS, TFT, RC | | Europe | 
+Socrates (SOC)[^290] | REQUEST TO SEND | “13GIGS”, “T3” | | Chinese Eyes, NiNJA, Count Zero, Diztorted, Ordnance
+South of Heaven (SOH)[^291] | Dark Star, Ambition Courier | | | 
+The Spade (SPADE)[^292] | Deviance iSO, REBELS, ECG iSO, THE FLAME ARROWS iSO | “10MBits”, “30 GiGz” | Norway | 
+Secret Paradise (SP)[^293] | | | | 
+Shattered Reality (SR)[^294] | hv98, Control 98, Warez4Ever, HUNTERz, united warez, b198, DWA, PrimeNemisis | “10mb CoN NeCTion”, “18 GiGZ” | | Warezguy, krumpet
+Silly Symphonies (SS)[^295] | MiLLENNiUM, Drink or Die, DARK SiDE | | Finland | 
+Stairway to Heaven (STH)[^296] | CLASS, PiRATES WiTH ATTiTUDES | | Europe | cq, br, gi, he, fh[^297]
+Sun (SUN)[^298] | ExoduS, TMG | | | 
+Spice World (SW)[^299] | DF, Harlem, LG | | Europe | 
+Syn City (SYN)[^300] | Razor 1911, MiLLENNiUM, Drink Or Die, XForce, RISC, AMN, Rapier, DEV, EMP, DIV, MNC, Fate | “T3”, “Cisco4000”, “100MB-TX”, “15GB”301 | | Synapse, Doobie
+Storm Zone (SZ)[^302] | DWA, Rezent, DW, UW, BIOS, MIB, PULSAR | “54gb”, “3mbit cable modem” | | Stormeist, Gramonsm SoNiK, Spaten, BigLoo, Riptide
+Talinc (TAL)[^303] | AMBiSO, AMBiTiON, iCOiSO, FALLEN, PARADiGM, PiNNACLE, Dsi, SLT | | Europe | 
+The Ancient Ruins (TAR)[^304] | DW98, UFC2000, TBS, NIC, FATE | | | 
+The Armageddon (TA)[^305] | RBS, ATN, DMS, RSR, AMB | “T3-SPEED”, “XX-GiGZ” | | 
+The Black Box (TBB)[^306] | AMBiSO, CERTiSO, PROPHECY, VCDUEUROPE | | | Survivant, KLoWn__, Flying-Toaster, hyd
+Tera-Bit-Fit (TBF)[^307] | AVALON | “8 GiGZ” | USA | THE AVALON MIRRORMEN
+Turbulence (TBL)[^308] | KIN, DMS, ZhR, hV, dWA, HT, FND, ODT | | | 
+The Bottomless Pit (TBP)[^309] | Natosoft, SiEGE, Warp98 | “T3”, “23GIG” | USA | 
+The Boxer Rebellion (TBR)[^310] | Drink or Die, RTS | | | 
+The Corner Deli (TCD)[^311] |  Thunder, Premiere, Global Crackers | | USA | 
+The Center (TC)[^312] | Backlash, GWA, Council | | Germany |
+Trash City (TC)[^313] | SHOCK, FRONTiER, EXECUIVE, iNTENSITY, TFA | | USA | Chrys, Dev, Gal, Rockz, Havok, CyberWar, AcidApple, X-Frog, Officedog[^314]
+The Digital Afterlife (TDA)[^315] | | Sitering. <br>FUBAR: USA, T3 <br>NetherWorld: Europe, T1+ <br>Da Crew, USA, T3 <br>Kinetics, USA, T1 <br>Gothom, USA, T1 <br>Abyss, USA, T1 <br>Bomb, 2xT1 <br>Hall of Gnana, USA, T1 <br>TGU, USA, T3 | USA, Europe | Crimson, Renfro, Doc_X, phoxphyre, icu812, M-80, Deadchane, Phenomeno, Bigjilm, Grinder_, Demented, Dav312, WildWendy, cyphen, Net^king, Statics, observer
+The Dragons Den (TDD)[^316] | Millennium Courier, Eclipse Interactive | | USA | Daphantm, Seven, Rare<sup>2</sup>[^317]
+The Dawg House (TDH)[^318] | PHC, Dynamic, DST, HTG, EPI, Motiv8, FCC, FCN, TDA, Rapid | | USA | SKYDEMON, SHMO
+The Digital Harm (TDH)[^319] | SSC, LIQUID, SHOCK, ADDICTION, NZPD, THIEVES, RISE, UCU | | | neotericE
+The Desert Inn (TDI)[^320] | LNDiSO, RockForce, FBW | | USA | 
+The Dead Land (TDL)[^321] | R.T.S., STONHENGE, DIVINE, SYNICLE | | USA |
+The Diamond Mind (TDM)[^322] | SHOCK, AMNESIA, RAZOR | “granolaFTP” | | MikDiamon, Slice- 
+The Dawg Pound (TDP)[^323] | CWS, FBW, Demise, RockForce, StyLe, SynicaL, AOD | | USA[^324] | ^DaWg^, hoax, doors, explorer, himie009, kronder, vylent
+The Devil’s Pit (TDP)[^325] | WaRP, GLoW, UCF, DEViOUS, TE, Future | “T3”, “34GB” | USA | HSOBIC, ScabZ, necrosis, Xndo, Raskah
+The Dark Site (TDS)[^326] | RAPiD, GPF, Heritage | | Canada | 
+The Dome (TD)[^327] | PGC | “T3”, “20 Gigabytes” | Canada |
+The Drop Zone (TDZ)[^328] | FPS, ILLICIT, IMPACT, COAL | “tEEtHREE” | USA | 
+The Third Total Eclipse (TE3)[^329] | DSC, DF, HiD, LiVeEdgE | | | 
+ The Electric Circus (TEC)[^330] | AXiS, RoK, Rebels  | | Europe | Gromit, G-Bit, Druggy, Liquide
+Trans Electronic Light (TEL)[^331] | The Force Team | | | 
+The Temple (TEMP)[^332] | CLASS, RELIANCE | | USA |
+The Ether Net (TEN)[^333] | ADDCTION \[sic\], MYTH, TRPS, IPA, 2000AD, ECLIPSE, CORE, RBSiSO, iNTUTiLS, XCRYPT, LAXiTY, WLW | “174 GIG”, “10MBIT” | USA |
+The Enterprise (TE)[^334] INTENSITY, EXPLOSiON, TRPS | | USA | 
+Total Eclipse (TE)[^335] | | | | Jacket, ^\_TE\_^, Arsenel, Kang6902, Vampire, C6, Endymiom, Leslie
+The Fried Rabbit (TFR)[^336] | | | | 
+The Flash (TF)[^337] | LND, RTS | “TEE THREE”, “6.5 GIGS” | USA | 
+The Gateway (TG)[^338] | ENTiTY, REFLUX, PROPHECY | “20 GiGS”, “100 mbit” | USA | X, Dee, Hazzy, Phiber, Dream, BasecW, Sting, Tinywulf, Gal[^339]
+The Haven (TH)[^340] | EMPiRE, X- FORCE | | | 
+Tragic Kingdom (TK)[^341] | NvC, X-Force | “T3”, “12 Gigz” | | Skydemon, SHmo, Icu812[^342]
+The Toilet (TLT)[^343] | SWP, DARKSTAR, Tension, LG, MaD, fATE, WLW | | USA |
+The Mother Superior (TMS)[^344] |  ORiGIN, KAC, PREMiERE, DiMENSION | | USA |
+Terrible Mistake (TM)[^345] | RPG, FUSION, WARP, DARKSTAR, PSYCHO | | Russia | 
+The Matrix (TM)[^346] | BLC, BSC, BNW, Natosoft, RockForce | | | 
+The Number of the Beast (TNB)[^347] | TeKno Rage, PiraSofT, SToRM, MOTiV8, EsTeeM, File PRoPuLSiON SySTeMs | “19.5 GiGaByTeS”, “266 BlaZing MhZ”, “WAR-FTPd” | USA | LaZaRus
+The New Forge (TNF)[^348] | REVOLT, MOTiV8, TUR | | USA |  Eyes22, KoraK, riches, Goliath^
+The Neverland (TNL)[^349] | Natosoft, FBW, Warez Central, Reflex, Threat, MOD, Nytekill | “blazing t3”, “22GB”, “Linux 2.0.36”, “Glftpd 1.18”[^350] | West Coast USA | Papa, Eins, Dave\/ Gniz, Blade
+The Nympho Temple (TNT)[^351] | SiEGE, CLASS | | USA | 
+The Orion Syndicate (TOS)[^352] | SiEGE, CLASS, DEVOTiON, PGC, EviL | | | devestator, garoto, sj
+Technology Overload (TO)[^353] | SYNTHESiS,  GLoW, TPC, TRPS, DiVINE | “10MBITS”, “17 GiGS” | USA | techfuzz, CraZyFiRE[^354]
+Temple of Torture (TOT)[^355] | ESPRiT, CRYSTAL, GWA, RDC, 2000AD, CNC, DEMON, TPC | | Europe | 
+The Pharmacy (TPH)[^356] | | “T1+” | | 
+The Prophecy (TP)[^357] | MnM, CORE, DOD | “XFTP’d”, “T3/DS3”[^358] | USA | Sxxxxx, Kxxxx ,Exxxx[^359]
+The Pyramid (TP)[^360] | MOONSHINE, LND, MYTH, SOLiTUDE, SCAR, dF, PROPHECY, GWA, HERITAGE, 2000AD, EPTiSO, DEViANCE, TFL, PARADOX, VCD-EUROPE | “OC48 Connection” “550GiG” | South Korea[^361] | 
+The Raging Monkey (TRM)[^362] | | ftp4all[^363] | | 
+The Rising Sun (TRS)[^364] | SiEGE, CLASS | “T3 SPEED”, “10 GiGS”, “RFTPD” | USA | Maloo, KRS-ONE[^365]
+The River (TR)[^366] | MNM, RISE, THG | | USA | 
+The Rock (TR)[^367] | BLIZZARD, USA ORIGIN, PDA-ZONE, PWA, PREMIERE | | USA |
+The Sadistic Granddaughter (TSG)[^368] | Absolut, Esprit, Premiere, Prophecy, The Players Club | | Europe |
+The Site (TS)[^369] | iNTUTiLS, oDDiTy, JGT, PGC, ViSION, DF | | Sweden | 
+The Tombstone (TS)[^370] | FCN, RTA, ECG | | USA | hxxxx, Nxxxxxxxx, Cxxxxx, pxx, Sxxxxxxx, Ixxxxxx
+The Toxic Dump (TTD)[^371] | RAZOR NINETEEN ELEVEN, THE REVIEWERS GUILD, RTN | | | TOAST, MRMONSTER, NASH, HOZIRIS
+Titty Twister (TT)[^372] | MANiFEST, DYNASTY, COUNCiL, ECLiPSE, 2000AD, PiNNACLE, ORiGIN | “45 GiGz”, “T3”[^373] | Europe | 
+The Unknown Realm (TUR)[^374] | Fluke, Mercury, VLN, Hi-Jack, Distortion | | | Tipz, Scumby, Garr
+The Void (TVD)[^375] | | | | 
+The Vanishing Point (TVP)[^376] | | | | 
+Tar Valon (TV)[^377] | | | | 
+Terminal Velocity (TV)[^378] | DIMENSION, FALLEN, ORIGIN, PENTIUM FORCE TEAM, RENEGADE, REVOLUTION | “T3”, “50GB 0day”, “50GB iSO/VCD” |  USA | 
+The Wolves House (TWH)[^379] | Equality, Shock, TRPS, Core, PRECiSE | | The Netherlands[^380] | Wolfje, Sony[^381]
+Twilight (TWI)[^382] | F4CG, RBS, DVN, MFD, RTS, CiFE, DVNiSO, RBSiSO, PORNOLATION, DTD, DVNPSX, DVNVCD | “100Mbps connection”[^383] | USA | 
+The Waste Land (TWL)[^384] | REQUEST TO SEND, TRPS, UCF2000, WARRiOR, FATIGUED COURIERS NETWORK | | Canada | SPEARFISH, DRUGGY, DiZZY, MARBiTOZ[^385]
+Terra X (TX)[^386] | AoD, CrC’98, KLN, UCL | “T-1+” “22Gb” | USA | Tys
+Unhuman Creations (UC)[^387] | SKL, LND, Motiv8, EPI | | | 
+United Centre (UC)[^388] | | “130 GB online” | United Kingdom (inferred from spelling of “Centre” in British English) | 
+Unconquered Dreams (UD)[^389] | | “3mbit ADSL”, “30Gb Online” | | DarkNinja[^390]
+Unleashed (ULS)[^391] | CORE, CNC,  TRSi, oDDity,  GWA, MiB, ESPRiT, TRSiISO, COREpda,POEpda | “T3”, “25+GB” | Europe | MeDlor, Sekmeth, AfterDark[^392]
+Universe (UNV)[^393] | VIETSOUND, TRPS, F4CG, PHOENiX, SHOCK, MOTiV8 | | Europe | 
+Utwente (UT)[^394] | ROYALGSM, ECLiPSE, CROSSFiRE, BliZZARD, LAXiTY, FALLEN, RiSE, DOMiNiON, RAZOR 1911, PARADOX, TFAiSO | | The Netherlands (Based at the University of Twente, inferred from name) | 
+Under World (UW)[^395] | OriGiN, iNTUTiLS, HARLEM, RBSiSO | “Scorching OC-12”, “24 Gig” | USA | IsuGuy, IsuGal[^396]
 
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Rebel- lion (RBL)258
-The Relic (RELIC)260
-Ratz Hole (RH)263
-X-FORCE, IL- LICIT
-Razor 1911, Drink Or Die, Enterprise, We Love Warez, MOTiV8, TrPS
-USA DaliX, daLoner, Stinger, mandrake,
-mrsaint
-USA Hackrat (Mike Nguyen)264
-shark265
- Rand0m Cha0s (RC)259
-O13, Motiv8, ORC, Corrup- tion, Legendary, PCW
-USA
-Reality Flux (RFLUX)261
-Phrozen Crew, Premiere
-“linux pow- ered”
-“t1”262
-Canada
-Realms of Chaos (ROC)266
-EQUAL-
-iTY, CORE, X-FoRCE, Dsi, DiViNE, FCN
-“powered by EQLFTPD”
- 258 RBL, “The Rebellion Topsite (RBL-the.rebellion.1997.02.19.nfo),” February 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-259 RC, “Rand0m Cha0s Topsite (RC-random.chaos.1997.09.05.nfo),” Septem-
-ber 5, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 260RELIC, “The Relic Topsite (RELIC-the.relic.1997.12.29.nfo),” December 29,
-1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-261 RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.07.03.nfo),” July 3,
-1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-262 RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.03.03.nfo),” March
-3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-263 RH, “Ratz Hole Topsite (RH-ratzhole.1999.08.14.nfo),” August 14, 1999,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-264Paul Craig, Software Piracy Exposed (Rockland: Syngress, 2005), 197. 265 “Operation Buccaneer (operation_buccaneer.txt),” 2000, mp3scene.info. 266ROC, “Realms of Chaos Topsite (ROC-realms.of.chaos.1998.11.23.nfo),”
-November 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Relentless Pipeline (RP)267
-Satan’s Dome (SD)269
-Secured Area (SA)273
-PROPHECY, SHOCK
-“10Mbit ConX- USA tion”
-“15 Gigs On-
-line”
-_Hype_
-D_S, Blas, nice
-JFM
-ESPRiT, MAS-
-SiVE, WAR-
-RiOR, RADiUM“T3”270
-OVK, AOD
-Europe
-“glFtpD”
- RZ Soft (RZ)268
-“10MB/s rFtpd” “21GB Online”
-GL
-“rFtpD” “15GiGz”
-Sanitarium (SANI)271
-SSC, MAD, Atomic-X
-“31.2 GiGs”
-USA272
-Cdeth, GaL, Syn, CnC, Slashwolf
- 267 RP, “Relentless Pipeline Topsite (RP-relentless.pipeline.1998.10.02.nfo),” October 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-268RZ, “RZ Soft Topsite (RZ-rzsoft.1997.12.22.nfo),” December 22, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-269SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-270SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-271 SANI, “Sanitarium Topsite (SANI-sanitarium.1998.01.08.nfo),” January 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-272 SANI, “Sanitarium Topsite (SANI-sanitarium.1997.06.13.nfo),” June 13, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-273 SA, “Secured Area Topsite (SA-secured.area.1997.02.22.nfo),” February 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-The Sando- AValoN, ORB, kan’s Dome Zer0HouR, (SDK)277 RoCkFoRcE,
-WTA, EsPRiT
-“LiNuX 2.0.32” “P200” “64MB” [as- sumed RAM] “rFtpD v2.21B7”
-“10 Gigz” “10 Mbps”
-B0LET0, DVST8, SANDOKAN, STRA- CAZZ
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-San
-Bruno Club (SBC)274
-PROPH-
-ECY, X-FORCE, CORPORA- TION, LAXiTY, ASiANPOWER
-“50+ GigS” “Flaming DS-3”
-USA275
-SBC, dlThunder, warezone276
- Solid Disruption (SD)278
-LEGACY, WEAPON, F4CG
-Europe
- 274 SBC, “San Bruno Club Topsite (SBC-san.bruno.club.2000.02.26.nfo),” February 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-275 SBC, “San Bruno Club Topsite (SBC-san.bruno.club.1999.12.27.nfo),” December 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-276There is some confusion in the archive, but I believe that San Bruno Club was previously known only as San Bruno, hence the merge here of NFOs for sites with different abbreviations. SB, “San Bruno Topsite (SB-san. bruno.1998.07.01.nfo),” July 1, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-277 SDK, “The Sandokan’s Dome Topsite (SDK-the.sandokans. dome.1998.02.25.nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.col- lection.v1.0.24351.shroo.ms.zip.
-278 SD, “Solid Disruption Topsite (SD-solid.disruption.1998.06.27.nfo),” June 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Surface De- fect (SD)279
-WARRIOR, ECG, ACE, CTW, Nexus
-“T3”
-“18 gigs”
-Hypocrisy, The_DoN, Culture
-Site rules: [S]ite [R]ules
-[o1] Linfxp/Pftp/ Scripting are banned [o2] No Foreign/ISO Uploads
-[o3] No Bookware/ Freeware/Shareware [o4] Beta’s/Win- builds okay
-[o5] Alpha’s are not allowed280
- Savage Exile (SE)281
-ILLICIT, FPS, OP CRITICAL ILLUSION
-“TOO MUCH SPACE” “FAST SITE”
-Sonic Em- pire (SE)282
-ZYLON, ESTEEM, AS- SAULT, PGC
-Silicon Exchange (SEX)283
-GCRACK, SCuM, TLT, RTN
- 279 SD, “Surface Defect Topsite (SD-surface.defect.1998.09.25.nfo),” September 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-280SD, “Surface Defect Topsite (SD-surface.defect.1998.06.06.nfo),” June 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-281 SE, “Savage Exile Topsite (SE-savage.exile.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-282 SE, “Sonic Empire Topsite (SE-sonic.empire.1998.01.03.nfo),” January 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-283 SEX, “Silicon Exchange Topsite (SEX-silicon.exchange.1999.05.24.nfo),” May 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-Springfield (SF)284
-Shike (SHK)286
-Kryptic, Herit- age, Karma, GdW
-Mr Burnz, maloo, stuph
-T3Mace, Mc
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
- Shadow Gate (SG)285
-CertISO, High Voltage, Mille- nium, PHXiSO, RobinHood, Warez4Ever
-“Blazing T3” “45 GBs”
-The Cellar (SLR)287
-KAC, F4CG, Warpon, PWA, MiLLENiUM, ORiGiN
-USA
-Anthrax, Rus-
-kin, MindFink, CoRRoS|oN,
-dev, MindFink, CoRRoS|oN, dARK- sUN, Red_Obelisk, Akasha, Red_Ob- elisk, FaithMuse, Caster288
-Sand Land (SL)289
-PWA, CLASS, TFT, RC
-Europe
-Socrates (SOC)290
-REQUEST TO SEND
-“13GIGS” “T3”
-Chinese Eyes, NiNJA, Count Zero, Diz- torted, Ordnance
- 284SF, “Springfield Topsite (SF-springfield.1997.04.06.nfo),” April 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-285 SG, “Shadow Gate Topsite (SG-shadow.gate.1999.04.21.nfo),” April 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-286SHK, “Shike Topsite (SHK-shike.1997.05.28.nfo),” May 28, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-287 SLR, “The Cellar Topsite (SLR-the.cellar.1998.11.08.nfo),” November 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 288SLR, “The Cellar Topsite (SLR-the.cellar.1998.09.07.nfo),” September 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-289SL, “Sand Land Topsite (SL-sand.land.1997.10.29.nfo),” October 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-290SOC, “Socrates Topsite (SOC-socrates.1997.11.12.nfo),” November 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-South of Heaven (SOH)291
-Secret Para- dise (SP)293
-Silly Sym- phonies (SS)295
-Dark Star, Am- bition Courier
- The Spade (SPADE)292
-Deviance iSO, REBELS, ECG iSO, THE FLAME AR- ROWS iSO
-“10MBits” “30 GiGz”
-Norway
-Shattered Reality (SR)294
-hv98, Control 98, Warez4Ever, HUNTERz, united warez, b198, DWA, PrimeNemisis
-“10mb CoN- NeCTion” “18 GiGZ”
-Warezguy, krumpet
-MiLLENNiUM, Drink or Die, DARK SiDE
-Finland
-Stairway to Heaven (STH)296
-CLASS, Pi- RATES WiTH ATTiTUDES
-Europe
-cq, br, gi, he, fh297
- 291 SOH, “South of Heaven Topsite (SOH-south.of.heaven.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-292 SPADE, “The Spade Topsite (SPADE-the.spade.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-293 SP, “Secret Paradise Topsite (SP-secret.paradise.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-294SR, “Shattered Reality Topsite (SR-shattered.reality.1998.10.05.nfo),” Octo- ber 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-295 SS, “Silly Symphonies Topsite (SS-silly.symphonies.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-296STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1999.08.27. nfo),” August 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-297 STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1997.02.16. nfo),” February 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-
-Sun (SUN)298ExoduS, TMG
-Syn City (SYN)300
-Talinc (TAL)303
-Razor 1911, “T3” MiLLENNiUM, “Cisco4000”
-Synapse, Doobie
-Drink Or Die, XForce, RISC, AMN, Rapier, DEV, EMP, DIV, MNC, Fate
-AMBiSO, AM- BiTiON, iCOi- SO, FALLEN, PARADiGM, PiNNACLE, Dsi, SLT
-“100MB-TX” “15GB”301
-Europe
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
- Spice World (SW)299
-DF, Harlem, LG
-Europe
-Storm Zone (SZ)302
-DWA, Rezent, DW, UW, BIOS, MIB, PULSAR
-“54gb” “3mbit cable modem”
-Stormeist, Gramon- sm SoNiK, Spaten, BigLoo, Riptide
-The Ancient Ruins (TAR)304
-DW98, UFC2000, TBS, NIC, FATE
- 298SUN, “Sun Topsite (SUN-sun.1999.11.09.nfo),” November 9, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-299SW, “Spice World Topsite (SW-spice.world.1998.06.21.nfo),” June 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-300SYN, “Syn City Topsite (SYN-syncity.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-301 SYN, “Syn City Topsite (SYN-syncity.1996.11.04.nfo),” November 4, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-302 SZ, “Storm Zone Topsite (SZ-storm.zone.1999.09.17.nfo),” September 17, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-303 TAL, “Talinc Topsite (TAL-talinc.1999.12.28.nfo),” December 28, 1999,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-304TAR, “The Ancient Ruins Topsite (TAR-the.ancient.ruins.1998.03.25.nfo),”
-March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Ar- mageddon (TA)305
-Tera-Bit-Fit (TBF)307
-The Bot- tomless Pit (TBP)309
-RBS, ATN, DMS, RSR, AMB
-AVALON
-“T3-SPEED” “XX-GiGZ”
-“8 GiGZ”
-USA THE AVALON MIR- RORMEN
- The Black Box (TBB)306
-AMBiSO, CERTiSO, PROPHECY, VCDUEUROPE
-Survivant, KLoWn__, Flying-Toaster, hyd
-Turbulence (TBL)308
-KIN, DMS, ZhR, hV, dWA, HT, FND, ODT
-Natosoft, SiEGE,“T3” USA Warp98 “23GIG”
-The Boxer Rebellion (TBR)310
-Drink or Die, RTS
- 305 TA, “The Armageddon Topsite (TA-the.armageddon.1998.08.05.nfo),” Au- gust 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 306TBB, “The Black Box Topsite (TBB-the.black.box.1999.05.27.nfo),” May 27,
-1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 307 TBF, “Tera-Bit-Fit Topsite (TBF-tera.bit.fit.1999.01.15.nfo),” January 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 308TBL, “Turbulence Topsite (TBL-turbulence.1998.08.11.nfo),” August 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-309TBP, “The Bottomless Pit Topsite (TBP-the.bottomless.pit.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-310 TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1998.08.23. nfo),” August 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Corner Thunder, Pre- USA Deli (TCD)311miere, Global
-Crackers
-SHOCK, FRONTiER, EXECUIVE, iNTENSITY, TFA
- The Center (TC)312
-Backlash, GWA, Council
-Germany
-Trash City (TC)313
-USA Chrys, Dev, Gal, Rockz, Havok, Cy-
-berWar, AcidApple, X-Frog, Officedog314
- 311 TCD, “The Corner Deli Topsite (TCD-the.corner.deli.1998.01.31.nfo),” January 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-312 TC, “The Center Topsite (TC-the.center.1997.10.24.nfo),” October 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-313 TC, “Trash City Topsite (TC-trash.city.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-314 TC, “Trash City Topsite (TC-trash.city.1998.01.23.nfo),” January 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Digital Afterlife (TDA)315
-Sitering.
-FUBAR: USA, T3
-NetherWorld: Europe, T1+
-Da Crew, USA, T3
-Kinetics, USA, T1
-Gothom, USA, T1
-Abyss, USA, T1 Bomb, 2xT1
-Hall of Gnana, USA, T1
-TGU, USA, T3
-USA, Eu- rope
-Crimson, Renfro, Doc_X, phoxphyre, icu812, M-80, Dead- chane, Phenomeno, Bigjilm, Grinder_, Demented, Dav312, WildWendy, cyphen, Net^king, Statics, observer
- The Drag- ons Den (TDD)316
-Millennium USA Daphantm, Seven, Courier, Eclipse Rare2317
-Interactive
- 315 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo).”
-316 TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.17.nfo),” July 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-317 TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Dawg House (TDH)318
-PHC, Dynamic, DST, HTG, EPI, Motiv8, FCC, FCN, TDA, Rapid
-USA
-SKYDEMON, SHMO
- The Digital Harm (TDH)319
-The Dead Land (TDL)321
-SSC, LIQUID, SHOCK, ADDIC- TION, NZPD, THIEVES, RISE, UCU
-R.T.S., STON- USA HENGE,
-DIVINE,
-SYNICLE
-neotericE
-The Desert Inn (TDI)320
-LNDiSO, Rock- Force, FBW
-USA
-The Dia- mond Mind (TDM)322
-SHOCK, AM- NESIA, RAZOR
-“granolaFTP”
-MikDiamon, Slice-
- 318 TDH, “The Dawg House Topsite (TDH-the.dawg.house.1997.05.25.nfo),” May 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-319 TDH, “The Digital Harm Topsite (TDH-the.digital.harm.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-320 TDI, “The Desert Inn Topsite (TDI-the.desert.inn.1999.07.21.nfo),” July 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-321 TDL, “The Dead Land Topsite (TDL-the.dead.lands.1998.05.25.nfo),” May 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-322 TDM, “The Diamond Mine Topsite (TDM-the.diamond.mine.1997.01.10.
-nfo),” January 10, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Dawg Pound (TDP)323
-The Dark Site (TDS)326
-The Drop Zone (TDZ)328
-USA324
-CWS, FBW, Demise, Rock- Force, StyLe, SynicaL, AOD
-RAPiD, GPF, Heritage
-FPS, ILLICIT, IMPACT, COAL
-^DaWg^, hoax, doors, explorer, himie009, kronder, vylent
-Canada
- The Devil’s Pit (TDP)325
-WaRP, GLoW, UCF, DEViOUS, TE, Future
-“T3” “34GB”
-USA
-HSOBIC, ScabZ, ne- crosis, Xndo, Raskah
-The Dome (TD)327
-PGC
-“T3”
-“20 Gigabytes”
-Canada
-“tEEtHREE”
-USA
- 323 TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.1998.05.02.nfo),” May 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-324 TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-325 TDP, “The Devil’s Pit Topsite (TDP-the.devils.pit.1999.01.07.nfo),” January 7, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-326 TDS, “The Dark Site Topsite (TDS-the.dark.site.1997.06.29.nfo),” June 29,
-1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-327 TD, “The Dome Topsite (TD-the.dome.1998.08.31.nfo),” August 31, 1998,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-328 TDZ, “The Drop Zone Topsite (TDZ-the.drop.zone.1997.11.03.nfo),”
-November 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Third Total Eclipse (TE3)329
-DSC, DF, HiD, LiVeEdgE
- The Electric AXiS, RoK, Circus Rebels (TEC)330
-Europe
-Gromit, G-Bit, Druggy, Liquide
-Trans Elec- tronic Light (TEL)331
-The Force Team
-The Temple CLASS, RELI- USA (TEMP)332 ANCE
- 329 TE3, “The Third Total Eclipse Topsite (TE3-total.eclipse.three.1999.07.09. nfo),” July 9, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-330 TEC, “The Electric Circus Topsite (TEC-the.electric.circus.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-331 TEL, “Trans Electric Light Topsite (TEL-trans.electronic.light.1997.07.16. nfo),” July 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-332 TEMP, “The Temple Topsite (TEMP-the.temple.1997.09.21.nfo),” September 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Ether Net (TEN)333
-ADDCTION [sic], MYTH, TRPS, IPA, 2000AD, ECLIPSE, CORE, RBSiSO, iNTUTiLS, XCRYPT, LAX- iTY, WLW,
-“174 GIG” “10MBIT”
-USA
- The Enter- INTENSITY, USA prise (TE)334 EXPLOSiON,
-TRPS
-The Fried Rabbit (TFR)336
-Total Eclipse (TE)335
-Jacket, ^_TE_^, Arsenel, Kang6902, Vampire, C6, End- ymiom, Leslie
-The Flash (TF)337
-LND, RTS
-“TEE THREE” “6.5 GIGS”
-USA
- 333 TEN, “The Ether Net Topsite (TEN-the.ether.net.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-334 TE, “The Enterprise Topsite (TE-the.enterprise.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-335 TE, “Total Eclipse Topsite (TE-total.eclipse.1998.01.11.nfo),” January 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-336 TFR, “The Fried Rabbit Topsite (TFR-the.fried.rabbit.1998.09.09.nfo),”
-September 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.
-ms.zip.
-337 TF, “The Flash Topsite (TF-the.flash.1997.01.17.nfo),” January 17, 1997,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The GatewayENTiTY, “20 GiGS” USA (TG)338 REFLUX, “100 mbit”
-PROPHECY
-Tragic King- NvC, X-Force “T3” dom (TK)341 “12 Gigz”
-The Mother ORiGIN, KAC, USA Superior PREMiERE,
-(TMS)344 DiMENSION
-X, Dee, Hazzy, Phi- ber, Dream, BasecW, Sting, Tinywulf, Gal339
-Skydemon, SHmo, Icu812342
- The Haven (TH)340
-EMPiRE, X- FORCE
-The Toilet (TLT)343
-SWP, DARK- STAR, Tension, LG, MaD, fATE, WLW
-USA
- 338 TG, “The Gateway Topsite (TG-the.gateway.1999.01.10.nfo),” January 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-339 TG, “The Gateway Topsite (TG-the.gateway.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-340TH, “The Haven Topsite (TH-the.haven.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-341 TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.24.nfo),” June 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-342 TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.06.nfo),” June
-6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-343 TLT, “The Toilet Topsite (TLT-the.toilet.1998.12.13.nfo),” December 13,
-1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-344TMS, “The Mother Superior Topsite (TMS-the.mother.superior.1999.02.13.
-nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Terrible Mis- take (TM)345
-RPG, FUSION, WARP, DARK- STAR, PSYCHO
-Russia
- The Matrix (TM)346
-BLC, BSC, BNW, Natosoft, RockForce
-REVOLT, MO- TiV8, TUR
-The Number of the Beast (TNB)347
-TeKno Rage, PiraSofT, SToRM, MO- TiV8, EsTeeM, File PRoPuL- SiON SySTeMs
-“19.5 GiGa- ByTeS”
-“266 BlaZing MhZ” “WAR-FTPd”
-USA
-LaZaRus
-The New Forge (TNF)348
-USA Eyes22, KoraK, riches, Goliath^
-The Neverland (TNL)349
-Natosoft, FBW, Warez Central, Reflex, Threat, MOD, Nytekill
-“blazing t3”
-“22GB”
-“Linux 2.0.36” “Glftpd 1.18”350
-West Coast USA
-Papa, Eins, Dave/ Gniz, Blade
- 345 TM, “Terrible Mistake Topsite (TM-terrible.mistake.1999.02.13.nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-346TM, “The Matrix Topsite (TM-the.matrix.1999.09.25.nfo),” September 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-347 TNB, “The Number of the Beast Topsite (TNB-the.number.of.the. beast.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
-348 TNF, “The New Forge Topsite (TNF-the.new.forge.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-349TNL, “The Neverland Topsite (TNL-the.neverland.1999.02.12.nfo),” Febru- ary 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 350 TNL, “The Neverland Topsite (TNL-the.never.land.1999.04.14.nfo),” April
-14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The NymphoSiEGE, CLASS Temple
-(TNT)351
-Technology SYNTHESiS, Overload GLoW, TPC, (TO)353 TRPS, DiVINE
-USA
- The Orion Syndicate (TOS)352
-SiEGE, CLASS, DEVOTiON, PGC, EviL
-devestator, garoto, sj
-“10MBITS” USA “17 GiGS”
-techfuzz, CraZy- FiRE354
-Temple of Torture (TOT)355
-ESPRiT, CRYS- TAL, GWA, RDC, 2000AD, CNC, DEMON, TPC
-Europe
- 351 TNT, “The Nympho Temple Topsite (TNT-the.nympho.temple.1997.07.12. nfo),” July 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-352 TOS, “The Orion Syndicate Topsite (TOS-the.orion.syndicate.1999.03.29. nfo),” March 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-353 TO, “Technology Overload Topsite (TO-technology.overload.1998.02.25. nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-354 TO, “Technology Overload Topsite (TO-technology.overload.1998.02.10. nfo),” February 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-355 TOT, “Temple of Torture Topsite (TOT-temple.of.torture.1999.04.24.nfo),” April 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Pharma- “T1+” cy (TPH)356
-The PyramidMOONSHINE, “OC48 Con-
-South Korea361
- The Proph- ecy (TP)357
-MnM, CORE, DOD
-“XFTP’d” “T3/DS3”358
-USA
-Sxxxxx, Kxxxx ,Exxxx359
-(TP)360 LND, MYTH, SOLiTUDE,
-SCAR, dF, PROPHECY, GWA, HERIT- AGE, 2000AD, EPTiSO, DEVi- ANCE, TFL, PARADOX, VCD-EUROPE
-nection” “550GiG”
- 356 TPH, “The Pharmacy Topsite (TPH-the.pharmacy.1998.07.27.nfo),” July 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-357 TP, “The Prophecy Topsite (TP-the.prophecy.1998.03.11.nfo),” March 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-358 TP, “The Prophecy Topsite (TP-the.prophecy.1997.08.01.nfo),” August 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-359 TP, “The Prophecy Topsite (TP-the.prophecy.XXXX.XX.00.nfo),” n.d.,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-360TP, “The Pyramid Topsite (TP-the.pyramid.2000.04.28.nfo),” April 28,
-2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-361 TP, “The Pyramid Topsite (TP-the.pyramid.1999.12.13.nfo),” December 13,
-1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Raging Monkey (TRM)362
-ftp4all363
- The Rising Sun (TRS)364
-The Rock (TR)367
-SiEGE, CLASS “T3 SPEED” USA Maloo, KRS-ONE365 “10 GiGS”
-“RFTPD”
-BLIZZARD, USA ORIGIN, PDA-
-ZONE, PWA,
-PREMIERE
-The River (TR)366
-MNM, RISE, THG
-USA
-The Sadistic Grand- daughter (TSG)368
-Absolut, Esprit, Premiere, Prophecy, The Players Club
-Europe
- 362 TRM, “The Raging Monkey Topsite (TRM-the.raging.monkey.1997.09.18. nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-363 lester, “Which Ftpd Is Right for You?”
-364 TRS, “The Rising Sun Topsite (TRS-the.rising.sun.1998.01.18.nfo),” August
-18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-365 TRM, “The Rising Sun Topsite (TRS-the.rising.sun.XXXX.XX.00.nfo),”
-n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-366TR, “The River Topsite (TR-the.river.1997.05.29.nfo),” May 29, 1997, De-
-Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-367 TR, “The Rock Topsite (TR-the.rock.1999.03.13.nfo),” March 13, 1999,
-DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-368TSG, “The Sadistic Granddaughter Topsite (TSG-the.sadistic.granddaugh-
-ter.1999.04.20.nfo),” April 20, 1999, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Site (TS)369
-The
-Toxic Dump (TTD)371
-iNTUTiLS, oDDiTy, JGT, PGC, ViSION, DF
-RAZOR NINE- TEEN ELEVEN, THE REVIEW- ERS GUILD, RTN
-Fluke, Mercury, VLN, Hi-Jack, Distortion
-Sweden
- The Tomb- stone (TS)370
-FCN, RTA, ECG
-USA
-hxxxx, Nxxxxxxxx, Cxxxxx, pxx, Sxxxxxxx, Ixxxxxx
-TOAST, MRMON- STER, NASH, HOZIRIS
-Titty Twister (TT)372
-MANiFEST, DYNASTY, COUNCiL, ECLiPSE, 2000AD, PiNNACLE, ORiGIN
-“45 GiGz” “T3”373
-Europe
-The Unknown Realm (TUR)374
-Tipz, Scumby, Garr
- 369TS, “The Site Topsite (TS-the.site.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-370TS, “The Tombstone Topsite (TS-the.tombstone.1998.12.24.nfo),” Decem- ber 24, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-371 TTD, “The Toxic Dump Topsite (TTD-the.toxic.dump.1998.02.04.nfo),” February 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-372 TT, “Titty Twister Topsite (TT-titty.twister.1999.12.31.nfo),” December 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-373 TT, “Titty Twister Topsite (TT-titty.twister.1999.03.19.nfo),” March 19, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-374 TUR, “The Unknown Realm Topsite (TUR-the.unknown. realm.1998.09.16.nfo),” September 16, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-
-The Vanish- ing Point (TVP)376
-Terminal Ve-DIMENSION, “T3” USA locity (TV)378FALLEN, ORI- “50GB 0day”
-GIN, PENTIUM“50GB iSO/ FORCE TEAM, VCD” RENEGADE, REVOLUTION
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Void (TVD)375
- Tar Valon (TV)377
- 375 TVD, “The Void Topsite (TVD-the.void.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-376 TVP, “The Vanishing Point Topsite (TVP-the.vanishing.point.1998.09.15. nfo),” September 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-377 TV, “Tar Valon Topsite (TV-tar.valon.1998.09.28.nfo),” August 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-378 TV, “Terminal Velocity Topsite (TV-terminal.velocity.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-The Wolves House (TWH)379
-Equality, Shock, TRPS, Core, PRECiSE
-The Neth- erlands380
-Wolfje, Sony381
- Twilight (TWI)382
-F4CG, RBS, DVN, MFD, RTS, CiFE, DVNiSO, RBSiSO, POR- NOLATION, DTD, DVNPSX, DVNVCD
-“100Mbps USA connection”383
-The Waste Land (TWL)384
-REQUEST TO SEND, TRPS, UCF2000, WARRiOR, FATIGUED COURIERS NETWORK
-Canada
-SPEARFISH, DRUGGY, DiZZY, MARBiTOZ385
- 379 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1999.12.30. nfo),” December 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-380TWH, “The Wolves House Topsite (TWH-the.wolves.house.1998.02.15. nfo),” February 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-381 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1997.03.21. nfo),” March 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-382 TWI, “Twilight Topsite (TWI-twilight.1999.12.02.nfo),” December 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-383 TWI, “Twilight Topsite (TWI-twilight.XXXX.XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-384 TWL, “The Waste Land Topsite (TWL-the.waste.land.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-385 TWL, “The Waste Land Topsite (TWL-the.waste.land.1997.05.22.nfo),” May 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Terra X (TX)386
-United Cen- tre (UC)388
-AoD, CrC’98, KLN, UCL
-“T-1+” USA Tys “22Gb”
-“130 GB online” United Kingdom
-(inferred from spelling of “Centre” in British English)
- Unhuman Creations (UC)387
-SKL, LND, Motiv8, EPI
-Uncon- quered Dreams (UD)389
-“3mbit ADSL” “30Gb Online”
-DarkNinja390
- 386TX, “Terra X Topsite (TX-terra.x.1998.02.14.nfo),” February 14, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-387 UC, “Unhuman Creations Topsite (UC-unhuman.creations.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-388 UC, “United Centre Topsite (UC-united.centre.1998.08.21.nfo),” August 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-389 UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.1999.01.28. nfo),” January 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-390UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.XXXX. XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
-Unleashed (ULS)391
-CORE, CNC, “T3” TRSi, oDDity, “25+GB” GWA, MiB, ES-
-PRiT, TRSiISO, COREpda,
-POEpda
-ROYALGSM, ECLiPSE, CROSSFiRE, BliZZARD, LAXiTY, FALLEN, RiSE, DOMiNiON, RAZOR 1911, PARADOX, TFAiSO
-Europe
-MeDlor, Sekmeth, AfterDark392
- Universe (UNV)393
-VIETSOUND, TRPS, F4CG, PHOENiX, SHOCK, MO- TiV8
-Europe
-Utwente (UT)394
-The Neth- erlands
-(Based
-at the University of Twente, inferred from name)
-Under World (UW)395
-OriGiN, iNTU- TiLS, HARLEM, RBSiSO
-“Scorching OC-12” “24 Gig”
-USA
-IsuGuy, IsuGal396
- 391 ULS, “Unleashed Topsite (ULS-unleashed.1999.09.14.nfo),” September 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-392 ULS, “Unleashed Topsite (ULS-unleashed.1999.03.26.nfo),” March 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-393 UNV, “Universe Topsite (UNV-universe.XXXX.XX.00.nfo),” n.d., De-
-Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-394 UT, “Utwente Topsite (UT-utwente.2001.07.17.nfo),” July 17, 2001, De-
-Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-395 UW, “Under World Topsite (UW-under.world.1999.05.06.nfo),” May 6,
-1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-396UW, “Under World Topsite (UW-under.world.1999.02.15.nfo),” February
-15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-
-
- Sitename
-Known Affils
-Known Hard- ware/Software
-Location
-Siteops and Nukers/ Notes
 Vault Thir- teen (V13)397
 Vision Fac- PDM, EQUAL- “70 GIG” tory (VF)402 ITY, CORE, “100Mbit” RISCISO, PD-
 MISO, MUD,
@@ -1371,3 +772,141 @@ Siteops and Nukers/ Notes
 255 QR, “Quantum Reality Topsite (QR-quantum.reality.1998.05.23.nfo),” May 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
 256 RA, “Restricted Area Topsite (RA-restricted.area.1999.06.13.nfo),” June 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
 257 RAY, “Rebellion Authority Topsite (RAY-rebellion.authority.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+258 RBL, “The Rebellion Topsite (RBL-the.rebellion.1997.02.19.nfo),” February 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+259 RC, “Rand0m Cha0s Topsite (RC-random.chaos.1997.09.05.nfo),” September 5, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 260RELIC, “The Relic Topsite (RELIC-the.relic.1997.12.29.nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+260 RELIC, “The Relic Topsite (RELIC-the.relic.1997.12.29.nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+261 RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.07.03.nfo),” July 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+262 RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.03.03.nfo),” March 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+263 RH, “Ratz Hole Topsite (RH-ratzhole.1999.08.14.nfo),” August 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+264 Paul Craig, Software Piracy Exposed (Rockland: Syngress, 2005), 197. 265 “Operation Buccaneer (operation_buccaneer.txt),” 2000, mp3scene.info. 266ROC, “Realms of Chaos Topsite (ROC-realms.of.chaos.1998.11.23.nfo),” November 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+265 “Operation Buccaneer (operation_buccaneer.txt),” 2000, mp3scene.info.
+266 ROC, “Realms of Chaos Topsite (ROC-realms.of.chaos.1998.11.23.nfo),” November 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+267 RP, “Relentless Pipeline Topsite (RP-relentless.pipeline.1998.10.02.nfo),” October 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+268 RZ, “RZ Soft Topsite (RZ-rzsoft.1997.12.22.nfo),” December 22, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+269 SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+270 SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+271 SANI, “Sanitarium Topsite (SANI-sanitarium.1998.01.08.nfo),” January 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+272 SANI, “Sanitarium Topsite (SANI-sanitarium.1997.06.13.nfo),” June 13, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+273 SA, “Secured Area Topsite (SA-secured.area.1997.02.22.nfo),” February 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+274 SBC, “San Bruno Club Topsite (SBC-san.bruno.club.2000.02.26.nfo),” February 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+275 SBC, “San Bruno Club Topsite (SBC-san.bruno.club.1999.12.27.nfo),” December 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+276 There is some confusion in the archive, but I believe that San Bruno Club was previously known only as San Bruno, hence the merge here of NFOs for sites with different abbreviations. SB, “San Bruno Topsite (SB-san. bruno.1998.07.01.nfo),” July 1, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+277 SDK, “The Sandokan’s Dome Topsite (SDK-the.sandokans. dome.1998.02.25.nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.col- lection.v1.0.24351.shroo.ms.zip.
+278 SD, “Solid Disruption Topsite (SD-solid.disruption.1998.06.27.nfo),” June 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+279 SD, “Surface Defect Topsite (SD-surface.defect.1998.09.25.nfo),” September 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+280 SD, “Surface Defect Topsite (SD-surface.defect.1998.06.06.nfo),” June 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+281 SE, “Savage Exile Topsite (SE-savage.exile.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+282 SE, “Sonic Empire Topsite (SE-sonic.empire.1998.01.03.nfo),” January 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+283 SEX, “Silicon Exchange Topsite (SEX-silicon.exchange.1999.05.24.nfo),” May 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+284 SF, “Springfield Topsite (SF-springfield.1997.04.06.nfo),” April 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+285 SG, “Shadow Gate Topsite (SG-shadow.gate.1999.04.21.nfo),” April 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+286 SHK, “Shike Topsite (SHK-shike.1997.05.28.nfo),” May 28, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+287 SLR, “The Cellar Topsite (SLR-the.cellar.1998.11.08.nfo),” November 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 288SLR, “The Cellar Topsite (SLR-the.cellar.1998.09.07.nfo),” September 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+289 SL, “Sand Land Topsite (SL-sand.land.1997.10.29.nfo),” October 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+290 SOC, “Socrates Topsite (SOC-socrates.1997.11.12.nfo),” November 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+291 SOH, “South of Heaven Topsite (SOH-south.of.heaven.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+292 SPADE, “The Spade Topsite (SPADE-the.spade.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+293 SP, “Secret Paradise Topsite (SP-secret.paradise.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+294 SR, “Shattered Reality Topsite (SR-shattered.reality.1998.10.05.nfo),” Octo- ber 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+295 SS, “Silly Symphonies Topsite (SS-silly.symphonies.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+296 STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1999.08.27. nfo),” August 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+297 STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1997.02.16. nfo),” February 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+298 SUN, “Sun Topsite (SUN-sun.1999.11.09.nfo),” November 9, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+299 SW, “Spice World Topsite (SW-spice.world.1998.06.21.nfo),” June 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+300 SYN, “Syn City Topsite (SYN-syncity.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+301 SYN, “Syn City Topsite (SYN-syncity.1996.11.04.nfo),” November 4, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+302 SZ, “Storm Zone Topsite (SZ-storm.zone.1999.09.17.nfo),” September 17, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+303 TAL, “Talinc Topsite (TAL-talinc.1999.12.28.nfo),” December 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+304 TAR, “The Ancient Ruins Topsite (TAR-the.ancient.ruins.1998.03.25.nfo),” March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+305 TA, “The Armageddon Topsite (TA-the.armageddon.1998.08.05.nfo),” August 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+306 TBB, “The Black Box Topsite (TBB-the.black.box.1999.05.27.nfo),” May 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+307 TBF, “Tera-Bit-Fit Topsite (TBF-tera.bit.fit.1999.01.15.nfo),” January 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+308 TBL, “Turbulence Topsite (TBL-turbulence.1998.08.11.nfo),” August 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+309 TBP, “The Bottomless Pit Topsite (TBP-the.bottomless.pit.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+310 TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1998.08.23. nfo),” August 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+311 TCD, “The Corner Deli Topsite (TCD-the.corner.deli.1998.01.31.nfo),” January 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+312 TC, “The Center Topsite (TC-the.center.1997.10.24.nfo),” October 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+313 TC, “Trash City Topsite (TC-trash.city.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+314 TC, “Trash City Topsite (TC-trash.city.1998.01.23.nfo),” January 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+315 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo).”
+316 TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.17.nfo),” July 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+317 TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+318 TDH, “The Dawg House Topsite (TDH-the.dawg.house.1997.05.25.nfo),” May 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+319 TDH, “The Digital Harm Topsite (TDH-the.digital.harm.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+320 TDI, “The Desert Inn Topsite (TDI-the.desert.inn.1999.07.21.nfo),” July 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+321 TDL, “The Dead Land Topsite (TDL-the.dead.lands.1998.05.25.nfo),” May 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+322 TDM, “The Diamond Mine Topsite (TDM-the.diamond.mine.1997.01.10.nfo),” January 10, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+323 TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.1998.05.02.nfo),” May 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+324 TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+325 TDP, “The Devil’s Pit Topsite (TDP-the.devils.pit.1999.01.07.nfo),” January 7, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+326 TDS, “The Dark Site Topsite (TDS-the.dark.site.1997.06.29.nfo),” June 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+327 TD, “The Dome Topsite (TD-the.dome.1998.08.31.nfo),” August 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+328 TDZ, “The Drop Zone Topsite (TDZ-the.drop.zone.1997.11.03.nfo),” November 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+329 TE3, “The Third Total Eclipse Topsite (TE3-total.eclipse.three.1999.07.09. nfo),” July 9, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+330 TEC, “The Electric Circus Topsite (TEC-the.electric.circus.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+331 TEL, “Trans Electric Light Topsite (TEL-trans.electronic.light.1997.07.16. nfo),” July 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+332 TEMP, “The Temple Topsite (TEMP-the.temple.1997.09.21.nfo),” September 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+333 TEN, “The Ether Net Topsite (TEN-the.ether.net.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+334 TE, “The Enterprise Topsite (TE-the.enterprise.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+335 TE, “Total Eclipse Topsite (TE-total.eclipse.1998.01.11.nfo),” January 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+336 TFR, “The Fried Rabbit Topsite (TFR-the.fried.rabbit.1998.09.09.nfo),” September 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+337 TF, “The Flash Topsite (TF-the.flash.1997.01.17.nfo),” January 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+338 TG, “The Gateway Topsite (TG-the.gateway.1999.01.10.nfo),” January 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+339 TG, “The Gateway Topsite (TG-the.gateway.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+340 TH, “The Haven Topsite (TH-the.haven.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+341 TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.24.nfo),” June 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+342 TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.06.nfo),” June 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+343 TLT, “The Toilet Topsite (TLT-the.toilet.1998.12.13.nfo),” December 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+344 TMS, “The Mother Superior Topsite (TMS-the.mother.superior.1999.02.13.nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+345 TM, “Terrible Mistake Topsite (TM-terrible.mistake.1999.02.13.nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+346 TM, “The Matrix Topsite (TM-the.matrix.1999.09.25.nfo),” September 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+347 TNB, “The Number of the Beast Topsite (TNB-the.number.of.the. beast.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
+348 TNF, “The New Forge Topsite (TNF-the.new.forge.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+349 TNL, “The Neverland Topsite (TNL-the.neverland.1999.02.12.nfo),” Febru- ary 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+350 TNL, “The Neverland Topsite (TNL-the.never.land.1999.04.14.nfo),” April 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+351 TNT, “The Nympho Temple Topsite (TNT-the.nympho.temple.1997.07.12. nfo),” July 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+352 TOS, “The Orion Syndicate Topsite (TOS-the.orion.syndicate.1999.03.29. nfo),” March 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+353 TO, “Technology Overload Topsite (TO-technology.overload.1998.02.25. nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+354 TO, “Technology Overload Topsite (TO-technology.overload.1998.02.10. nfo),” February 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+355 TOT, “Temple of Torture Topsite (TOT-temple.of.torture.1999.04.24.nfo),” April 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+356 TPH, “The Pharmacy Topsite (TPH-the.pharmacy.1998.07.27.nfo),” July 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+357 TP, “The Prophecy Topsite (TP-the.prophecy.1998.03.11.nfo),” March 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+358 TP, “The Prophecy Topsite (TP-the.prophecy.1997.08.01.nfo),” August 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+359 TP, “The Prophecy Topsite (TP-the.prophecy.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+360 TP, “The Pyramid Topsite (TP-the.pyramid.2000.04.28.nfo),” April 28, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+361 TP, “The Pyramid Topsite (TP-the.pyramid.1999.12.13.nfo),” December 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+362 TRM, “The Raging Monkey Topsite (TRM-the.raging.monkey.1997.09.18. nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+363 lester, “Which Ftpd Is Right for You?”
+364 TRS, “The Rising Sun Topsite (TRS-the.rising.sun.1998.01.18.nfo),” August 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+365 TRM, “The Rising Sun Topsite (TRS-the.rising.sun.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+366 TR, “The River Topsite (TR-the.river.1997.05.29.nfo),” May 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+367 TR, “The Rock Topsite (TR-the.rock.1999.03.13.nfo),” March 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+368 TSG, “The Sadistic Granddaughter Topsite (TSG-the.sadistic.granddaughter.1999.04.20.nfo),” April 20, 1999, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+369 TS, “The Site Topsite (TS-the.site.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+370 TS, “The Tombstone Topsite (TS-the.tombstone.1998.12.24.nfo),” Decem- ber 24, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+371 TTD, “The Toxic Dump Topsite (TTD-the.toxic.dump.1998.02.04.nfo),” February 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+372 TT, “Titty Twister Topsite (TT-titty.twister.1999.12.31.nfo),” December 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+373 TT, “Titty Twister Topsite (TT-titty.twister.1999.03.19.nfo),” March 19, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+374 TUR, “The Unknown Realm Topsite (TUR-the.unknown. realm.1998.09.16.nfo),” September 16, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+375 TVD, “The Void Topsite (TVD-the.void.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+376 TVP, “The Vanishing Point Topsite (TVP-the.vanishing.point.1998.09.15. nfo),” September 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+377 TV, “Tar Valon Topsite (TV-tar.valon.1998.09.28.nfo),” August 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+378 TV, “Terminal Velocity Topsite (TV-terminal.velocity.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+379 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1999.12.30. nfo),” December 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+380 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1998.02.15. nfo),” February 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+381 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1997.03.21. nfo),” March 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+382 TWI, “Twilight Topsite (TWI-twilight.1999.12.02.nfo),” December 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+383 TWI, “Twilight Topsite (TWI-twilight.XXXX.XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+384 TWL, “The Waste Land Topsite (TWL-the.waste.land.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+385 TWL, “The Waste Land Topsite (TWL-the.waste.land.1997.05.22.nfo),” May 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+386 TX, “Terra X Topsite (TX-terra.x.1998.02.14.nfo),” February 14, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+387 UC, “Unhuman Creations Topsite (UC-unhuman.creations.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+388 UC, “United Centre Topsite (UC-united.centre.1998.08.21.nfo),” August 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+389 UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.1999.01.28. nfo),” January 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+390 UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.XXXX. XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+391 ULS, “Unleashed Topsite (ULS-unleashed.1999.09.14.nfo),” September 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+392 ULS, “Unleashed Topsite (ULS-unleashed.1999.03.26.nfo),” March 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+393 UNV, “Universe Topsite (UNV-universe.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+394 UT, “Utwente Topsite (UT-utwente.2001.07.17.nfo),” July 17, 2001, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+395 UW, “Under World Topsite (UW-under.world.1999.05.06.nfo),” May 6, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+396 UW, “Under World Topsite (UW-under.world.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
