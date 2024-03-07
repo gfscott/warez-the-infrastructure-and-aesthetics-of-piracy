@@ -46,7 +46,7 @@ This courier race is supposed to be a game of reflexes, but in reality it boils 
   - a routing engine that determines the optimum route to trade the release;
   - a server-based File Transfer Protocol (FTP) client component that remains connected to the sites in question and initiates File eXchange Protocol (FXP) transfers between sites from the routing engine, or using shelltrading approaches, usually initiated by a UDP (User Datagram Protocol) signaling mechanism.
 
-This software may or may not prompt the trader for verification that it has made the right decisions. When it does so, it is deemed a legitimate tool in the arsenal of the site courier. However, when it is completely automated, the system is an autotrader and therefore problematic. Often siteops will lay traps for un`suspecting autotraders in the hopes of catching them, which is called prespam. For instance, a user named “trader” might be found out if they traded the following release:
+This software may or may not prompt the trader for verification that it has made the right decisions. When it does so, it is deemed a legitimate tool in the arsenal of the site courier. However, when it is completely automated, the system is an autotrader and therefore problematic. Often siteops will lay traps for unsuspecting autotraders in the hopes of catching them, which is called prespam. For instance, a user named “trader” might be found out if they traded the following release:
 
 ```txt
 <sitebot> NEW PRE! Hello.Trader-Are.You.A.Bot-2014-Prepare.For.Deluser was just pred by Group. It is 357mb of Electronic.
