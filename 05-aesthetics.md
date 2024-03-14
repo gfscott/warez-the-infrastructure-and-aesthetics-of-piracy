@@ -155,7 +155,7 @@ However, this simple answer—a material reward—is also wrong or overly simple
 
 Overall, then, it seems only fitting to conclude that the artistic subculture of ASCII art falls into the same types of competitive, quasi-economic alternative reality game-playing that pervades the other structures of the Scene. It is not true to separate the artistic practices from other core practices. The Scene, while an alternative reality game, is also an aesthetic subculture.
 
-the feedback loops of digital rights management
+## The feedback loops of digital rights management
 
 The craft, skill, and aesthetics of piracy also feedback into mainstream cultural production. Indeed, it was never a tenable division to believe that mainstream producers simply made material that pirates then copied. Writers such as China Miéville, for instance, have long noted how new, cultural artifacts can be generated as a result of “piracy,”[^68] although one has to query whether, if one has permission or the author’s blessing, such practices remain “piratical.” As Adrian Johns has pointed out, when the term “pirate” was first banded around to denote illicit copying, during the early book trade, the interplay between copy and original was extensive and bidirectional.[^69]
 
