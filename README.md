@@ -1,6 +1,8 @@
 # _Warez: The Infrastructure and Aesthetics of Piracy_, by Martin Paul Eve
 
-## EPUB version
+## EPUB version 
+
+✨ [**Download the latest version via the Releases tab**](https://github.com/gfscott/warez-the-infrastructure-and-aesthetics-of-piracy/releases)
 
 This repo contains the text files for my EPUB conversion of [_Warez: The Infrastructure and Aesthetics of Piracy_](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/), originally published by [punctum books](https://punctumbooks.com/) and re-released here, somewhat ironically, with the permission of the author.
 
