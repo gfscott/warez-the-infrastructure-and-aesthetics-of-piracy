@@ -32,7 +32,7 @@ Beyond All Reality (BAR)[^28] | FLUKE, AMBiENCE, EM- BRACE, EPS, LND, oDDiTy, AM
 Basilica (BAS)[^29] | CORP, CST, DMSISO, RBSISO | “LINUX/ GLFTPD”, “50+ GIGS” | | 
 Brand Beer 2 (BB2)[^30] | ENTiTY, DYNASTY, PARADiGM, UCF, DiMENSiON | | Europe | 
 Busy Beavers (BB)[^31] | ReZ, GWA, BLiZzARD | “34 MBit”, “50 GB”, “LiNUX”, “gl-FTPd” | | Hoopy, Stefan_, JG, AC-504, MeDlor, Twister, Cruller
-The Bleach Box (BBX)[^] | RiSC, Scotch, FCN | “250 GB” bftpd[^33] | USA |
+The Bleach Box (BBX)[^32] | RiSC, Scotch, FCN | “250 GB” bftpd[^33] | USA |
 Beat Diz (BZ)[^34] | CROSSFIRE, CiA, Priority, FLUKE, LaTeX, CEREbRi | | USA |
 Black Forge (BF)[^35] | ADDICTION, PHOENIX, GPF, TRPS, MAD | “30 GB”, “Blazing Fast Cable” | | 
 Black Lotus (BL)[^36] | | “Linux-2.0.30”, “xftpd”, “5 gigz”, “T1 link-up speed” | | Debber
@@ -111,14 +111,14 @@ Fatal Error(FE)[^114] | OVERKiLL, MORTALiTY | | | Bouncer operator (Richard Berr
 Fire Fox (FF)[^115] | DEVOTiON, PFT, CORPORATION, CLASS | | Europe | 
 Flash (F)[^116] | LND, LNDiSO, TNO | “60+ Gigabytes” | | SelfHi5, Hodd, Spin, Jono, Cedric
 FalseHood (FH)[^117] | RAZOR 1911, RiSC, GRS | | | Gollie, Morbid[^118]
-Foo.Keen (FK)119 | Flt, kal, ech, tcs, mnc, vnm, flix, trfc, obus, jgt, shk, twc, adx, harem[^120] | “1gbit”, “3tb” | | 
+Foo.Keen (FK)[^119] | Flt, kal, ech, tcs, mnc, vnm, flix, trfc, obus, jgt, shk, twc, adx, harem[^120] | “1gbit”, “3tb” | | 
 Frag Land (FL)[^121] | Weapon, SPRiT, MiRACLE, PGC, TBS, KAC, UCF | | Europe | 
-Fungus Land (FL)122 | MFD, DK, ATN | “T3”, “22GB” | USA | 
+Fungus Land (FL)[^122] | MFD, DK, ATN | “T3”, “22GB” | USA | 
 Fortress of Solitude (FOS)[^123] | RiSC, Drink or Die, RAZOR 1911, UCF, BLH, TRG | | Europe | 
 Floating Point (FP)[^124] | Swat, Motiv8, DsC, FcN, GDW | | | BiG_PeRM, Argo- nautz
 Fire Site (FS)[^125] | Class, titan, ucf, mdf, devotion, harvest, oxygen, pentium force team | | Europe | 
 Fuckin Stoned (FS)[^126] | OVeRDRiVe, RTP, Rta, IMPaCT | “17 GiGS”, “DuaL T1’s” | | Cracker
-Fusion (FSN)127 | AVN, CERTISO, RTN, DARKMOOR, FATAL, ROOTGEMS, HI-JACK, MERIDIAN | | Europe | 
+Fusion (FSN)[^127] | AVN, CERTISO, RTN, DARKMOOR, FATAL, ROOTGEMS, HI-JACK, MERIDIAN | | Europe | 
 Fucked Up Beyond All Recognition (FUBAR)[^128] | | “DualT1”, “6 GiGS”, “Plus 5 ONLiNE Cdz”, “LiNUX”, “XFTPD pimped” | USA[^129] | 
 General Failure (GF)[^130] | OVERKiLL | | | 
 Guru Heaven (GH)[^131] | RPR, DEV, PNC, M8, RTS, OB | | | 
@@ -144,7 +144,7 @@ Internet Protocol (IP)[^154] | LG, DW, DPN, WAR | | |
 The Isle (ISLE)[^155] | MNT, NvC, fCC, DSC, INJ, PGC, RNS, CDA, BDC, SST | | | \[Trader\]
 Insanity Storm (IST)[^156] | DARKSiDE, MANiFEST DESTiNY, TOL, KYLiN, REVOLUTiON, SKELETON | | “West US”[^157] | 
 Intoxicated (IX)[^158] | THE COUNCiL, GERMAN WAREZ ALLiANCE | | | 
-The Jungle (JNG)[^159] | RADiUM, REBELS, WLW, WTA | “EQLFTPD”, “Dual T-1”, “8GB” | | Manik Depressive, Druggy, Dizzy160
+The Jungle (JNG)[^159] | RADiUM, REBELS, WLW, WTA | “EQLFTPD”, “Dual T-1”, “8GB” | | Manik Depressive, Druggy, Dizzy[^160]
 K2 (K2)[^161] | RAZOR 1911, DRINK OR DIE, ABSOLUT | | | 
 Kane (K)[^162] | ORiON, ANGELS ON DRUGS, LEGENDS NEVER DIE | | Europe | 
 Kalles Kaviar (KK)[^163] | ESPRiT, PHASE | | | 
@@ -153,7 +153,7 @@ The Krib (KRIB)[^165] | | “T1”, “50 GB” | |
 Krynn (KRYNN)[^166] | Swat, FCN, Motiv8, LGD, Trps | “LINUX POWERED” | Europe | TheParain
 Kashmir (KSH)[^167] | Razor 1911, United Cracking Force, Legends Never Die | | Europe | 
 Kinetics (KTS)[^168] Adrenalin, Addiction, TDA, Scandal | “4 Gigs”, “Ethernet”, “WarFTP” | | 
-Lunatic Asylum (LA)169 | | | | 
+Lunatic Asylum (LA)[^169] | | | | 
 Lost in Space (LIS)[^170] | Orbital | | | 
 Low Lands (LL)[^171] | MIB, dF, AMR, FFo | | | 
 Lost Shrine (LS)[^172] | DMS, DNG, PRM | “Powered by Er33tD v 2.0”, “T3 Speed”, “32 GB” | Europe | 
@@ -210,7 +210,7 @@ Pirates’ Cove (PC)[^229] | Reflux, Empure, Nemesis | “T3”, “34 Gigs” |
 Plastik Dreams (PD)[^230] | Dangerous, Premiere, Future, Pimps!, Insanity | | USA | dA bALHEd, Stilgar
 Playboys Dream (PD)[^231] | RiSE, REBELS, MiSSION | | Europe | TGC, XLOAD, SIRBUBU, ALEX[^232]
 Psychadelic Dreams (PD)[^233] | | | | 
-Paradox (PDX)[^234] | MOD, FND, DWA, LFLISO, XCRYPT, REFLEX | “T1”, “12+ GB” | Canada | djNghe, Jenlien, Subhuman235
+Paradox (PDX)[^234] | MOD, FND, DWA, LFLISO, XCRYPT, REFLEX | “T1”, “12+ GB” | Canada | djNghe, Jenlien, Subhuman[^235]
 Project Genocide (PG)[^236] | demon, Warp98, TNO | “T3” | United Kingdom | \]morph\[, oleole, turrican, ka0s[^237]
 Pirates’ Hideout (PH)[^238] | High Society, DiSTiNCT, Reideen, TSZ, Backlash, Di- vine, Electrocution, Stream | | Europe |
 Paradise Lost (PL)[^239] | Future, Inspire | | | 
@@ -263,7 +263,7 @@ Silly Symphonies (SS)[^295] | MiLLENNiUM, Drink or Die, DARK SiDE | | Finland |
 Stairway to Heaven (STH)[^296] | CLASS, PiRATES WiTH ATTiTUDES | | Europe | cq, br, gi, he, fh[^297]
 Sun (SUN)[^298] | ExoduS, TMG | | | 
 Spice World (SW)[^299] | DF, Harlem, LG | | Europe | 
-Syn City (SYN)[^300] | Razor 1911, MiLLENNiUM, Drink Or Die, XForce, RISC, AMN, Rapier, DEV, EMP, DIV, MNC, Fate | “T3”, “Cisco4000”, “100MB-TX”, “15GB”301 | | Synapse, Doobie
+Syn City (SYN)[^300] | Razor 1911, MiLLENNiUM, Drink Or Die, XForce, RISC, AMN, Rapier, DEV, EMP, DIV, MNC, Fate | “T3”, “Cisco4000”, “100MB-TX”, “15GB”[^301] | | Synapse, Doobie
 Storm Zone (SZ)[^302] | DWA, Rezent, DW, UW, BIOS, MIB, PULSAR | “54gb”, “3mbit cable modem” | | Stormeist, Gramonsm SoNiK, Spaten, BigLoo, Riptide
 Talinc (TAL)[^303] | AMBiSO, AMBiTiON, iCOiSO, FALLEN, PARADiGM, PiNNACLE, Dsi, SLT | | Europe | 
 The Ancient Ruins (TAR)[^304] | DW98, UFC2000, TBS, NIC, FATE | | | 
@@ -341,7 +341,7 @@ Utwente (UT)[^394] | ROYALGSM, ECLiPSE, CROSSFiRE, BliZZARD, LAXiTY, FALLEN, RiS
 Under World (UW)[^395] | OriGiN, iNTUTiLS, HARLEM, RBSiSO | “Scorching OC-12”, “24 Gig” | USA | IsuGuy, IsuGal[^396]
 Vault Thirteen (V13)[^397] | | | | 
 Virtual Dimension Research Lake (VDR)[^398] | CLS, DOD, DEV | “155Mbits”[^399], “4 Gigabytes iDE - SCSi2”[^400] | Europe[^401] | Red Dragon’s, JAMiLi, Muss, Mrmorris Samuraion Sneeze
-Vision Factory (VF)402 | PDM, EQUALITY, CORE, RISCISO, PDMISO, MUD, DYNASTY, COUNCIL, GWA98, NBD, AMOK, DB | “70 GIG”, “100Mbit” | Germany (implied: has German affils) | 
+Vision Factory (VF)[^402] | PDM, EQUALITY, CORE, RISCISO, PDMISO, MUD, DYNASTY, COUNCIL, GWA98, NBD, AMOK, DB | “70 GIG”, “100Mbit” | Germany (implied: has German affils) | 
 Violent Illusions (VI)[^403] | Dongle, LiveEdge, LAXiTY, DF, GLoW, CWS | “Triple Dedicated T1”, “35 GiG” | USA | sirebral, LHD, N3gative, Hack, PGNCreed, duhme[^404]
 Vampyre’s Lair (VL)[^405] | PWA, Empire, SSC | “T3 SPEEDS”, “21 – Gigs” | USA | Vampyre, Dwelar, KnickerZ, Midnight Avian
 Valhalla (V)[^406] | CLASS, SHOCK, EQUALITY, DYNASTY, CORE, INTENSION, HERITAGE, OXYGEN, FAIRLIGHT, RISEISO, EPTISO, RBSISO, SHKiSO, G.N.S., PNTiSO, PARADOX, HS | “200 gIG”, “100 mBIT”, | Europe | 
@@ -363,7 +363,7 @@ Xquizit (XQZ)[^427] | Razor, X-Force, USA TRPS, UCF | | USA |
 X Zone (XZONE)[^428] | WEAPON’98, Phoenix, Storm, Hazard | “2xT3”, “4 gb & 20+ gb Soon”, “Win-NT Server 4.0”[^429] | | J0ker
 Zeus (ZEUS)[^430] | beatforge, cnc, gwa, nbl, ngit, ucf | | | 
 Zilla (ZLA)[^431] | DOD, RZR, CST, ASP, TFA, SR, TFAiSO, PoRNoLATioN, DVNVCD, TFAMp3, BMI | “10MBiTS”, “38 GiGS OF STORAGE”[^432] | USA[^433]
-
+Z Land (ZL)[^434] | Clockwerk, Illusion, BL98, Resource, DOG | “28 gigs”, “3 MBit” | | Zman 
  
 
 ### FOOTNOTES
