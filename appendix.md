@@ -368,434 +368,434 @@ Zilla (ZLA)[^431] | DOD, RZR, CST, ASP, TFA, SR, TFAiSO, PoRNoLATioN, DVNVCD, TF
 
 ### FOOTNOTES
 
-1 BB, “The Bleach Box Topsite (BBX-bleach.box.1996.10.17.nfo),” October 17, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip; TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1997.12.09.nfo),” December 9, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip; TV, “Terminal Velocity Topsite (TV-terminal.velocity.1998.12.27.nfo),” December 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip. For more on the longstanding significance of Razor 1911, see Patryk Wasiak, “Telephone Networks, BBSes, and the Emergence of the Transnational ‘Warez Scene’,” History and Technology 35, no. 2 (2019): 189.
-2 722, “722 Topsite (722-722.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-3 A0, “Absolute Zero Topsite (A0-absolute.zero.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-4 A144, “Area One Four Four Topsite (A144-area.one.four.four.XXXX. XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-5 AAF, “Always Around Forever Topsite (AAF-always.around.forev- er.1998.07.18.nfo),” July 18, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-6 ABY, “The Abyss Topsite (ABY-abyss.1999.06.28.nfo),” June 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-7 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo),” January 20, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-8 AF1, “AiR Force One Topsite (AF1-air.force.one.2000.04.12.nfo),” April 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-9 AF1, “AiR Force One Topsite (AF1-air.force.one.1998.02.12.nfo),” February 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-10 AF, “Angel Food Topsite (AF-angel.food.2000.09.21.nfo),” September 21, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-11 AH, “The Ant Hill Topsite (AH-the.anthill.1997.06.18.nfo),” June 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-12 AKS, “Arrakis Topsite (AKS-arrakis.2000.06.01.nfo),” June 1, 2000, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-13 AL, “Agnos Land Topsite (AL-agnos.land.1998.09.06.nfo),” September 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-14 ALT, “Althea Topsite (ALT-althea.1999.09.22.nfo),” September 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-15 AMB, “Ambiquous Topsite (AMB-ambiquous.1998.02.18.nfo),” February 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-16 AM, “The Angry Moose Topsite (AM-the.angry.moose.1997.08.06.nfo),” August 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-17 APC, “Apocalypse Topsite (APC-apocalypse.1999.12.10.nfo),” December 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-18 ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-19 ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1997.10.12. nfo),” October 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-20 ATL, “Atlantis Topsite (ATL-atlantis.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-21 ATX, “Atomic-X Topsite (ATX-atomic.x.1999.05.05.nfo),” May 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-22 AV, “Alternate Void Topsite (AV-alternate.void.1998.11.26.nfo),” November 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-23 AVF, “A Violent Fluid Topsite (AVF-a.violent.fluid.1997.11.18.nfo),” Novem- ber 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-24 AVL, “Avalon Topsite (AVL-avalon.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-25 AW, “Another World Topsite (AW-another.world.1999.07.02.nfo),” July 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-26 AZ, “Alien Zone Topsite (AZ-alien.zone.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-27 B2B, “Back to Babylon Topsite (B2B-back.to.babylon.1998.05.21.nfo),” May 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-28 BAR, “Beyond All Reality Topsite (BAR-beyond.all.reality.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-29 BAS, “Basilica Topsite (BAS-basilica.1999.04.22.nfo),” April 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-30 BB2, “Brand Beer 2 Topsite (BB2-brand.beer.two.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-31 BB, “Busy Beavers Topsite (BB-busy.beavers.1999.03.25.nfo),” March 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-32 BB, “The Bleach Box Topsite (BBX-bleach.box.1996.12.19.nfo),” December 19, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-33 lester, “Which Ftpd Is Right for You?,” Netmonkey Weekly Report (Nwr36.Txt), February 22, 1999.
-34 BDZ, “Beat Diz Topsite (BDZ-beatdiz.2000.11.20.nfo),” November 20, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-35 BF, “Black Forge Topsite (BF-black.forge.1998.05.01.nfo),” May 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-36 BL, “Black Lotus Topsite (BL-black.lotus.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-37 BLD, “The Blade Topsite (BLD-the.blade.1998.03.23.nfo),” March 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-38 BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.12.06.nfo),” December 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-39 BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.06.02.nfo),” June 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-40 BM, “Byte Me Topsite (BM-byte.me.1999.04.15.nfo),” April 15, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-41 BP, “Blood Pit Topsite (BP-blood.pit.1997.04.04.nfo),” April 4, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-42 BPS, “Bits Per Second Topsite (BPS-bits.per.second.2000.07.03.nfo),” July 3, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-43 BTP, “Babylon Trading Post Topsite (BTP-babylon.trading.post.XXXX. XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-44 BT, “The Beggar’s Tomb Topsite (BT-the.beggars.tomb.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-45 BULL, “The Bull Topsite (BULL-the.bull.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-46 CAM, “Camelot Topsite (CAM-camelot.1999.08.29.nfo),” August 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-47 CAM, “Camelot Topsite (CAM-camelot.XXXX.XX.02.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-48 CC, “Crawling Chaos Topsite (CC-crawling.chaos.1998.04.06.nfo),” April 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-49 CD, “Core Dump Topsite (CD-core.dump.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-50 “SceneBusts10 (scenebusts10.htm),” 2000, paraZite.
-51 CH1, “Channel One Topsite (CH1-channel.one.1998.09.05.nfo),” September 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-52 CH, “Cold Hell Topsite (CH-cold.hell.1998.08.31.nfo),” August 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-53 CMG, “Cemetery Gates Topsite (CMG-cemetary.gates.1998.09.21.nfo),” September 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-54 CMG, “Cemetery Gates Topsite (CMG-cemetary.gates.1998.02.22.nfo),” February 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-55 CO, “Covert Operation Topsite (CO-covert.operations.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-56 COD, “Claws of Death Topsite (COD-claws.of.death.1998.11.02.nfo),” November 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-57 COD, “Claws of Death Topsite (COD-claws.of.death.1998.09.18.nfo),” September 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-58 CONG, “Cong Topsite (CONG-cong.1997.09.21.nfo),” September 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-59 CPX, “The Complex Topsite (CPX-the.complex.1997.01.03.nfo),” January 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-60 CRC, “Castle Rock County Topsite (CRC-castle.rock.county.1997.04.03. nfo),” April 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-61 CV, “Cash Vault Topsite (CV-cash.vault.1998.08.25.nfo),” April 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-62 DA, “Dark Ambitions Topsite (DA-dark.ambitions.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-63 DBZ, “Divide By Zero Topsite (DBZ-divide.by.zero.2000.01.21.nfo),” Janu- ary 21, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-64 DBZ, “Divide By Zero Topsite (DBZ-divide.by.zero.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-65 DC, “Digital Corruption Topsite (DC-digital.corruption.1998.03.18.nfo),” March 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-66 DC, “Digital Crossroads Topsite (DC-digital.crossroads.1998.09.02.nfo),” September 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-67 DC, “Dream Castle Topsite (DC-dream.castle.1999.03.29.nfo),” March 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-68 D, “Daedalus Topsite (D-daedalus.1998.01.05.nfo),” January 5, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-69 DD, “Dark Data Topsite (DD-dark.data.1998.11.02.nfo),” November 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-70 DDT, “Deadeloth Topsite (DDT-deadeloth.1997.11.17.nfo),” November 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-71 DF, “DaFat of the Land Topsite (DF-da.fat.1998.09.16.nfo),” September 16, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-72 DF2, “DaFat of the Land 2 Topsite (DF2-da.fat.two.1998.10.14.nfo),” Octo- ber 14, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-73 DF3, “DaFat of the Land 3 Topsite (DF3-da.fat.three.1999.06.05.nfo),” June 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-74 DGB, “DagoBah System Topsite (DGB-dagobah.1998.11.19.nfo),” Novem- ber 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-75 DI, “Distorted Illusions Topsite (DI-distorted.illusions.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-76 DIP, “Digital Information Playground Topsite (DIP-digital.information.playground.1998.02.28.nfo),” February 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-77 DIS, “Disaster Topsite (DIS-disaster.1997.02.13.nfo),” February 13, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-78 DK, “Digital Kingdom Topsite (DK-digital.kingdom.1999.11.17.nfo),” November 17, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-79 DK, “Digital Kingdom Topsite (DK-digital.kingdom.1999.08.25.nfo),” August 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-80 DL, “Dark Land Topsite (DL-dark.land.1999.01.13.nfo),” January 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-81 DL, “DreamLand Topsite (DL-dream.land.1999.04.27.nfo),” April 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-82 DLM, “Delerium Topsite (DLM-delirium.1998.05.20.nfo),” May 20, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-83 DLS, “Darklands Topsite (DLS-darklands.2000.03.26.nfo),” March 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-84 DM, “Dream Machine Topsite (DM-dream.machine.1997.10.14.nfo),” October 14, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-85 DN, “Damn Nation Topsite (DN-damn.nation.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-86 DO, “Digital Overload Topsite (DO-digital.overload.1998.04.19.nfo),” April 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-87 DOPE, “Department of Pure Ecstacy Topsite (DOPE-department.of.pure.ecstacy.1999.03.31.nfo),” March 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-88 DPT-d, “D.-.P.A.R.T.M.E.N.T Topsite (DPT-d.partment.1999.03.12.nfo),” March 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-89 DPX, “The Duplex Topsite (DPX-duplex.1997.04.01.nfo),” April 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-90 DPZ, “Dropzone Topsite (DPZ-dropzone.2000.09.25.nfo),” September 25, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-91 DST, “Dismal Surrection Topsite (DST-dismal.surrection.1999.07.27.nfo),” July 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-92 DS, “The Dark Side Topsite (DS-the.dark.side.1998.08.19.nfo),” August 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-93 DTO, “Ditto Topsite (DTO-ditto.1998.10.01.nfo),” October 1, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-94 DV, “Diamond Valley Topsite (DV-diamond.valley.1998.07.27.nfo),” July 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-95 DXL, “Dixieland Topsite (DXL-dixieland.1999.02.22.nfo),” February 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-96 DZ, “Danger Zone Topsite (DZ-danger.zone.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-97 DZL, “The Dragonz Lair Topsite (DZL-the.dragonz.lair.1998.02.05.nfo),” February 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-98 E999, “East 999 Topsite (E999-east.999.1997.05.03.nfo),” May 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-99 EB, “Echo Base Topsite (EB-echo.base.1999.03.11.nfo),” March 11, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-100 EC, “Eternal Chaos Topsite (EC-eternal.chaos.1999.05.19.nfo),” May 19, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-101 ED, “The Evil Drome Topsite (ED-evil.drome.1998.07.26.nfo),” July 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-102 EE, “Evil Echo Topsite (EE-evil.echo.1999.06.18.nfo),” June 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-103 EMP, “The Emporium Topsite (EMP-the.emporium.1997.05.28.nfo),” May 28, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-104 END, “Endurance Topsite (END-endurance.1998.03.01.nfo),” March 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-105 EOE, “The Ends of the Earth Topsite (EOE-endz.of.the.earth.1997.09.19.nfo),” September 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-106 EOE, “Essence of Earth Topsite (EOE-essence.of.earth.2000.09.26.nfo),” September 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-107 EOS, “Edge of Sanity Topsite (EOS-edge.of.sanity.1997.11.01.nfo),” November 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-108 ER, “Escape Reality Topsite (ER-escape.reality.1997.08.25.nfo),” August 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-109 ET, “Etirnity Topsite (ET-etirnity.1996.08.10.nfo),” August 10, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-110 EVN, “Evasion Topsite (EVN-evasion.1998.10.26.nfo),” October 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-111 F2, “Foundation Two Topsite (F2-foundation.two.1997.04.26.nfo),” April 26, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-112 FB2, “The Fat Babe Two Topsite (FB2-the.fat.babe.two.1997.07.12.nfo),” July 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-113 FB, “Flashback Topsite (FB-flashbak.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-114 FE, “Fatal Error Topsite (FE-fatal.error.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-115 FF, “Fire Fox Topsite (FF-fire.fox.1999.06.28.nfo),” June 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-116 F, “Flash Topsite (F-flash.1999.04.18.nfo),” April 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-117 FH, “FalseHood Topsite (FH-false.hood.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-118 FH, “FalseHood Topsite (FH-false.hood.1998.02.26.nfo),” February 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-119 FK, “Foo.Keen Topsite (FK-foo.keen.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-120 FK, “Foo.Keen Topsite (FK-foo.keen.1999.09.07.nfo),” September 7, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-121 FL, “Frag Land Topsite (FL-frag.land.1998.05.15.nfo),” May 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-122 FL, “Fungus Land Topsite (FL-fungus.land.1998.08.12.nfo),” August 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-123 FOS, “Fortress of Solitude Topsite (FOS-fortress.of.solitude.1998.12.23.nfo),” December 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-124 FP, “Floating Point Topsite (FP-floating.point.1997.06.08.nfo),” June 8, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-125 FS, “Fire Site Topsite (FS-fire.site.2000.09.14.nfo),” September 14, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-126 FS, “Fuckin Stoned Topsite (FS-fuckin.stoned.1997.10.30.nfo),” October 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-127 FSN, “Fusion Topsite (FSN-fusion.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-128 FUBAR, “Fucked Up Beyond All Recognition Topsite (FUBAR-fucked. up.beyond.all.recognition.1997.01.20.nfo),” January 20, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-129 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital. afterlife.1997.01.20.nfo).”
-130 GF, “General Failure Topsite (GF-general.failure.1997.01.04.nfo),” January 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-131 GH, “Guru Heaven Topsite (GH-guru.heaven.1998.05.04.nfo),” May 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-132 GM, “Guru Meditation Topsite (GM-guru.meditation.1997.03.07.nfo),” March 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-133 GNS, “Genesis Topsite (GNS-genesis.1999.07.05.nfo),” July 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-134 GS, “Green Skull Topsite (GS-green.skull.1997.05.25.nfo),” May 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-135 H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.07.28.nfo),” July 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-136 H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.05.27.nfo),” May 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-137 H2H, “Highway 2 Hell Topsite (H2H-highway.2.hell.2000.08.27.nfo),” August 27, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-138 HCN, “Holocron Topsite (HCN-holocron.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-139 H, “Hades Topsite (HDS-hades.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-140 lester, “Which Ftpd Is Right for You?”
-141 HF, “Hard Floor Topsite (HF-hard.floor.1999.09.20.nfo),” September 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-142 HF, “Hell Fire Topsite (HF-hell.fire.1997.05.16.nfo),” May 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-143 HH, “The Happy Hippo Topsite (HH-the.happy.hippo.1998.10.25.nfo),” October 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-144 HOE, “Hades on Earth Topsite (HOE-hades.on.earth.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-145 HOL, “Hall of Illusions Topsite (HOL-hall.of.illusions.1999.10.28.nfo),” October 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-146 HOM, “House of Music Topsite (HOM-house.of.music.2000.10.05.nfo),” October 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-147 HOW, “Hall of Warez Topsite (HOW-hall.of.warez.1997.05.24.nfo),” May 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-148 HW, “Hard Wired Topsite (HW-hard.wired.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-149 HW, “Hard Wired Topsite (HW-hard.wired.1997.03.27.nfo),” March 27, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-150 IC, “Identity Crisis Topsite (IC-identity.crisis.1999.03.31.nfo),” March 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-151 IMP, “The Imperium Topsite (IMP-imperium.1998.07.19.nfo),” July 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-152 IMP, “The Imperium Topsite (IMP-imperium.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-153 INF, “Infinity Topsite (INF-infinity.1998.04.10.nfo),” April 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-154 IP, “Internet Protocol Topsite (IP-internet.protocol.1999.10.05.nfo),” October 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-155 ISLE, “The Isle Topsite (ISLE-the.isle.1997.06.10.nfo),” June 10, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-156 IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.09.19.nfo),” September 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-157 IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-158 IX, “Intoxicated Topsite (IX-intoxicated.1999.12.26.nfo),” December 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-159 JNG, “The Jungle Topsite (JNG-the.jungle.1998.08.18.nfo),” August 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-160 JNG, “The Jungle Topsite (JNG-the.jungle.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-161 K2, “K2 Topsite (K2-k2.1998.03.21.nfo),” March 21, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-162 K, “Kane Topsite (K-kane.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene. nfo.collection.v1.0.24351.shroo.ms.zip.
-163 KK, “Kalles Kaviar Topsite (KK-kalles.kaviar.1999.09.15.nfo),” September 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-164 KRAD, “KRAD Topsite (KRAD-krad.1997.06.29.nfo),” September 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-165 KRIB, “The Krib Topsite (KRIB-the.krib.1997.07.30.nfo),” July 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-166 KRYNN, “Krynn Topsite (KRYNN-krynn.1997.11.25.nfo),” November 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-167 KSH, “Kashmir Topsite (KSH-kashmir.1997.02.22.nfo),” February 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-168 KTS, “Kinetics Topsite (KTS-kinetics.1997.01.15.nfo),” January 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-169 LA, “Lunatic Asylum Topsite (LA-lunatic.asylum.1995.04.21.nfo),” April 21, 1995, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-170 LIS, “Lost in Space Topsite (LIS-lost.in.space.1997.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-171 LL, “Low Lands Topsite (LL-low.lands.1999.09.08.nfo),” September 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-172 LS, “Lost Shrine Topsite (LS-lost.shrine.1998.05.28.nfo),” May 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-173 LS, “The Last Stand Topsite (LS-the.last.stand.1998.01.22.nfo),” January 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-174 LTZ, “Less Than Zero Topsite (LTZ-less.than.zero.1997.11.02.nfo),” November 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-175 LW, “The Lost World Topsite (LW-the.lost.world.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-176 LXL, “Linux Unleashed Topsite (LXL-linux.unleashed.1999.06.29.nfo),” June 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-177 LYNX, “Lynx Topsite (LYNX-lynx.1997.10.08.nfo),” October 8, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-178 MAD, “Mutually Assured Destruction Topsite (MAD-mutually.assured. destruction.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-179 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.02.12.nfo),” February 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-180 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.01.03.nfo),” January 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-181 MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-182 MDK, “Murder Death Kill Topsite (MDK-murder.death.kill.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-183 MERC, “Mercure Topsite (MERC-mercure.1999.02.21.nfo),” February 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-184 MERC, “Mercure Topsite (MERC-mercure.1998.01.16.nfo),” January 16, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-185 MF, “Magnetic Fields Topsite (MF-magnetic.fields.2000.06.05.nfo),” June 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-186 MFT, “Manifest Topsite (MFT-manifest.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-187 MG, “Midgaard Topsite (MG-midgaard.2000.08.22.nfo),” August 22, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-188 MH, “Madhaus Topsite (MH-madhaus.1997.09.22.nfo),” September 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-189 MIH, “Made in Heaven Topsite (MIH-made.in.heaven.1999.05.21.nfo),” May 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-190 MI, “Monkey Island Topsite (MI-monkey.island.1998.02.06.nfo),” February 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-191 MM, “Major Malfunction Topsite (MM-major.malfunction.1999.07.29. nfo),” July 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-192 MM, “Mental Meltdown Topsite (MM-mental.meltdown.1997.04.26.nfo),” April 26, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-193 MNS, “Midnight Sun Topsite (MNS-midnight.sun.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-194 MO, “Mount Olympus Topsite (MO-mount.olympus.1998.10.23.nfo),” October 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-195 MOS, “Mos Eisley Topsite (MOS-mos.eisley.1998.03.25.nfo),” March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-196 MRG, “Mirage Topsite (MRG-mirage.1997.08.03.nfo),” August 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-197 MS, “Mile Stone Topsite (MS-mile.stone.1997.07.04.nfo),” July 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-198 MSV, “Moonshine Vision Topsite (MSV-moonshine.vision.1998.08.26. nfo),” August 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-199 MW, “Mist World Topsite (MW-mist.world.1998.06.04.nfo),” June 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-200 MXP, “Maximum Power Topsite (MXP-maximum. power.1998.02.06.nfo),” February 6, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-201 NBM, “Niobium Topsite (NBM-niobium.1999.02.14.nfo),” February 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 202NCT, “Nocturne Topsite (NCT-nocturne.1998.12.06.nfo),” December 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-203 NEI, “New Evil Incarnate Topsite (NEI-new.evil.incarnate.1997.11.29.nfo),” November 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-204 NF2K, “Near Future 2000 Topsite (NF2K-near.future.2000.10.12.nfo),” October 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-205 NF, “Near Future Topsite (NF-near.future.1999.11.08.nfo),” November 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 206NF, “Near Future Topsite (NF-near.future.1999.08.26.nfo),” August 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-207 NGS, “Neon Genesis Topsite (NGS-neon.genesis.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-208 NHL, “Nihil Topsite (NHL-nihil.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-209 NKS, “Narkos Topsite (NKS-narkos.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-210 NMS, “Nemesis Topsite (NMS-nemesis.1998.09.08.nfo),” September 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-211 NOS, “Nos Topsite (NOS-nos.1998.05.17.nfo),” May 17, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-212 NPT, “Noptarus Topsite (NPT-noptarus.1999.02.03.nfo),” February 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-213 NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.2000.08.22.nfo),” August 22, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-214 NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-215 NXS, “Nexus Topsite (NXS-nexus.1998.05.07.nfo),” May 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-216 O5, “Orbit Five Topsite (O5-orbit.five.1997.02.14.nfo),” February 14, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-217 OM, “Omerta Topsite (OM-omerta.1999.12.31.nfo),” December 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-218 OM, “Operation Mindcrime Topsite (OM-operation.mindcrime.1997.12.29. nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-219 ON, “Origin Topsite (ON-origin.1997.12.04.nfo),” December 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-220 OON, “Outskirts of Nowhere Topsite (OON-outskirts. of.nowhere.1998.12.15.nfo),” December 15, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-221 OT, “Obscure Transmissions Topsite (OT-obscure.transmissions.1997.12.07. nfo),” December 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-222 OU, “Origin Underground Topsite (OU-origin.underground.1998.01.13. nfo),” January 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-223 OU, “Origin Underground Topsite (OU-origin.underground.1997.10.25. nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-224 OX, “Oxide Topsite (OX-oxide.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-225 P1, “Pier One Imports Topsite (P1-pier.one.imports.1996.10.29.nfo),” October 29, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-226 PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.2000.07.23.nfo),” July 23, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-227 PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-228 PB, “Point Break Topsite (PB-point.break.1998.12.12.nfo),” December 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-229 PC, “Pirate’s Cove Topsite (PC-pirates.cove.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-230 PD, “Plastik Dreams Topsite (PD-plastik.dreams.1996.11.12.nfo),” Novem- ber 12, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-231 PD, “Playboys Dreams Topsite (PD-playboys.dream.1999.10.21.nfo),” Octo- ber 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-232 PD, “Playboys Dreams Topsite (PD-playboys.dream.1998.10.25.nfo),” Octo- ber 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-233 PD, “Psychadelic Dreams Topsite (PD-psychadelic.dreams.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-234 PDX, “Paradox Topsite (PDX-paradox.1999.02.26.nfo),” February 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-235 PDX, “Paradox Topsite (PDX-paradox.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-236 PG, “Project Genocide Topsite (PG-project.genocide.1998.08.21.nfo),” Au- gust 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-237 PG, “Project Genocide Topsite (PG-project.genocide.1998.07.07.nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-238 PH, “Pirates’ Hideout Topsite (PH-pirates.hideout.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-239 PL, “Paradise Lost Topsite (PL-paradise.lost.1997.11.25.nfo),” November 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-240 PL, “Pirate Lair Topsite (PL-pirate.lair.1999.08.03.nfo),” August 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-241 PL, “Primary Link Topsite (PL-primary.link.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-242 PM, “Prime Mover Topsite (PM-prime.mover.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-243 PM, “Prime Mover Topsite (PM-prime.mover.1998.05.10.nfo),” May 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-244 PP, “Pelos Portal Topsite (PP-pelos.portal.1998.04.22.nfo),” April 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-245 PP, “Piper’s Pit Topsite (PP-pipers.pit.1999.10.21.nfo),” October 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-246 PP, “Pussy Power Topsite (PP-pussy.power.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-247 PR, “Phoenix Rising Topsite (PR-phoenix.rising.1999.10.12.nfo),” October 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-248 PS, “Parasite Topsite (PS-parasite.1998.03.11.nfo),” March 11, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-249 PS, “Progressive Topsite (PS-progressive.1997.03.11.nfo),” March 11, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-250 PSR, “Possible Reality Topsite (PSR-possible.reality.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-251 PST, “Prosperity Topsite (PST-prosperity.1999.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-252 PT, “Pzykotik Thoughts Topsite (PT-pzykotik.thoughts.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-253 PWH, “Pre Whore House Topsite (PWH-pre.whore.house.2000.09.01. nfo),” September 1, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-254 QC, “QuadCon Topsite (QC-quadcon.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-255 QR, “Quantum Reality Topsite (QR-quantum.reality.1998.05.23.nfo),” May 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-256 RA, “Restricted Area Topsite (RA-restricted.area.1999.06.13.nfo),” June 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-257 RAY, “Rebellion Authority Topsite (RAY-rebellion.authority.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-258 RBL, “The Rebellion Topsite (RBL-the.rebellion.1997.02.19.nfo),” February 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-259 RC, “Rand0m Cha0s Topsite (RC-random.chaos.1997.09.05.nfo),” September 5, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 260RELIC, “The Relic Topsite (RELIC-the.relic.1997.12.29.nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-260 RELIC, “The Relic Topsite (RELIC-the.relic.1997.12.29.nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-261 RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.07.03.nfo),” July 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-262 RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.03.03.nfo),” March 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-263 RH, “Ratz Hole Topsite (RH-ratzhole.1999.08.14.nfo),” August 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-264 Paul Craig, Software Piracy Exposed (Rockland: Syngress, 2005), 197. 265 “Operation Buccaneer (operation_buccaneer.txt),” 2000, mp3scene.info. 266ROC, “Realms of Chaos Topsite (ROC-realms.of.chaos.1998.11.23.nfo),” November 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-265 “Operation Buccaneer (operation_buccaneer.txt),” 2000, mp3scene.info.
-266 ROC, “Realms of Chaos Topsite (ROC-realms.of.chaos.1998.11.23.nfo),” November 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-267 RP, “Relentless Pipeline Topsite (RP-relentless.pipeline.1998.10.02.nfo),” October 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-268 RZ, “RZ Soft Topsite (RZ-rzsoft.1997.12.22.nfo),” December 22, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-269 SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-270 SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-271 SANI, “Sanitarium Topsite (SANI-sanitarium.1998.01.08.nfo),” January 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-272 SANI, “Sanitarium Topsite (SANI-sanitarium.1997.06.13.nfo),” June 13, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-273 SA, “Secured Area Topsite (SA-secured.area.1997.02.22.nfo),” February 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-274 SBC, “San Bruno Club Topsite (SBC-san.bruno.club.2000.02.26.nfo),” February 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-275 SBC, “San Bruno Club Topsite (SBC-san.bruno.club.1999.12.27.nfo),” December 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-276 There is some confusion in the archive, but I believe that San Bruno Club was previously known only as San Bruno, hence the merge here of NFOs for sites with different abbreviations. SB, “San Bruno Topsite (SB-san. bruno.1998.07.01.nfo),” July 1, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-277 SDK, “The Sandokan’s Dome Topsite (SDK-the.sandokans. dome.1998.02.25.nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.col- lection.v1.0.24351.shroo.ms.zip.
-278 SD, “Solid Disruption Topsite (SD-solid.disruption.1998.06.27.nfo),” June 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-279 SD, “Surface Defect Topsite (SD-surface.defect.1998.09.25.nfo),” September 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-280 SD, “Surface Defect Topsite (SD-surface.defect.1998.06.06.nfo),” June 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-281 SE, “Savage Exile Topsite (SE-savage.exile.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-282 SE, “Sonic Empire Topsite (SE-sonic.empire.1998.01.03.nfo),” January 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-283 SEX, “Silicon Exchange Topsite (SEX-silicon.exchange.1999.05.24.nfo),” May 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-284 SF, “Springfield Topsite (SF-springfield.1997.04.06.nfo),” April 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-285 SG, “Shadow Gate Topsite (SG-shadow.gate.1999.04.21.nfo),” April 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-286 SHK, “Shike Topsite (SHK-shike.1997.05.28.nfo),” May 28, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-287 SLR, “The Cellar Topsite (SLR-the.cellar.1998.11.08.nfo),” November 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 288SLR, “The Cellar Topsite (SLR-the.cellar.1998.09.07.nfo),” September 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-289 SL, “Sand Land Topsite (SL-sand.land.1997.10.29.nfo),” October 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-290 SOC, “Socrates Topsite (SOC-socrates.1997.11.12.nfo),” November 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-291 SOH, “South of Heaven Topsite (SOH-south.of.heaven.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-292 SPADE, “The Spade Topsite (SPADE-the.spade.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-293 SP, “Secret Paradise Topsite (SP-secret.paradise.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-294 SR, “Shattered Reality Topsite (SR-shattered.reality.1998.10.05.nfo),” Octo- ber 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-295 SS, “Silly Symphonies Topsite (SS-silly.symphonies.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-296 STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1999.08.27. nfo),” August 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-297 STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1997.02.16. nfo),” February 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-298 SUN, “Sun Topsite (SUN-sun.1999.11.09.nfo),” November 9, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-299 SW, “Spice World Topsite (SW-spice.world.1998.06.21.nfo),” June 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-300 SYN, “Syn City Topsite (SYN-syncity.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-301 SYN, “Syn City Topsite (SYN-syncity.1996.11.04.nfo),” November 4, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-302 SZ, “Storm Zone Topsite (SZ-storm.zone.1999.09.17.nfo),” September 17, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-303 TAL, “Talinc Topsite (TAL-talinc.1999.12.28.nfo),” December 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-304 TAR, “The Ancient Ruins Topsite (TAR-the.ancient.ruins.1998.03.25.nfo),” March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-305 TA, “The Armageddon Topsite (TA-the.armageddon.1998.08.05.nfo),” August 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-306 TBB, “The Black Box Topsite (TBB-the.black.box.1999.05.27.nfo),” May 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-307 TBF, “Tera-Bit-Fit Topsite (TBF-tera.bit.fit.1999.01.15.nfo),” January 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-308 TBL, “Turbulence Topsite (TBL-turbulence.1998.08.11.nfo),” August 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-309 TBP, “The Bottomless Pit Topsite (TBP-the.bottomless.pit.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-310 TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1998.08.23. nfo),” August 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-311 TCD, “The Corner Deli Topsite (TCD-the.corner.deli.1998.01.31.nfo),” January 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-312 TC, “The Center Topsite (TC-the.center.1997.10.24.nfo),” October 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-313 TC, “Trash City Topsite (TC-trash.city.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-314 TC, “Trash City Topsite (TC-trash.city.1998.01.23.nfo),” January 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-315 TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo).”
-316 TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.17.nfo),” July 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-317 TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-318 TDH, “The Dawg House Topsite (TDH-the.dawg.house.1997.05.25.nfo),” May 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-319 TDH, “The Digital Harm Topsite (TDH-the.digital.harm.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-320 TDI, “The Desert Inn Topsite (TDI-the.desert.inn.1999.07.21.nfo),” July 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-321 TDL, “The Dead Land Topsite (TDL-the.dead.lands.1998.05.25.nfo),” May 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-322 TDM, “The Diamond Mine Topsite (TDM-the.diamond.mine.1997.01.10.nfo),” January 10, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-323 TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.1998.05.02.nfo),” May 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-324 TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-325 TDP, “The Devil’s Pit Topsite (TDP-the.devils.pit.1999.01.07.nfo),” January 7, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-326 TDS, “The Dark Site Topsite (TDS-the.dark.site.1997.06.29.nfo),” June 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-327 TD, “The Dome Topsite (TD-the.dome.1998.08.31.nfo),” August 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-328 TDZ, “The Drop Zone Topsite (TDZ-the.drop.zone.1997.11.03.nfo),” November 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-329 TE3, “The Third Total Eclipse Topsite (TE3-total.eclipse.three.1999.07.09. nfo),” July 9, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-330 TEC, “The Electric Circus Topsite (TEC-the.electric.circus.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-331 TEL, “Trans Electric Light Topsite (TEL-trans.electronic.light.1997.07.16. nfo),” July 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-332 TEMP, “The Temple Topsite (TEMP-the.temple.1997.09.21.nfo),” September 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-333 TEN, “The Ether Net Topsite (TEN-the.ether.net.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-334 TE, “The Enterprise Topsite (TE-the.enterprise.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-335 TE, “Total Eclipse Topsite (TE-total.eclipse.1998.01.11.nfo),” January 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-336 TFR, “The Fried Rabbit Topsite (TFR-the.fried.rabbit.1998.09.09.nfo),” September 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-337 TF, “The Flash Topsite (TF-the.flash.1997.01.17.nfo),” January 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-338 TG, “The Gateway Topsite (TG-the.gateway.1999.01.10.nfo),” January 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-339 TG, “The Gateway Topsite (TG-the.gateway.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-340 TH, “The Haven Topsite (TH-the.haven.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-341 TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.24.nfo),” June 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-342 TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.06.nfo),” June 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-343 TLT, “The Toilet Topsite (TLT-the.toilet.1998.12.13.nfo),” December 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-344 TMS, “The Mother Superior Topsite (TMS-the.mother.superior.1999.02.13.nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-345 TM, “Terrible Mistake Topsite (TM-terrible.mistake.1999.02.13.nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-346 TM, “The Matrix Topsite (TM-the.matrix.1999.09.25.nfo),” September 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-347 TNB, “The Number of the Beast Topsite (TNB-the.number.of.the. beast.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
-348 TNF, “The New Forge Topsite (TNF-the.new.forge.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-349 TNL, “The Neverland Topsite (TNL-the.neverland.1999.02.12.nfo),” Febru- ary 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-350 TNL, “The Neverland Topsite (TNL-the.never.land.1999.04.14.nfo),” April 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-351 TNT, “The Nympho Temple Topsite (TNT-the.nympho.temple.1997.07.12. nfo),” July 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-352 TOS, “The Orion Syndicate Topsite (TOS-the.orion.syndicate.1999.03.29. nfo),” March 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-353 TO, “Technology Overload Topsite (TO-technology.overload.1998.02.25. nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-354 TO, “Technology Overload Topsite (TO-technology.overload.1998.02.10. nfo),” February 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-355 TOT, “Temple of Torture Topsite (TOT-temple.of.torture.1999.04.24.nfo),” April 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-356 TPH, “The Pharmacy Topsite (TPH-the.pharmacy.1998.07.27.nfo),” July 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-357 TP, “The Prophecy Topsite (TP-the.prophecy.1998.03.11.nfo),” March 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-358 TP, “The Prophecy Topsite (TP-the.prophecy.1997.08.01.nfo),” August 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-359 TP, “The Prophecy Topsite (TP-the.prophecy.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-360 TP, “The Pyramid Topsite (TP-the.pyramid.2000.04.28.nfo),” April 28, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-361 TP, “The Pyramid Topsite (TP-the.pyramid.1999.12.13.nfo),” December 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-362 TRM, “The Raging Monkey Topsite (TRM-the.raging.monkey.1997.09.18. nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-363 lester, “Which Ftpd Is Right for You?”
-364 TRS, “The Rising Sun Topsite (TRS-the.rising.sun.1998.01.18.nfo),” August 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-365 TRM, “The Rising Sun Topsite (TRS-the.rising.sun.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-366 TR, “The River Topsite (TR-the.river.1997.05.29.nfo),” May 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-367 TR, “The Rock Topsite (TR-the.rock.1999.03.13.nfo),” March 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-368 TSG, “The Sadistic Granddaughter Topsite (TSG-the.sadistic.granddaughter.1999.04.20.nfo),” April 20, 1999, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-369 TS, “The Site Topsite (TS-the.site.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-370 TS, “The Tombstone Topsite (TS-the.tombstone.1998.12.24.nfo),” Decem- ber 24, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-371 TTD, “The Toxic Dump Topsite (TTD-the.toxic.dump.1998.02.04.nfo),” February 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-372 TT, “Titty Twister Topsite (TT-titty.twister.1999.12.31.nfo),” December 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-373 TT, “Titty Twister Topsite (TT-titty.twister.1999.03.19.nfo),” March 19, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-374 TUR, “The Unknown Realm Topsite (TUR-the.unknown. realm.1998.09.16.nfo),” September 16, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
-375 TVD, “The Void Topsite (TVD-the.void.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-376 TVP, “The Vanishing Point Topsite (TVP-the.vanishing.point.1998.09.15. nfo),” September 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-377 TV, “Tar Valon Topsite (TV-tar.valon.1998.09.28.nfo),” August 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-378 TV, “Terminal Velocity Topsite (TV-terminal.velocity.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-379 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1999.12.30. nfo),” December 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-380 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1998.02.15. nfo),” February 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-381 TWH, “The Wolves House Topsite (TWH-the.wolves.house.1997.03.21. nfo),” March 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-382 TWI, “Twilight Topsite (TWI-twilight.1999.12.02.nfo),” December 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-383 TWI, “Twilight Topsite (TWI-twilight.XXXX.XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-384 TWL, “The Waste Land Topsite (TWL-the.waste.land.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-385 TWL, “The Waste Land Topsite (TWL-the.waste.land.1997.05.22.nfo),” May 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-386 TX, “Terra X Topsite (TX-terra.x.1998.02.14.nfo),” February 14, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-387 UC, “Unhuman Creations Topsite (UC-unhuman.creations.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-388 UC, “United Centre Topsite (UC-united.centre.1998.08.21.nfo),” August 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-389 UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.1999.01.28. nfo),” January 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-390 UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.XXXX. XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-391 ULS, “Unleashed Topsite (ULS-unleashed.1999.09.14.nfo),” September 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-392 ULS, “Unleashed Topsite (ULS-unleashed.1999.03.26.nfo),” March 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-393 UNV, “Universe Topsite (UNV-universe.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-394 UT, “Utwente Topsite (UT-utwente.2001.07.17.nfo),” July 17, 2001, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-395 UW, “Under World Topsite (UW-under.world.1999.05.06.nfo),” May 6, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-396 UW, “Under World Topsite (UW-under.world.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-397 V13, “Vault Thirteen Topsite (V13-vault.thirteen.1998.08.01.nfo),” August 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-398 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.04.02.nfo),” April 2, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-399 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
-400 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.06.06.nfo),” June 6, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-401 VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.05.16.nfo),” May 16, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
-402 VF, “Vision Factory Topsite (VF-vision.factory.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-403 VI, “Violent Illusions Topsite (VI-violent.illusions.1999.09.18.nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-404 VI, “Violent Illusions Topsite (VI-violent.illusions.1999.06.11.nfo),” June 11, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-405 VL, “Vampyre’s Lair Topsite (VL-vampyres.lair.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-406 V, “Valhalla Topsite (V-valhalla.2000.07.17.nfo),” July 17, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-407 W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.11.07.nfo),” November 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-408 W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-409 W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
-410 WD, “Wet Dreams Topsite (WD-wet.dreams.1999.05.27.nfo),” May 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-411 WD, “Wet Dreams Topsite (WD-wet.dreams.1999.04.25.nfo),” April 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-412 WFZ, “Warez Free Zone Topsite (WFZ-warez.free.zone.1999.07.10.nfo),” July 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-413 WH, “White House Topsite (WH-white.house.1998.09.09.nfo),” September 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-414 WH, “White House Topsite (WH-white.house.1998.03.15.nfo),” March 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-415 WL, “Wonder Land Topsite (WL-wonderland.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-416 WND, “The Windmill Topsite (WND-the.windmill.1997.06.19.nfo),” June 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-417 WOC, “World of Chaos Topsite (WOC-world.of.chaos.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-418 WOPR, “Wouldn’t You Prefer A Good Game of Chess? Topsite (WOPR- wopr.1998.08.14.nfo),” August 14, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
-419 WS, “Warez Sector Topsite (WS-warez.sector.1997.04.17.nfo),” April 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-420 WTC, “World Trade Center Topsite (WTC-world.trade.center.1998.07.07. nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
-421 WT, “Watch Tower Topsite (WT-watch.tower.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-422 WW, “Wild West Topsite (WW-wild.west.1998.09.04.nfo),” September 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-423 XF, “X Filez Topsite (XF-x.filez.1997.08.15.nfo),” August 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-424 XF, “X Filez Topsite (XF-x.filez.1997.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-425 XNS, “Xenosis Topsite (XNS-xenosis.1998.06.10.nfo),” June 10, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-426 XNS, “Xenosis Topsite (XNS-xenosis.1998.05.18.nfo),” May 18, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-427 XQZ, “Xquizit Topsite (XQZ-xquizit.1999.07.24.nfo),” July 24, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-428 XZONE, “X Zone Topsite (XZONE-x.zone.1998.03.01.nfo),” March 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-429 XZONE, “X Zone Topsite (XZONE-x.zone.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-430 ZEUS, “Zeus Topsite (ZEUS-zeus.1998.11.20.nfo),” November 20, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-431 ZLA, “Zilla Topsite (ZLA-zilla.1999.06.30.nfo),” June 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-432 ZLA, “Zilla Topsite (ZLA-zilla.1998.08.09.nfo),” August 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-433 ZLA, “Zilla Topsite (ZLA-zilla.1999.02.17.nfo),” February 17, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
-434 ZL, “Z Land Topsite (ZL-zland.1998.12.02.nfo),” December 2, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^1] BB, “The Bleach Box Topsite (BBX-bleach.box.1996.10.17.nfo),” October 17, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip; TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1997.12.09.nfo),” December 9, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip; TV, “Terminal Velocity Topsite (TV-terminal.velocity.1998.12.27.nfo),” December 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip. For more on the longstanding significance of Razor 1911, see Patryk Wasiak, “Telephone Networks, BBSes, and the Emergence of the Transnational ‘Warez Scene’,” History and Technology 35, no. 2 (2019): 189.
+[^2] 722, “722 Topsite (722-722.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^3] A0, “Absolute Zero Topsite (A0-absolute.zero.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^4] A144, “Area One Four Four Topsite (A144-area.one.four.four.XXXX. XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^5] AAF, “Always Around Forever Topsite (AAF-always.around.forev- er.1998.07.18.nfo),” July 18, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+[^6] ABY, “The Abyss Topsite (ABY-abyss.1999.06.28.nfo),” June 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^7] TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo),” January 20, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+[^8] AF1, “AiR Force One Topsite (AF1-air.force.one.2000.04.12.nfo),” April 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^9] AF1, “AiR Force One Topsite (AF1-air.force.one.1998.02.12.nfo),” February 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^10] AF, “Angel Food Topsite (AF-angel.food.2000.09.21.nfo),” September 21, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^11] AH, “The Ant Hill Topsite (AH-the.anthill.1997.06.18.nfo),” June 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^12] AKS, “Arrakis Topsite (AKS-arrakis.2000.06.01.nfo),” June 1, 2000, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^13] AL, “Agnos Land Topsite (AL-agnos.land.1998.09.06.nfo),” September 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^14] ALT, “Althea Topsite (ALT-althea.1999.09.22.nfo),” September 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^15] AMB, “Ambiquous Topsite (AMB-ambiquous.1998.02.18.nfo),” February 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^16] AM, “The Angry Moose Topsite (AM-the.angry.moose.1997.08.06.nfo),” August 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^17] APC, “Apocalypse Topsite (APC-apocalypse.1999.12.10.nfo),” December 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^18] ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^19] ASP, “Alpha Storage Place Topsite (ASP-alpha.storage.place.1997.10.12. nfo),” October 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^20] ATL, “Atlantis Topsite (ATL-atlantis.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^21] ATX, “Atomic-X Topsite (ATX-atomic.x.1999.05.05.nfo),” May 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^22] AV, “Alternate Void Topsite (AV-alternate.void.1998.11.26.nfo),” November 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^23] AVF, “A Violent Fluid Topsite (AVF-a.violent.fluid.1997.11.18.nfo),” Novem- ber 18, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^24] AVL, “Avalon Topsite (AVL-avalon.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^25] AW, “Another World Topsite (AW-another.world.1999.07.02.nfo),” July 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^26] AZ, “Alien Zone Topsite (AZ-alien.zone.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^27] B2B, “Back to Babylon Topsite (B2B-back.to.babylon.1998.05.21.nfo),” May 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^28] BAR, “Beyond All Reality Topsite (BAR-beyond.all.reality.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^29] BAS, “Basilica Topsite (BAS-basilica.1999.04.22.nfo),” April 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^30] BB2, “Brand Beer 2 Topsite (BB2-brand.beer.two.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^31] BB, “Busy Beavers Topsite (BB-busy.beavers.1999.03.25.nfo),” March 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^32] BB, “The Bleach Box Topsite (BBX-bleach.box.1996.12.19.nfo),” December 19, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^33] lester, “Which Ftpd Is Right for You?,” Netmonkey Weekly Report (Nwr36.Txt), February 22, 1999.
+[^34] BDZ, “Beat Diz Topsite (BDZ-beatdiz.2000.11.20.nfo),” November 20, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^35] BF, “Black Forge Topsite (BF-black.forge.1998.05.01.nfo),” May 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^36] BL, “Black Lotus Topsite (BL-black.lotus.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^37] BLD, “The Blade Topsite (BLD-the.blade.1998.03.23.nfo),” March 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^38] BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.12.06.nfo),” December 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^39] BLIZ, “Blizzard Topsite (BLIZ-blizzard.1997.06.02.nfo),” June 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^40] BM, “Byte Me Topsite (BM-byte.me.1999.04.15.nfo),” April 15, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^41] BP, “Blood Pit Topsite (BP-blood.pit.1997.04.04.nfo),” April 4, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^42] BPS, “Bits Per Second Topsite (BPS-bits.per.second.2000.07.03.nfo),” July 3, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^43] BTP, “Babylon Trading Post Topsite (BTP-babylon.trading.post.XXXX. XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^44] BT, “The Beggar’s Tomb Topsite (BT-the.beggars.tomb.1998.07.02.nfo),” July 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^45] BULL, “The Bull Topsite (BULL-the.bull.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^46] CAM, “Camelot Topsite (CAM-camelot.1999.08.29.nfo),” August 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^47] CAM, “Camelot Topsite (CAM-camelot.XXXX.XX.02.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^48] CC, “Crawling Chaos Topsite (CC-crawling.chaos.1998.04.06.nfo),” April 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^49] CD, “Core Dump Topsite (CD-core.dump.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^50] “SceneBusts10 (scenebusts10.htm),” 2000, paraZite.
+[^51] CH1, “Channel One Topsite (CH1-channel.one.1998.09.05.nfo),” September 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^52] CH, “Cold Hell Topsite (CH-cold.hell.1998.08.31.nfo),” August 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^53] CMG, “Cemetery Gates Topsite (CMG-cemetary.gates.1998.09.21.nfo),” September 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^54] CMG, “Cemetery Gates Topsite (CMG-cemetary.gates.1998.02.22.nfo),” February 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^55] CO, “Covert Operation Topsite (CO-covert.operations.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^56] COD, “Claws of Death Topsite (COD-claws.of.death.1998.11.02.nfo),” November 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^57] COD, “Claws of Death Topsite (COD-claws.of.death.1998.09.18.nfo),” September 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^58] CONG, “Cong Topsite (CONG-cong.1997.09.21.nfo),” September 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^59] CPX, “The Complex Topsite (CPX-the.complex.1997.01.03.nfo),” January 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^60] CRC, “Castle Rock County Topsite (CRC-castle.rock.county.1997.04.03. nfo),” April 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^61] CV, “Cash Vault Topsite (CV-cash.vault.1998.08.25.nfo),” April 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^62] DA, “Dark Ambitions Topsite (DA-dark.ambitions.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^63] DBZ, “Divide By Zero Topsite (DBZ-divide.by.zero.2000.01.21.nfo),” Janu- ary 21, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^64] DBZ, “Divide By Zero Topsite (DBZ-divide.by.zero.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^65] DC, “Digital Corruption Topsite (DC-digital.corruption.1998.03.18.nfo),” March 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^66] DC, “Digital Crossroads Topsite (DC-digital.crossroads.1998.09.02.nfo),” September 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^67] DC, “Dream Castle Topsite (DC-dream.castle.1999.03.29.nfo),” March 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^68] D, “Daedalus Topsite (D-daedalus.1998.01.05.nfo),” January 5, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^69] DD, “Dark Data Topsite (DD-dark.data.1998.11.02.nfo),” November 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^70] DDT, “Deadeloth Topsite (DDT-deadeloth.1997.11.17.nfo),” November 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^71] DF, “DaFat of the Land Topsite (DF-da.fat.1998.09.16.nfo),” September 16, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^72] DF2, “DaFat of the Land 2 Topsite (DF2-da.fat.two.1998.10.14.nfo),” Octo- ber 14, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^73] DF3, “DaFat of the Land 3 Topsite (DF3-da.fat.three.1999.06.05.nfo),” June 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^74] DGB, “DagoBah System Topsite (DGB-dagobah.1998.11.19.nfo),” Novem- ber 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^75] DI, “Distorted Illusions Topsite (DI-distorted.illusions.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^76] DIP, “Digital Information Playground Topsite (DIP-digital.information.playground.1998.02.28.nfo),” February 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^77] DIS, “Disaster Topsite (DIS-disaster.1997.02.13.nfo),” February 13, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^78] DK, “Digital Kingdom Topsite (DK-digital.kingdom.1999.11.17.nfo),” November 17, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^79] DK, “Digital Kingdom Topsite (DK-digital.kingdom.1999.08.25.nfo),” August 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^80] DL, “Dark Land Topsite (DL-dark.land.1999.01.13.nfo),” January 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^81] DL, “DreamLand Topsite (DL-dream.land.1999.04.27.nfo),” April 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^82] DLM, “Delerium Topsite (DLM-delirium.1998.05.20.nfo),” May 20, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^83] DLS, “Darklands Topsite (DLS-darklands.2000.03.26.nfo),” March 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^84] DM, “Dream Machine Topsite (DM-dream.machine.1997.10.14.nfo),” October 14, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^85] DN, “Damn Nation Topsite (DN-damn.nation.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^86] DO, “Digital Overload Topsite (DO-digital.overload.1998.04.19.nfo),” April 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^87] DOPE, “Department of Pure Ecstacy Topsite (DOPE-department.of.pure.ecstacy.1999.03.31.nfo),” March 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^88] DPT-d, “D.-.P.A.R.T.M.E.N.T Topsite (DPT-d.partment.1999.03.12.nfo),” March 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^89] DPX, “The Duplex Topsite (DPX-duplex.1997.04.01.nfo),” April 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^90] DPZ, “Dropzone Topsite (DPZ-dropzone.2000.09.25.nfo),” September 25, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^91] DST, “Dismal Surrection Topsite (DST-dismal.surrection.1999.07.27.nfo),” July 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^92] DS, “The Dark Side Topsite (DS-the.dark.side.1998.08.19.nfo),” August 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^93] DTO, “Ditto Topsite (DTO-ditto.1998.10.01.nfo),” October 1, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^94] DV, “Diamond Valley Topsite (DV-diamond.valley.1998.07.27.nfo),” July 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^95] DXL, “Dixieland Topsite (DXL-dixieland.1999.02.22.nfo),” February 22, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^96] DZ, “Danger Zone Topsite (DZ-danger.zone.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^97] DZL, “The Dragonz Lair Topsite (DZL-the.dragonz.lair.1998.02.05.nfo),” February 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^98] E999, “East 999 Topsite (E999-east.999.1997.05.03.nfo),” May 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^99] EB, “Echo Base Topsite (EB-echo.base.1999.03.11.nfo),” March 11, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^100] EC, “Eternal Chaos Topsite (EC-eternal.chaos.1999.05.19.nfo),” May 19, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^101] ED, “The Evil Drome Topsite (ED-evil.drome.1998.07.26.nfo),” July 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^102] EE, “Evil Echo Topsite (EE-evil.echo.1999.06.18.nfo),” June 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^103] EMP, “The Emporium Topsite (EMP-the.emporium.1997.05.28.nfo),” May 28, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^104] END, “Endurance Topsite (END-endurance.1998.03.01.nfo),” March 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^105] EOE, “The Ends of the Earth Topsite (EOE-endz.of.the.earth.1997.09.19.nfo),” September 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^106] EOE, “Essence of Earth Topsite (EOE-essence.of.earth.2000.09.26.nfo),” September 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^107] EOS, “Edge of Sanity Topsite (EOS-edge.of.sanity.1997.11.01.nfo),” November 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^108] ER, “Escape Reality Topsite (ER-escape.reality.1997.08.25.nfo),” August 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^109] ET, “Etirnity Topsite (ET-etirnity.1996.08.10.nfo),” August 10, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^110] EVN, “Evasion Topsite (EVN-evasion.1998.10.26.nfo),” October 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^111] F2, “Foundation Two Topsite (F2-foundation.two.1997.04.26.nfo),” April 26, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^112] FB2, “The Fat Babe Two Topsite (FB2-the.fat.babe.two.1997.07.12.nfo),” July 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^113] FB, “Flashback Topsite (FB-flashbak.1998.08.25.nfo),” August 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^114] FE, “Fatal Error Topsite (FE-fatal.error.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^115] FF, “Fire Fox Topsite (FF-fire.fox.1999.06.28.nfo),” June 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^116] F, “Flash Topsite (F-flash.1999.04.18.nfo),” April 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^117] FH, “FalseHood Topsite (FH-false.hood.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^118] FH, “FalseHood Topsite (FH-false.hood.1998.02.26.nfo),” February 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^119] FK, “Foo.Keen Topsite (FK-foo.keen.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^120] FK, “Foo.Keen Topsite (FK-foo.keen.1999.09.07.nfo),” September 7, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^121] FL, “Frag Land Topsite (FL-frag.land.1998.05.15.nfo),” May 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^122] FL, “Fungus Land Topsite (FL-fungus.land.1998.08.12.nfo),” August 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^123] FOS, “Fortress of Solitude Topsite (FOS-fortress.of.solitude.1998.12.23.nfo),” December 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^124] FP, “Floating Point Topsite (FP-floating.point.1997.06.08.nfo),” June 8, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^125] FS, “Fire Site Topsite (FS-fire.site.2000.09.14.nfo),” September 14, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^126] FS, “Fuckin Stoned Topsite (FS-fuckin.stoned.1997.10.30.nfo),” October 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^127] FSN, “Fusion Topsite (FSN-fusion.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^128] FUBAR, “Fucked Up Beyond All Recognition Topsite (FUBAR-fucked. up.beyond.all.recognition.1997.01.20.nfo),” January 20, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^129] TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital. afterlife.1997.01.20.nfo).”
+[^130] GF, “General Failure Topsite (GF-general.failure.1997.01.04.nfo),” January 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^131] GH, “Guru Heaven Topsite (GH-guru.heaven.1998.05.04.nfo),” May 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^132] GM, “Guru Meditation Topsite (GM-guru.meditation.1997.03.07.nfo),” March 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^133] GNS, “Genesis Topsite (GNS-genesis.1999.07.05.nfo),” July 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^134] GS, “Green Skull Topsite (GS-green.skull.1997.05.25.nfo),” May 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^135] H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.07.28.nfo),” July 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^136] H2, “Hemispheres Two Topsite (H2-hemispheres.two.1998.05.27.nfo),” May 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^137] H2H, “Highway 2 Hell Topsite (H2H-highway.2.hell.2000.08.27.nfo),” August 27, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^138] HCN, “Holocron Topsite (HCN-holocron.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^139] H, “Hades Topsite (HDS-hades.1998.06.12.nfo),” June 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^140] lester, “Which Ftpd Is Right for You?”
+[^141] HF, “Hard Floor Topsite (HF-hard.floor.1999.09.20.nfo),” September 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^142] HF, “Hell Fire Topsite (HF-hell.fire.1997.05.16.nfo),” May 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^143] HH, “The Happy Hippo Topsite (HH-the.happy.hippo.1998.10.25.nfo),” October 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^144] HOE, “Hades on Earth Topsite (HOE-hades.on.earth.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^145] HOL, “Hall of Illusions Topsite (HOL-hall.of.illusions.1999.10.28.nfo),” October 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^146] HOM, “House of Music Topsite (HOM-house.of.music.2000.10.05.nfo),” October 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^147] HOW, “Hall of Warez Topsite (HOW-hall.of.warez.1997.05.24.nfo),” May 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^148] HW, “Hard Wired Topsite (HW-hard.wired.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^149] HW, “Hard Wired Topsite (HW-hard.wired.1997.03.27.nfo),” March 27, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^150] IC, “Identity Crisis Topsite (IC-identity.crisis.1999.03.31.nfo),” March 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^151] IMP, “The Imperium Topsite (IMP-imperium.1998.07.19.nfo),” July 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^152] IMP, “The Imperium Topsite (IMP-imperium.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^153] INF, “Infinity Topsite (INF-infinity.1998.04.10.nfo),” April 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^154] IP, “Internet Protocol Topsite (IP-internet.protocol.1999.10.05.nfo),” October 5, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^155] ISLE, “The Isle Topsite (ISLE-the.isle.1997.06.10.nfo),” June 10, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^156] IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.09.19.nfo),” September 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^157] IST, “Insanity Storm Topsite (ISTORM-insanity.storm.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^158] IX, “Intoxicated Topsite (IX-intoxicated.1999.12.26.nfo),” December 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^159] JNG, “The Jungle Topsite (JNG-the.jungle.1998.08.18.nfo),” August 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^160] JNG, “The Jungle Topsite (JNG-the.jungle.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^161] K2, “K2 Topsite (K2-k2.1998.03.21.nfo),” March 21, 1998, DeFacto2, warez. scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^162] K, “Kane Topsite (K-kane.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene. nfo.collection.v1.0.24351.shroo.ms.zip.
+[^163] KK, “Kalles Kaviar Topsite (KK-kalles.kaviar.1999.09.15.nfo),” September 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^164] KRAD, “KRAD Topsite (KRAD-krad.1997.06.29.nfo),” September 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^165] KRIB, “The Krib Topsite (KRIB-the.krib.1997.07.30.nfo),” July 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^166] KRYNN, “Krynn Topsite (KRYNN-krynn.1997.11.25.nfo),” November 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^167] KSH, “Kashmir Topsite (KSH-kashmir.1997.02.22.nfo),” February 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^168] KTS, “Kinetics Topsite (KTS-kinetics.1997.01.15.nfo),” January 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^169] LA, “Lunatic Asylum Topsite (LA-lunatic.asylum.1995.04.21.nfo),” April 21, 1995, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^170] LIS, “Lost in Space Topsite (LIS-lost.in.space.1997.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^171] LL, “Low Lands Topsite (LL-low.lands.1999.09.08.nfo),” September 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^172] LS, “Lost Shrine Topsite (LS-lost.shrine.1998.05.28.nfo),” May 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^173] LS, “The Last Stand Topsite (LS-the.last.stand.1998.01.22.nfo),” January 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^174] LTZ, “Less Than Zero Topsite (LTZ-less.than.zero.1997.11.02.nfo),” November 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^175] LW, “The Lost World Topsite (LW-the.lost.world.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^176] LXL, “Linux Unleashed Topsite (LXL-linux.unleashed.1999.06.29.nfo),” June 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^177] LYNX, “Lynx Topsite (LYNX-lynx.1997.10.08.nfo),” October 8, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^178] MAD, “Mutually Assured Destruction Topsite (MAD-mutually.assured. destruction.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+[^179] MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.02.12.nfo),” February 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^180] MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.1999.01.03.nfo),” January 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^181] MBZ, “Menzoberranzan Topsite (MBZ-menzoberranzan.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^182] MDK, “Murder Death Kill Topsite (MDK-murder.death.kill.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^183] MERC, “Mercure Topsite (MERC-mercure.1999.02.21.nfo),” February 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^184] MERC, “Mercure Topsite (MERC-mercure.1998.01.16.nfo),” January 16, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^185] MF, “Magnetic Fields Topsite (MF-magnetic.fields.2000.06.05.nfo),” June 5, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^186] MFT, “Manifest Topsite (MFT-manifest.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^187] MG, “Midgaard Topsite (MG-midgaard.2000.08.22.nfo),” August 22, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^188] MH, “Madhaus Topsite (MH-madhaus.1997.09.22.nfo),” September 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^189] MIH, “Made in Heaven Topsite (MIH-made.in.heaven.1999.05.21.nfo),” May 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^190] MI, “Monkey Island Topsite (MI-monkey.island.1998.02.06.nfo),” February 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^191] MM, “Major Malfunction Topsite (MM-major.malfunction.1999.07.29. nfo),” July 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^192] MM, “Mental Meltdown Topsite (MM-mental.meltdown.1997.04.26.nfo),” April 26, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^193] MNS, “Midnight Sun Topsite (MNS-midnight.sun.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^194] MO, “Mount Olympus Topsite (MO-mount.olympus.1998.10.23.nfo),” October 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^195] MOS, “Mos Eisley Topsite (MOS-mos.eisley.1998.03.25.nfo),” March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^196] MRG, “Mirage Topsite (MRG-mirage.1997.08.03.nfo),” August 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^197] MS, “Mile Stone Topsite (MS-mile.stone.1997.07.04.nfo),” July 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^198] MSV, “Moonshine Vision Topsite (MSV-moonshine.vision.1998.08.26. nfo),” August 26, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^199] MW, “Mist World Topsite (MW-mist.world.1998.06.04.nfo),” June 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^200] MXP, “Maximum Power Topsite (MXP-maximum. power.1998.02.06.nfo),” February 6, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+[^201] NBM, “Niobium Topsite (NBM-niobium.1999.02.14.nfo),” February 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 202NCT, “Nocturne Topsite (NCT-nocturne.1998.12.06.nfo),” December 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^203] NEI, “New Evil Incarnate Topsite (NEI-new.evil.incarnate.1997.11.29.nfo),” November 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^204] NF2K, “Near Future 2000 Topsite (NF2K-near.future.2000.10.12.nfo),” October 12, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^205] NF, “Near Future Topsite (NF-near.future.1999.11.08.nfo),” November 8, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 206NF, “Near Future Topsite (NF-near.future.1999.08.26.nfo),” August 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^207] NGS, “Neon Genesis Topsite (NGS-neon.genesis.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^208] NHL, “Nihil Topsite (NHL-nihil.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^209] NKS, “Narkos Topsite (NKS-narkos.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^210] NMS, “Nemesis Topsite (NMS-nemesis.1998.09.08.nfo),” September 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^211] NOS, “Nos Topsite (NOS-nos.1998.05.17.nfo),” May 17, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^212] NPT, “Noptarus Topsite (NPT-noptarus.1999.02.03.nfo),” February 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^213] NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.2000.08.22.nfo),” August 22, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^214] NUD, “Nuclear Dust Topsite (NUD-nuclear.dust.XXXX.XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^215] NXS, “Nexus Topsite (NXS-nexus.1998.05.07.nfo),” May 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^216] O5, “Orbit Five Topsite (O5-orbit.five.1997.02.14.nfo),” February 14, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^217] OM, “Omerta Topsite (OM-omerta.1999.12.31.nfo),” December 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^218] OM, “Operation Mindcrime Topsite (OM-operation.mindcrime.1997.12.29. nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^219] ON, “Origin Topsite (ON-origin.1997.12.04.nfo),” December 4, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^220] OON, “Outskirts of Nowhere Topsite (OON-outskirts. of.nowhere.1998.12.15.nfo),” December 15, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+[^221] OT, “Obscure Transmissions Topsite (OT-obscure.transmissions.1997.12.07. nfo),” December 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^222] OU, “Origin Underground Topsite (OU-origin.underground.1998.01.13. nfo),” January 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^223] OU, “Origin Underground Topsite (OU-origin.underground.1997.10.25. nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^224] OX, “Oxide Topsite (OX-oxide.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^225] P1, “Pier One Imports Topsite (P1-pier.one.imports.1996.10.29.nfo),” October 29, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^226] PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.2000.07.23.nfo),” July 23, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^227] PBOX, “Pandora’s Box Topsite (PBOX-pandoras.box.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^228] PB, “Point Break Topsite (PB-point.break.1998.12.12.nfo),” December 12, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^229] PC, “Pirate’s Cove Topsite (PC-pirates.cove.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^230] PD, “Plastik Dreams Topsite (PD-plastik.dreams.1996.11.12.nfo),” Novem- ber 12, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^231] PD, “Playboys Dreams Topsite (PD-playboys.dream.1999.10.21.nfo),” Octo- ber 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^232] PD, “Playboys Dreams Topsite (PD-playboys.dream.1998.10.25.nfo),” Octo- ber 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^233] PD, “Psychadelic Dreams Topsite (PD-psychadelic.dreams.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^234] PDX, “Paradox Topsite (PDX-paradox.1999.02.26.nfo),” February 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^235] PDX, “Paradox Topsite (PDX-paradox.1999.01.20.nfo),” January 20, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^236] PG, “Project Genocide Topsite (PG-project.genocide.1998.08.21.nfo),” Au- gust 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^237] PG, “Project Genocide Topsite (PG-project.genocide.1998.07.07.nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^238] PH, “Pirates’ Hideout Topsite (PH-pirates.hideout.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^239] PL, “Paradise Lost Topsite (PL-paradise.lost.1997.11.25.nfo),” November 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^240] PL, “Pirate Lair Topsite (PL-pirate.lair.1999.08.03.nfo),” August 3, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^241] PL, “Primary Link Topsite (PL-primary.link.1997.03.02.nfo),” March 2, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^242] PM, “Prime Mover Topsite (PM-prime.mover.1998.08.13.nfo),” August 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^243] PM, “Prime Mover Topsite (PM-prime.mover.1998.05.10.nfo),” May 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^244] PP, “Pelos Portal Topsite (PP-pelos.portal.1998.04.22.nfo),” April 22, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^245] PP, “Piper’s Pit Topsite (PP-pipers.pit.1999.10.21.nfo),” October 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^246] PP, “Pussy Power Topsite (PP-pussy.power.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^247] PR, “Phoenix Rising Topsite (PR-phoenix.rising.1999.10.12.nfo),” October 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^248] PS, “Parasite Topsite (PS-parasite.1998.03.11.nfo),” March 11, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^249] PS, “Progressive Topsite (PS-progressive.1997.03.11.nfo),” March 11, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^250] PSR, “Possible Reality Topsite (PSR-possible.reality.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^251] PST, “Prosperity Topsite (PST-prosperity.1999.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^252] PT, “Pzykotik Thoughts Topsite (PT-pzykotik.thoughts.1997.05.19.nfo),” May 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^253] PWH, “Pre Whore House Topsite (PWH-pre.whore.house.2000.09.01. nfo),” September 1, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^254] QC, “QuadCon Topsite (QC-quadcon.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^255] QR, “Quantum Reality Topsite (QR-quantum.reality.1998.05.23.nfo),” May 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^256] RA, “Restricted Area Topsite (RA-restricted.area.1999.06.13.nfo),” June 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^257] RAY, “Rebellion Authority Topsite (RAY-rebellion.authority.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^258] RBL, “The Rebellion Topsite (RBL-the.rebellion.1997.02.19.nfo),” February 19, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^259] RC, “Rand0m Cha0s Topsite (RC-random.chaos.1997.09.05.nfo),” September 5, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 260RELIC, “The Relic Topsite (RELIC-the.relic.1997.12.29.nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^260] RELIC, “The Relic Topsite (RELIC-the.relic.1997.12.29.nfo),” December 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^261] RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.07.03.nfo),” July 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^262] RFLUX, “Reality Flux Topsite (RFLUX-reality.flux.1998.03.03.nfo),” March 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^263] RH, “Ratz Hole Topsite (RH-ratzhole.1999.08.14.nfo),” August 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^264] Paul Craig, Software Piracy Exposed (Rockland: Syngress, 2005), 197. 265 “Operation Buccaneer (operation_buccaneer.txt),” 2000, mp3scene.info. 266ROC, “Realms of Chaos Topsite (ROC-realms.of.chaos.1998.11.23.nfo),” November 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^265] “Operation Buccaneer (operation_buccaneer.txt),” 2000, mp3scene.info.
+[^266] ROC, “Realms of Chaos Topsite (ROC-realms.of.chaos.1998.11.23.nfo),” November 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^267] RP, “Relentless Pipeline Topsite (RP-relentless.pipeline.1998.10.02.nfo),” October 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^268] RZ, “RZ Soft Topsite (RZ-rzsoft.1997.12.22.nfo),” December 22, 1997, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^269] SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^270] SAD, “Satan’s Dome Topsite (SAD-satans.dome.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^271] SANI, “Sanitarium Topsite (SANI-sanitarium.1998.01.08.nfo),” January 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^272] SANI, “Sanitarium Topsite (SANI-sanitarium.1997.06.13.nfo),” June 13, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^273] SA, “Secured Area Topsite (SA-secured.area.1997.02.22.nfo),” February 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^274] SBC, “San Bruno Club Topsite (SBC-san.bruno.club.2000.02.26.nfo),” February 26, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^275] SBC, “San Bruno Club Topsite (SBC-san.bruno.club.1999.12.27.nfo),” December 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^276] There is some confusion in the archive, but I believe that San Bruno Club was previously known only as San Bruno, hence the merge here of NFOs for sites with different abbreviations. SB, “San Bruno Topsite (SB-san. bruno.1998.07.01.nfo),” July 1, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+[^277] SDK, “The Sandokan’s Dome Topsite (SDK-the.sandokans. dome.1998.02.25.nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.col- lection.v1.0.24351.shroo.ms.zip.
+[^278] SD, “Solid Disruption Topsite (SD-solid.disruption.1998.06.27.nfo),” June 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^279] SD, “Surface Defect Topsite (SD-surface.defect.1998.09.25.nfo),” September 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^280] SD, “Surface Defect Topsite (SD-surface.defect.1998.06.06.nfo),” June 6, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^281] SE, “Savage Exile Topsite (SE-savage.exile.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^282] SE, “Sonic Empire Topsite (SE-sonic.empire.1998.01.03.nfo),” January 3, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^283] SEX, “Silicon Exchange Topsite (SEX-silicon.exchange.1999.05.24.nfo),” May 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^284] SF, “Springfield Topsite (SF-springfield.1997.04.06.nfo),” April 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^285] SG, “Shadow Gate Topsite (SG-shadow.gate.1999.04.21.nfo),” April 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^286] SHK, “Shike Topsite (SHK-shike.1997.05.28.nfo),” May 28, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^287] SLR, “The Cellar Topsite (SLR-the.cellar.1998.11.08.nfo),” November 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip. 288SLR, “The Cellar Topsite (SLR-the.cellar.1998.09.07.nfo),” September 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^289] SL, “Sand Land Topsite (SL-sand.land.1997.10.29.nfo),” October 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^290] SOC, “Socrates Topsite (SOC-socrates.1997.11.12.nfo),” November 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^291] SOH, “South of Heaven Topsite (SOH-south.of.heaven.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^292] SPADE, “The Spade Topsite (SPADE-the.spade.1999.01.23.nfo),” January 23, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^293] SP, “Secret Paradise Topsite (SP-secret.paradise.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^294] SR, “Shattered Reality Topsite (SR-shattered.reality.1998.10.05.nfo),” Octo- ber 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^295] SS, “Silly Symphonies Topsite (SS-silly.symphonies.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^296] STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1999.08.27. nfo),” August 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^297] STH, “Stairway to Heaven Topsite (STH-stairway.to.heaven.1997.02.16. nfo),” February 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^298] SUN, “Sun Topsite (SUN-sun.1999.11.09.nfo),” November 9, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^299] SW, “Spice World Topsite (SW-spice.world.1998.06.21.nfo),” June 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^300] SYN, “Syn City Topsite (SYN-syncity.1998.08.27.nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^301] SYN, “Syn City Topsite (SYN-syncity.1996.11.04.nfo),” November 4, 1996, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^302] SZ, “Storm Zone Topsite (SZ-storm.zone.1999.09.17.nfo),” September 17, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^303] TAL, “Talinc Topsite (TAL-talinc.1999.12.28.nfo),” December 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^304] TAR, “The Ancient Ruins Topsite (TAR-the.ancient.ruins.1998.03.25.nfo),” March 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^305] TA, “The Armageddon Topsite (TA-the.armageddon.1998.08.05.nfo),” August 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^306] TBB, “The Black Box Topsite (TBB-the.black.box.1999.05.27.nfo),” May 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^307] TBF, “Tera-Bit-Fit Topsite (TBF-tera.bit.fit.1999.01.15.nfo),” January 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^308] TBL, “Turbulence Topsite (TBL-turbulence.1998.08.11.nfo),” August 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^309] TBP, “The Bottomless Pit Topsite (TBP-the.bottomless.pit.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^310] TBR, “The Boxer Rebellion Topsite (TBR-the.boxer.rebellion.1998.08.23. nfo),” August 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^311] TCD, “The Corner Deli Topsite (TCD-the.corner.deli.1998.01.31.nfo),” January 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^312] TC, “The Center Topsite (TC-the.center.1997.10.24.nfo),” October 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^313] TC, “Trash City Topsite (TC-trash.city.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^314] TC, “Trash City Topsite (TC-trash.city.1998.01.23.nfo),” January 23, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^315] TDA, “The Digital Afterlife Topsite Ring (TDA-the.digital.after- life.1997.01.20.nfo).”
+[^316] TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.17.nfo),” July 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^317] TDD, “The Dragons Den Topsite (TDD-the.dragons.den.1997.07.15.nfo),” July 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^318] TDH, “The Dawg House Topsite (TDH-the.dawg.house.1997.05.25.nfo),” May 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^319] TDH, “The Digital Harm Topsite (TDH-the.digital.harm.1997.10.25.nfo),” October 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^320] TDI, “The Desert Inn Topsite (TDI-the.desert.inn.1999.07.21.nfo),” July 21, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^321] TDL, “The Dead Land Topsite (TDL-the.dead.lands.1998.05.25.nfo),” May 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^322] TDM, “The Diamond Mine Topsite (TDM-the.diamond.mine.1997.01.10.nfo),” January 10, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^323] TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.1998.05.02.nfo),” May 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^324] TDP, “The Dawg Pound Topsite (TDP-the.dawg.pound.XXXX.XX.00. nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^325] TDP, “The Devil’s Pit Topsite (TDP-the.devils.pit.1999.01.07.nfo),” January 7, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^326] TDS, “The Dark Site Topsite (TDS-the.dark.site.1997.06.29.nfo),” June 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^327] TD, “The Dome Topsite (TD-the.dome.1998.08.31.nfo),” August 31, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^328] TDZ, “The Drop Zone Topsite (TDZ-the.drop.zone.1997.11.03.nfo),” November 3, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^329] TE3, “The Third Total Eclipse Topsite (TE3-total.eclipse.three.1999.07.09. nfo),” July 9, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^330] TEC, “The Electric Circus Topsite (TEC-the.electric.circus.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^331] TEL, “Trans Electric Light Topsite (TEL-trans.electronic.light.1997.07.16. nfo),” July 16, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^332] TEMP, “The Temple Topsite (TEMP-the.temple.1997.09.21.nfo),” September 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^333] TEN, “The Ether Net Topsite (TEN-the.ether.net.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^334] TE, “The Enterprise Topsite (TE-the.enterprise.1998.05.13.nfo),” May 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^335] TE, “Total Eclipse Topsite (TE-total.eclipse.1998.01.11.nfo),” January 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^336] TFR, “The Fried Rabbit Topsite (TFR-the.fried.rabbit.1998.09.09.nfo),” September 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^337] TF, “The Flash Topsite (TF-the.flash.1997.01.17.nfo),” January 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^338] TG, “The Gateway Topsite (TG-the.gateway.1999.01.10.nfo),” January 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^339] TG, “The Gateway Topsite (TG-the.gateway.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^340] TH, “The Haven Topsite (TH-the.haven.1998.08.30.nfo),” August 30, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^341] TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.24.nfo),” June 24, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^342] TK, “Tragic Kingdom Topsite (TK-tragic.kingdom.1997.06.06.nfo),” June 6, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^343] TLT, “The Toilet Topsite (TLT-the.toilet.1998.12.13.nfo),” December 13, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^344] TMS, “The Mother Superior Topsite (TMS-the.mother.superior.1999.02.13.nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^345] TM, “Terrible Mistake Topsite (TM-terrible.mistake.1999.02.13.nfo),” February 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^346] TM, “The Matrix Topsite (TM-the.matrix.1999.09.25.nfo),” September 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^347] TNB, “The Number of the Beast Topsite (TNB-the.number.of.the. beast.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
+[^348] TNF, “The New Forge Topsite (TNF-the.new.forge.1997.06.12.nfo),” June 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^349] TNL, “The Neverland Topsite (TNL-the.neverland.1999.02.12.nfo),” Febru- ary 12, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^350] TNL, “The Neverland Topsite (TNL-the.never.land.1999.04.14.nfo),” April 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^351] TNT, “The Nympho Temple Topsite (TNT-the.nympho.temple.1997.07.12. nfo),” July 12, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^352] TOS, “The Orion Syndicate Topsite (TOS-the.orion.syndicate.1999.03.29. nfo),” March 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^353] TO, “Technology Overload Topsite (TO-technology.overload.1998.02.25. nfo),” February 25, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^354] TO, “Technology Overload Topsite (TO-technology.overload.1998.02.10. nfo),” February 10, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^355] TOT, “Temple of Torture Topsite (TOT-temple.of.torture.1999.04.24.nfo),” April 24, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^356] TPH, “The Pharmacy Topsite (TPH-the.pharmacy.1998.07.27.nfo),” July 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^357] TP, “The Prophecy Topsite (TP-the.prophecy.1998.03.11.nfo),” March 11, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^358] TP, “The Prophecy Topsite (TP-the.prophecy.1997.08.01.nfo),” August 1, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^359] TP, “The Prophecy Topsite (TP-the.prophecy.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^360] TP, “The Pyramid Topsite (TP-the.pyramid.2000.04.28.nfo),” April 28, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^361] TP, “The Pyramid Topsite (TP-the.pyramid.1999.12.13.nfo),” December 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^362] TRM, “The Raging Monkey Topsite (TRM-the.raging.monkey.1997.09.18. nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^363] lester, “Which Ftpd Is Right for You?”
+[^364] TRS, “The Rising Sun Topsite (TRS-the.rising.sun.1998.01.18.nfo),” August 18, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^365] TRM, “The Rising Sun Topsite (TRS-the.rising.sun.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^366] TR, “The River Topsite (TR-the.river.1997.05.29.nfo),” May 29, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^367] TR, “The Rock Topsite (TR-the.rock.1999.03.13.nfo),” March 13, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^368] TSG, “The Sadistic Granddaughter Topsite (TSG-the.sadistic.granddaughter.1999.04.20.nfo),” April 20, 1999, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+[^369] TS, “The Site Topsite (TS-the.site.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^370] TS, “The Tombstone Topsite (TS-the.tombstone.1998.12.24.nfo),” Decem- ber 24, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^371] TTD, “The Toxic Dump Topsite (TTD-the.toxic.dump.1998.02.04.nfo),” February 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^372] TT, “Titty Twister Topsite (TT-titty.twister.1999.12.31.nfo),” December 31, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^373] TT, “Titty Twister Topsite (TT-titty.twister.1999.03.19.nfo),” March 19, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^374] TUR, “The Unknown Realm Topsite (TUR-the.unknown. realm.1998.09.16.nfo),” September 16, 1998, DeFacto2, warez.scene.nfo. collection.v1.0.24351.shroo.ms.zip.
+[^375] TVD, “The Void Topsite (TVD-the.void.XXXX.XX.00.nfo),” n.d., De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^376] TVP, “The Vanishing Point Topsite (TVP-the.vanishing.point.1998.09.15. nfo),” September 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^377] TV, “Tar Valon Topsite (TV-tar.valon.1998.09.28.nfo),” August 28, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^378] TV, “Terminal Velocity Topsite (TV-terminal.velocity.1999.01.29.nfo),” January 29, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^379] TWH, “The Wolves House Topsite (TWH-the.wolves.house.1999.12.30. nfo),” December 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^380] TWH, “The Wolves House Topsite (TWH-the.wolves.house.1998.02.15. nfo),” February 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^381] TWH, “The Wolves House Topsite (TWH-the.wolves.house.1997.03.21. nfo),” March 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^382] TWI, “Twilight Topsite (TWI-twilight.1999.12.02.nfo),” December 2, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^383] TWI, “Twilight Topsite (TWI-twilight.XXXX.XX.02.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^384] TWL, “The Waste Land Topsite (TWL-the.waste.land.1998.07.29.nfo),” July 29, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^385] TWL, “The Waste Land Topsite (TWL-the.waste.land.1997.05.22.nfo),” May 22, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^386] TX, “Terra X Topsite (TX-terra.x.1998.02.14.nfo),” February 14, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^387] UC, “Unhuman Creations Topsite (UC-unhuman.creations.1998.08.27. nfo),” August 27, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^388] UC, “United Centre Topsite (UC-united.centre.1998.08.21.nfo),” August 21, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^389] UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.1999.01.28. nfo),” January 28, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^390] UD, “Unconquered Dreams Topsite (UD-unconquered.dreams.XXXX. XX.01.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^391] ULS, “Unleashed Topsite (ULS-unleashed.1999.09.14.nfo),” September 14, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^392] ULS, “Unleashed Topsite (ULS-unleashed.1999.03.26.nfo),” March 26, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^393] UNV, “Universe Topsite (UNV-universe.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^394] UT, “Utwente Topsite (UT-utwente.2001.07.17.nfo),” July 17, 2001, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^395] UW, “Under World Topsite (UW-under.world.1999.05.06.nfo),” May 6, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^396] UW, “Under World Topsite (UW-under.world.1999.02.15.nfo),” February 15, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^397] V13, “Vault Thirteen Topsite (V13-vault.thirteen.1998.08.01.nfo),” August 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^398] VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.04.02.nfo),” April 2, 1998, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+[^399] VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1998.02.09.nfo),” February 9, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
+[^400] VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.06.06.nfo),” June 6, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+[^401] VDR, “Virtual Dimension Research Lake Topsite (VDR-vdr. lake.1997.05.16.nfo),” May 16, 1997, DeFacto2, warez.scene.nfo.collection. v1.0.24351.shroo.ms.zip.
+[^402] VF, “Vision Factory Topsite (VF-vision.factory.1999.03.18.nfo),” March 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^403] VI, “Violent Illusions Topsite (VI-violent.illusions.1999.09.18.nfo),” September 18, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^404] VI, “Violent Illusions Topsite (VI-violent.illusions.1999.06.11.nfo),” June 11, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^405] VL, “Vampyre’s Lair Topsite (VL-vampyres.lair.1997.10.21.nfo),” October 21, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^406] V, “Valhalla Topsite (V-valhalla.2000.07.17.nfo),” July 17, 2000, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^407] W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.11.07.nfo),” November 7, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^408] W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^409] W10, “Warp Factor Ten Topsite (W10-warp.factor.ten.1997.09.30. nfo),” September 30, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351. shroo.ms.zip.
+[^410] WD, “Wet Dreams Topsite (WD-wet.dreams.1999.05.27.nfo),” May 27, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^411] WD, “Wet Dreams Topsite (WD-wet.dreams.1999.04.25.nfo),” April 25, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^412] WFZ, “Warez Free Zone Topsite (WFZ-warez.free.zone.1999.07.10.nfo),” July 10, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^413] WH, “White House Topsite (WH-white.house.1998.09.09.nfo),” September 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^414] WH, “White House Topsite (WH-white.house.1998.03.15.nfo),” March 15, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^415] WL, “Wonder Land Topsite (WL-wonderland.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^416] WND, “The Windmill Topsite (WND-the.windmill.1997.06.19.nfo),” June 19, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^417] WOC, “World of Chaos Topsite (WOC-world.of.chaos.1998.07.05.nfo),” July 5, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^418] WOPR, “Wouldn’t You Prefer A Good Game of Chess? Topsite (WOPR- wopr.1998.08.14.nfo),” August 14, 1998, DeFacto2, warez.scene.nfo.collec- tion.v1.0.24351.shroo.ms.zip.
+[^419] WS, “Warez Sector Topsite (WS-warez.sector.1997.04.17.nfo),” April 17, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^420] WTC, “World Trade Center Topsite (WTC-world.trade.center.1998.07.07. nfo),” July 7, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo. ms.zip.
+[^421] WT, “Watch Tower Topsite (WT-watch.tower.1998.03.02.nfo),” March 2, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^422] WW, “Wild West Topsite (WW-wild.west.1998.09.04.nfo),” September 4, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^423] XF, “X Filez Topsite (XF-x.filez.1997.08.15.nfo),” August 15, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^424] XF, “X Filez Topsite (XF-x.filez.1997.07.25.nfo),” July 25, 1997, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^425] XNS, “Xenosis Topsite (XNS-xenosis.1998.06.10.nfo),” June 10, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^426] XNS, “Xenosis Topsite (XNS-xenosis.1998.05.18.nfo),” May 18, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^427] XQZ, “Xquizit Topsite (XQZ-xquizit.1999.07.24.nfo),” July 24, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^428] XZONE, “X Zone Topsite (XZONE-x.zone.1998.03.01.nfo),” March 1, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^429] XZONE, “X Zone Topsite (XZONE-x.zone.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^430] ZEUS, “Zeus Topsite (ZEUS-zeus.1998.11.20.nfo),” November 20, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^431] ZLA, “Zilla Topsite (ZLA-zilla.1999.06.30.nfo),” June 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^432] ZLA, “Zilla Topsite (ZLA-zilla.1998.08.09.nfo),” August 9, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^433] ZLA, “Zilla Topsite (ZLA-zilla.1999.02.17.nfo),” February 17, 1999, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^434] ZL, “Z Land Topsite (ZL-zland.1998.12.02.nfo),” December 2, 1998, De- Facto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
