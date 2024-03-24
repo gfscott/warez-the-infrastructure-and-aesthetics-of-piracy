@@ -41,12 +41,12 @@ Blizzard (BLIZ)[^38] | 2000AD, REVOLT, DEVOTiON | | Europe[^39] |
 Byte Me (BM)[^40] | 2000AD, CRC, iTR, PDM, KALiSTO | “T3”, “103GB+” | USA |
 Blood Pit (BP)[^41] | Havoc97, Tft, Goe | “T1”, “8Gb” “3 Online CD:s” “Offline Requesting” | | Zilch, Aardvack
 Bits Per Second (BPS)[^42] | | | | 
-Babylon Trading Post (BTS)[^43] | CRC, SYNICAL, EWA, W1W, KYLIN, ILL, LG, SWP | “Dual T1 Speed”, “18 Gigs Online” | USA | Vortech, ShagNasty, JeSsTeR, A1odor <br><br>**Hardware providers:** N.O.S., Fitz, R00K, ANON
+Babylon Trading Post (BTS)[^43] | CRC, SYNICAL, EWA, W1W, KYLIN, ILL, LG, SWP | “Dual T1 Speed”, “18 Gigs Online” | USA | Vortech, ShagNasty, JeSsTeR, A1odor <br /><br />**Hardware providers:** N.O.S., Fitz, R00K, ANON
 The Beggar’s Tomb (BT)[^44] | NATOsoft, zerawleets | “t1”, “13+gb” | | hammer, fo_twenny
 The Bull (BULL)[^45] | | | | 
 Camelot (CAM)[^46] | TBS, Digital Factory, HARLEM COURIER, COUNCIL, BLIZZARD COURIER, BACKLASH | | Germany[^47] | 
 Crawling Chaos (CC)[^48] | | | | YtsEJam
-Core Dump (CD)[^49] | RefLUX, MENTALiTY, SOdOM | “dUAL T1 SiTE” | | Thrill Kill, The White Tyger, iNGe, Bob226, dr ice <br><br>Operation Buccaneer bust and raid info claims that “Core Dump” was a “fed site”[^50]
+Core Dump (CD)[^49] | RefLUX, MENTALiTY, SOdOM | “dUAL T1 SiTE” | | Thrill Kill, The White Tyger, iNGe, Bob226, dr ice <br /><br />Operation Buccaneer bust and raid info claims that “Core Dump” was a “fed site”[^50]
 Channel One (CH1)[^51] | | | | 
 Cold Hell (CH)[^52] | UCF, MnMiSO, RiSCiSO, WLW, RTS, X-Force, Divine | “Two T2 Systems for a total of 70 gigs”, “20 gig for releases”, “50 gigs for ISO’s” | USA | Devestator, C0ld- bl00d, Symptom, AlphaKiller, Swank, Mason, Allanon, SirCyRo, Girdog, One-30
 Cove Land (CL) | DGT | “100/155ATM”, “9.1GB SCSI”, “PII 450” | Europe | Anonz, Br4t, \[insane\]
@@ -245,7 +245,7 @@ Secured Area (SA)[^273] | OVK, AOD | | Europe | JFM
 San Bruno Club (SBC)[^274] | PROPHECY, X-FORCE, CORPORATION, LAXiTY, ASiANPOWER | “50+ GigS”, “Flaming DS-3” | USA[^275] | SBC, dlThunder, warezone[^276]
 The Sandokan’s Dome (SDK)[^277] | AValoN, ORB, Zer0HouR, RoCkFoRcE, WTA, EsPRiT | “LiNuX 2.0.32”, “P200”, “64MB” [assumed RAM], “rFtpD v2.21B7”, “10 Gigz”, “10 Mbps” | | B0LET0, DVST8, SANDOKAN, STRACAZZ
 Solid Disruption (SD)[^278] | LEGACY, WEAPON, F4CG | | Europe | 
-Surface Defect (SD)[^279] | WARRIOR, ECG, ACE, CTW, Nexus | “T3”, “18 gigs” | | Hypocrisy, The_DoN, Culture <br>Site rules: <br>[S]ite [R]ules <br>[o1] Linfxp/Pftp/ Scripting are banned <br>[o2] No Foreign/ISO Uploads <br>[o3] No Bookware/Freeware/Shareware <br>[o4] Beta’s/Win- builds okay <br>[o5] Alpha’s are not allowed[^280]
+Surface Defect (SD)[^279] | WARRIOR, ECG, ACE, CTW, Nexus | “T3”, “18 gigs” | | Hypocrisy, The_DoN, Culture <br />Site rules: <br />[S]ite [R]ules <br />[o1] Linfxp/Pftp/ Scripting are banned <br />[o2] No Foreign/ISO Uploads <br />[o3] No Bookware/Freeware/Shareware <br />[o4] Beta’s/Win- builds okay <br />[o5] Alpha’s are not allowed[^280]
 Savage Exile (SE)[^281] | ILLICIT, FPS, OP CRITICAL ILLUSION | “TOO MUCH SPACE”, “FAST SITE” | | 
 Sonic Empire (SE)[^282] | ZYLON, ESTEEM, ASSAULT, PGC | | | 
 Silicon Exchange (SEX)[^283] | GCRACK, SCuM, TLT, RTN | | | 
@@ -276,7 +276,7 @@ The Boxer Rebellion (TBR)[^310] | Drink or Die, RTS | | |
 The Corner Deli (TCD)[^311] |  Thunder, Premiere, Global Crackers | | USA | 
 The Center (TC)[^312] | Backlash, GWA, Council | | Germany |
 Trash City (TC)[^313] | SHOCK, FRONTiER, EXECUIVE, iNTENSITY, TFA | | USA | Chrys, Dev, Gal, Rockz, Havok, CyberWar, AcidApple, X-Frog, Officedog[^314]
-The Digital Afterlife (TDA)[^315] | | Sitering. <br>FUBAR: USA, T3 <br>NetherWorld: Europe, T1+ <br>Da Crew, USA, T3 <br>Kinetics, USA, T1 <br>Gothom, USA, T1 <br>Abyss, USA, T1 <br>Bomb, 2xT1 <br>Hall of Gnana, USA, T1 <br>TGU, USA, T3 | USA, Europe | Crimson, Renfro, Doc_X, phoxphyre, icu812, M-80, Deadchane, Phenomeno, Bigjilm, Grinder_, Demented, Dav312, WildWendy, cyphen, Net^king, Statics, observer
+The Digital Afterlife (TDA)[^315] | | Sitering. <br />FUBAR: USA, T3 <br />NetherWorld: Europe, T1+ <br />Da Crew, USA, T3 <br />Kinetics, USA, T1 <br />Gothom, USA, T1 <br />Abyss, USA, T1 <br />Bomb, 2xT1 <br />Hall of Gnana, USA, T1 <br />TGU, USA, T3 | USA, Europe | Crimson, Renfro, Doc_X, phoxphyre, icu812, M-80, Deadchane, Phenomeno, Bigjilm, Grinder_, Demented, Dav312, WildWendy, cyphen, Net^king, Statics, observer
 The Dragons Den (TDD)[^316] | Millennium Courier, Eclipse Interactive | | USA | Daphantm, Seven, Rare<sup>2</sup>[^317]
 The Dawg House (TDH)[^318] | PHC, Dynamic, DST, HTG, EPI, Motiv8, FCC, FCN, TDA, Rapid | | USA | SKYDEMON, SHMO
 The Digital Harm (TDH)[^319] | SSC, LIQUID, SHOCK, ADDICTION, NZPD, THIEVES, RISE, UCU | | | neotericE
