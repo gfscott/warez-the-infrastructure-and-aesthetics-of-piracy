@@ -49,7 +49,7 @@ Crawling Chaos (CC)[^48] | | | | YtsEJam
 Core Dump (CD)[^49] | RefLUX, MENTALiTY, SOdOM | “dUAL T1 SiTE” | | Thrill Kill, The White Tyger, iNGe, Bob226, dr ice <br><br>Operation Buccaneer bust and raid info claims that “Core Dump” was a “fed site”[^50]
 Channel One (CH1)[^51] | | | | 
 Cold Hell (CH)[^52] | UCF, MnMiSO, RiSCiSO, WLW, RTS, X-Force, Divine | “Two T2 Systems for a total of 70 gigs”, “20 gig for releases”, “50 gigs for ISO’s” | USA | Devestator, C0ld- bl00d, Symptom, AlphaKiller, Swank, Mason, Allanon, SirCyRo, Girdog, One-30
-Cove Land (CL) | DGT | “100/155ATM”, “9.1GB SCSI”, “PII 450” | Europe | Anonz, Br4t, [insane]
+Cove Land (CL) | DGT | “100/155ATM”, “9.1GB SCSI”, “PII 450” | Europe | Anonz, Br4t, \[insane\]
 Cemetery Gates (CMG)[^53] | RiSE, MCG Courier, Thunder | “T1”, “8Gb”[^54] | | 
 Covert Operation (CO)[^55] | Razor 1911, Legends Never Die, TRSI, CRUX, Darkmoon Traders | | |
 Claws of Death (COD)[^56] | X-FoRCE, TRPS, Thunder, 2000AD | | USA[^57] | 
@@ -186,7 +186,7 @@ Niobium (NBM)[^201] | COUNCiL, ODDITY, CLASS, SHOCK, BACKLASH, BLiZZARD, OXYGEN 
 Nocturne (NCT)[^202] | DNG, MNM, RBS, SECT | “THE LATEST GLFTPD” | | dajoint, odz, fjalar, fft, sitez
 New Evil Incarnate (NEI)[^203] | fATE | “71 Gigs” | | Czar, Billy Bishop, Tornado
 Near Future 2000 (NF2K)[^204] | TMG, DAMN, VARiANCE, ARSENIC, PGC, HTG, SHOCK, ITN, AOD, COREPDA, RBSPDA, UCFPDA | “155Mb”, “100Gb” | Europe | 
-Near Future (NF)[205] | OGN, SHOCK, PROS, PHS, WPN, DSI | “glftpd”, “T3”, “36 Go”[^206] | Europe |
+Near Future (NF)[^205] | OGN, SHOCK, PROS, PHS, WPN, DSI | “glftpd”, “T3”, “36 Go”[^206] | Europe |
 Neon Genesis (NGS)[^207] | FBW, INTISO, KLN, SKL, AVN, RVL, BNW, GOH98, SCE, UCL, DED, NXS, NOVA, HI- JACK | “ADSL”, “27GIGS” | | 
 Nihil (NHL)[^208] | MOTiV8, SODOM, Hyrid | | USA | 
 Narkos (NKS)[^209] | | “13 Mbits link”, “Running FTP4ALL” | | Cxxxxxx, hxxX, Jxx, Flxxxx, Sxxxx, Bxxxxx, Jxxxxxx
@@ -221,7 +221,7 @@ Pelos Portal (PP)[^244] ESPRIT, EXPLOSION, INFECTED | | Europe |
 Piper’s Pit (PP)[^245] | CIFE, AODiSO, MAD, Silentchaos, Integrity | “Blazing Fast Cable Modem”, “Lots of Gigs Online” | | Piper, Fourth, Coba, NINE
 Pussy Power (PP)[^246] | | | | 
 Phoenix Rising (PR)[^247] | Carnage, PARADOX, CiFE, RTSiSO, LND, Warp, ViCE, BMI | | United Kingdom |
-Parasite (PS)[248] | PREMiERE, GCRACK, DiViNE, MiRACLE | | Europe  |
+Parasite (PS)[^248] | PREMiERE, GCRACK, DiViNE, MiRACLE | | Europe  |
 Progressive (PS)[^249] | | | | 
 Possible Reality (PR)[^250] | ITN, BLH, MiV, PDX, OMG, WLWMP3, MOD, CHR, NBD, NmE, STAR, reb00t, CNCISO, GWL, VSN, GME2000, VIRA | | |
 Prosperity (PST)[^251] | THUNDER, PINNACLE, BLIZZARD | | | 
@@ -229,7 +229,7 @@ Pzykotik Thoughts (PT)[^252] | | | |
 Pre Whore House (PWH)[^253] | ANGELS ON DRUGS, DiViNE, DRiNK OR DiE, PARA- DOX, DiGiTAL FACTORY, HERiTAGE, PHROZEN CREW, iNTENSiON, ZONE | | Europe | 
 Quadcon (QC)[^254] | RiSCiSO, Ranaissance, SHOCK, CoNCePT, RNG, GPF | “2 Separate T1 Systems”, “43gb Main/ ISO”, “7gb Release” | USA | Katman, GaL, BanDiDo, Koyote, Poo, CorrupT
 Quantum Reality (QR)[^255] | RiSE, CELEBRE | | | 
-Restricted Area (RA)[256] | AMBiSO, CERTiSO, iSOBELiX, DTD, MNMiSO, VCD-EUROPE | “3xT3”, “54GIGS” | Czech Republic | Suvivant, KloWn__, Toaster, Bill, KIDSSHoW, Mackaque
+Restricted Area (RA)[^256] | AMBiSO, CERTiSO, iSOBELiX, DTD, MNMiSO, VCD-EUROPE | “3xT3”, “54GIGS” | Czech Republic | Suvivant, KloWn__, Toaster, Bill, KIDSSHoW, Mackaque
 Rebellion Authority (RAY)[^257] | ESPRiT, BLiZZARD, PFT | | Europe |
 The Rebellion (RBL)[^258] | | | | 
 Rand0m Cha0s (RC)[^259] | O13, Motiv8, ORC, Corruption, Legendary, PCW | | USA |
