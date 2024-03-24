@@ -22,6 +22,7 @@ pandoc -o warez.epub \
   05-aesthetics.md \
   06-takedowns.md \
   07-conclusion.md \
+  appendix.md \
   bibliography.md \
   --reference-location=section \
   --file-scope
