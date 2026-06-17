@@ -4,7 +4,7 @@
 
 ✨ [**Download the latest version via the Releases tab**](https://github.com/gfscott/warez-the-infrastructure-and-aesthetics-of-piracy/releases)
 
-This repo contains the text files for my EPUB conversion of [_Warez: The Infrastructure and Aesthetics of Piracy_](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/), originally published by [punctum books](https://punctumbooks.com/) and re-released here, somewhat ironically, with the permission of the author.
+This repo contains the text files for my EPUB conversion of [_Warez: The Infrastructure and Aesthetics of Piracy_](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/), originally published by [punctum books](https://punctumbooks.com/) and re-released here, somewhat ironically, with [the permission of the author](https://github.com/gfscott/warez-the-infrastructure-and-aesthetics-of-piracy/issues/3).
 
 _Warez_, like nearly all of punctum’s books, was originally released as a free PDF, but I found that format difficult to read on my phone. Since it was released under a [CC BY-NC-SA 4.0 International](LICENSE) licence, I took the liberty of format-shifting the text. punctum books co-director Eileen Joy has previously indicated that [they’re cool with that](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/#comment-215720).
 
